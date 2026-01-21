@@ -16,6 +16,7 @@ export default function SideReportSection({
   reportData,
   report,
 }: SideReportSectionProps) {
+  const marketReport = reportData ?? report;
   return (
     <section className="flex flex-col gap-4 rounded-2xl border border-zinc-800 bg-zinc-900/60 p-6">
       {isReportLoading ? (
@@ -44,17 +45,17 @@ export default function SideReportSection({
           <div className="h-4 w-1/3 animate-pulse rounded bg-zinc-800" />
           <div className="h-28 w-full animate-pulse rounded bg-zinc-800" />
         </div>
-      ) : report ? (
+      ) : marketReport ? (
         <div className="rounded-xl border border-zinc-800 bg-zinc-950/60 p-4 text-sm text-zinc-300">
           <p className="font-semibold text-zinc-100">매출 비교</p>
-          {report.revenueSeries.currentYear.points.length === 0 ? (
+          {marketReport.revenueSeries.currentYear.points.length === 0 ? (
             <p className="mt-4 text-amber-500/80">
               {reportError || "매출이 확인되지 않습니다."}
             </p>
           ) : (
             <RevenueLineChart
-              currentYear={report.revenueSeries.currentYear}
-              previousYear={report.revenueSeries.previousYear}
+              currentYear={marketReport.revenueSeries.currentYear}
+              previousYear={marketReport.revenueSeries.previousYear}
             />
           )}
         </div>
@@ -67,16 +68,16 @@ export default function SideReportSection({
           <div className="h-4 w-5/6 animate-pulse rounded bg-zinc-800" />
           <div className="h-4 w-2/3 animate-pulse rounded bg-zinc-800" />
         </div>
-      ) : report ? (
+      ) : marketReport ? (
         <div className="rounded-xl border border-zinc-800 bg-zinc-950/60 p-4 text-sm text-zinc-300">
           <p className="font-semibold text-zinc-100">관련 뉴스</p>
-          {report.sources.length === 0 ? (
+          {marketReport.sources.length === 0 ? (
             <p className="mt-4 text-amber-500/80">
               {reportError || "관련종목의 최근 뉴스가 없습니다."}
             </p>
           ) : (
             <ul className="mt-2 space-y-2 text-zinc-400">
-              {report.sources.map((source: { url: string; title: string }) => (
+              {marketReport.sources.map((source: { url: string; title: string }) => (
                 <li key={source.url}>
                   <a
                     href={source.url}
