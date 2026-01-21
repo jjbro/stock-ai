@@ -422,7 +422,8 @@ async function callGemini(
     chartData: any[];
   },
   modelName: string,
-  retryCount = 1
+  retryCount = 1,
+  timeoutMs = 6000
 ) {
   const apiKey = process.env.GEMINI_API_KEY;
   if (!apiKey) throw new Error("GEMINI_API_KEY가 없습니다.");
@@ -472,6 +473,9 @@ ${
 
   const url = `https://generativelanguage.googleapis.com/v1beta/models/${modelName}:generateContent`;
 
+  const controller = new AbortController();
+  const timeoutId = setTimeout(() => controller.abort(), timeoutMs);
+
   try {
     const response = await fetch(`${url}?key=${apiKey}`, {
       method: "POST",
@@ -488,6 +492,7 @@ ${
           responseMimeType: "application/json",
         },
       }),
+      signal: controller.signal,
     });
 
     if (!response.ok) {
@@ -522,10 +527,15 @@ ${
       throw new Error("AI 응답 해석에 실패했습니다.");
     }
   } catch (error: any) {
+    if (error?.name === "AbortError") {
+      throw new Error(`Gemini API 오류 (timeout): ${modelName} 응답 시간 초과`);
+    }
     if (retryCount > 0 && !error.message.includes("429") && !error.message.includes("404")) {
-      return callGemini(params, modelName, retryCount - 1);
+      return callGemini(params, modelName, retryCount - 1, timeoutMs);
     }
     throw error;
+  } finally {
+    clearTimeout(timeoutId);
   }
 }
 
@@ -546,13 +556,27 @@ export async function getFullReport(rawSymbol: string) {
   let marketData = cache.get(marketCacheKey)?.data;
   if (!marketData || cache.get(marketCacheKey)!.expiresAt < Date.now()) {
     console.log(`[Market Data] Fetching fresh chart/revenue for ${ticker}...`);
+    const withTimeout = async <T,>(promise: Promise<T>, ms: number, fallback: T) => {
+      let timeoutId: ReturnType<typeof setTimeout> | null = null;
+      const timeoutPromise = new Promise<T>((resolve) => {
+        timeoutId = setTimeout(() => resolve(fallback), ms);
+      });
+      const result = await Promise.race([promise, timeoutPromise]);
+      if (timeoutId) clearTimeout(timeoutId);
+      return result;
+    };
+
     const [revenues, chartData, quote] = (await Promise.all([
       fetchQuarterlyRevenue(ticker, companyName),
-      fetchRecentChart(ticker),
-      yahooFinance.quote(ticker).catch((e) => {
-        console.warn(`[Quote API Failed] ${ticker}:`, e);
-        return null;
-      }),
+      withTimeout(fetchRecentChart(ticker), 2000, []),
+      withTimeout(
+        yahooFinance.quote(ticker).catch((e) => {
+          console.warn(`[Quote API Failed] ${ticker}:`, e);
+          return null;
+        }),
+        2000,
+        null
+      ),
     ])) as [any[], any[], any];
 
     const price = buildPriceFromQuote(quote, chartData);
@@ -587,7 +611,16 @@ export async function getFullReport(rawSymbol: string) {
   let newsData = cache.get(newsCacheKey)?.data;
   if (!newsData || cache.get(newsCacheKey)!.expiresAt < Date.now()) {
     console.log(`[News Data] Fetching fresh news for ${companyName}...`);
-    newsData = await fetchNews(companyName);
+    const withTimeout = async <T,>(promise: Promise<T>, ms: number, fallback: T) => {
+      let timeoutId: ReturnType<typeof setTimeout> | null = null;
+      const timeoutPromise = new Promise<T>((resolve) => {
+        timeoutId = setTimeout(() => resolve(fallback), ms);
+      });
+      const result = await Promise.race([promise, timeoutPromise]);
+      if (timeoutId) clearTimeout(timeoutId);
+      return result;
+    };
+    newsData = await withTimeout(fetchNews(companyName), 1500, []);
     if (newsData.length > 0) {
       cache.set(newsCacheKey, { expiresAt: newsExpiry, data: newsData });
     }
@@ -629,7 +662,7 @@ export async function getFullReport(rawSymbol: string) {
           yoy,
           news,
           chartData,
-        }, modelName);
+        }, modelName, 1, 6000);
         
         if (aiReport) {
           console.log(`[AI Success] ${modelName} worked for ${companyName}`);
@@ -640,6 +673,7 @@ export async function getFullReport(rawSymbol: string) {
       } catch (e: any) {
         console.warn(`[AI Failed] ${modelName}: ${e.message}`);
         errorReason = e.message;
+        if (e.message.includes("timeout")) break;
         if (e.message.includes("429") || e.message.includes("404")) continue;
         break;
       }
