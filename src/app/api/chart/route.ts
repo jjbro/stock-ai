@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-import type { CandlestickData } from "lightweight-charts";
+import type { CandlestickData, UTCTimestamp } from "lightweight-charts";
 import type { Timeframe } from "@/lib/mock";
 import { getKrxSymbols } from "@/lib/krx";
 import { fallbackSymbolDirectory } from "@/lib/symbols";
@@ -109,7 +109,9 @@ export async function GET(request: Request) {
 
       let candles: CandlestickData[] = result.quotes
         .map((quote: any) => ({
-          time: Math.floor(new Date(quote.date).getTime() / 1000),
+          time: Math.floor(
+            new Date(quote.date).getTime() / 1000
+          ) as UTCTimestamp,
           open: quote.open,
           high: quote.high,
           low: quote.low,
