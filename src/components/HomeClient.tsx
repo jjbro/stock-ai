@@ -46,6 +46,7 @@ const SideReportSection = dynamic(() => import("./home/SideReportSection"), {
 });
 
 const timeframes: Timeframe[] = ["1D", "1W", "1M", "1Y"];
+const CHART_CACHE_TTL_MS = 1000 * 60 * 5;
 
 function normalizeReportError(errorReason?: string | null) {
   if (!errorReason) return null;
@@ -93,9 +94,9 @@ export default function HomeClient({
     { symbol: string; name: string }[]
   >([]);
   const cachedReportsSigRef = useRef<string>("");
-  const chartCacheRef = useRef<Map<string, CandlestickData[]>>(
-    new Map()
-  );
+  const chartCacheRef = useRef<
+    Map<string, { candles: CandlestickData[]; updatedAt: number }>
+  >(new Map());
   const abortRef = useRef<AbortController | null>(null);
   const aiRetryAttemptedRef = useRef(false);
   const aiRetryTimeoutRef = useRef<number | null>(null);
@@ -194,7 +195,14 @@ export default function HomeClient({
         updatedAt: number;
         candles: CandlestickData[];
       };
-      return parsed.candles ?? null;
+      if (
+        !parsed.updatedAt ||
+        Date.now() - parsed.updatedAt > CHART_CACHE_TTL_MS
+      ) {
+        window.localStorage.removeItem(`chart:${key}`);
+        return null;
+      }
+      return parsed;
     } catch {
       return null;
     }
@@ -419,18 +427,21 @@ export default function HomeClient({
     const cacheKey = getCacheKey(resolvedQuery, timeframe);
     const cached = chartCacheRef.current.get(cacheKey);
 
-    if (cached) {
+    if (cached && Date.now() - cached.updatedAt <= CHART_CACHE_TTL_MS) {
       setSymbol(resolvedQuery);
       setDisplayName(resolvedName);
-      setChartData(cached);
+      setChartData(cached.candles);
       return;
     }
     const localCached = getLocalCache(cacheKey);
-    if (localCached) {
+    if (localCached?.candles) {
       setSymbol(resolvedQuery);
       setDisplayName(resolvedName);
-      setChartData(localCached);
-      chartCacheRef.current.set(cacheKey, localCached);
+      setChartData(localCached.candles);
+      chartCacheRef.current.set(cacheKey, {
+        candles: localCached.candles,
+        updatedAt: localCached.updatedAt,
+      });
       return;
     }
 
@@ -447,7 +458,10 @@ export default function HomeClient({
       setSymbol(payload.symbol);
       setDisplayName(resolvedName);
       setChartData(payload.candles);
-      chartCacheRef.current.set(cacheKey, payload.candles);
+      chartCacheRef.current.set(cacheKey, {
+        candles: payload.candles,
+        updatedAt: Date.now(),
+      });
       setLocalCache(cacheKey, payload.candles);
     } catch (error) {
       if ((error as Error).name !== "AbortError") {
@@ -485,9 +499,8 @@ export default function HomeClient({
     let active = true;
     const cacheKey = getCacheKey(symbol, timeframe);
     const cached = chartCacheRef.current.get(cacheKey);
-
-    if (cached) {
-      setChartData(cached);
+    if (cached && Date.now() - cached.updatedAt <= CHART_CACHE_TTL_MS) {
+      setChartData(cached.candles);
       setSearchError(null);
       setChartError(null);
       return () => {
@@ -495,11 +508,14 @@ export default function HomeClient({
       };
     }
     const localCached = getLocalCache(cacheKey);
-    if (localCached) {
-      setChartData(localCached);
+    if (localCached?.candles) {
+      setChartData(localCached.candles);
       setSearchError(null);
       setChartError(null);
-      chartCacheRef.current.set(cacheKey, localCached);
+      chartCacheRef.current.set(cacheKey, {
+        candles: localCached.candles,
+        updatedAt: localCached.updatedAt,
+      });
       return () => {
         active = false;
       };
@@ -520,7 +536,10 @@ export default function HomeClient({
         if (mappedName) {
           setDisplayName(cleanStockName(mappedName));
         }
-        chartCacheRef.current.set(cacheKey, payload.candles);
+        chartCacheRef.current.set(cacheKey, {
+          candles: payload.candles,
+          updatedAt: Date.now(),
+        });
         setLocalCache(cacheKey, payload.candles);
       })
       .catch((error: any) => {
