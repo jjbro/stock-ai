@@ -133,6 +133,15 @@ export async function GET(request: Request) {
         });
       }
     } catch (e) {
+      const message = e instanceof Error ? e.message : String(e);
+      const isRateLimited =
+        message.includes("429") || message.includes("Too Many Requests");
+      if (isRateLimited) {
+        return NextResponse.json(
+          { ok: false, message: "차트 데이터 서버 점검 중입니다." },
+          { status: 503 }
+        );
+      }
       console.error(`[Chart API Failed] ${symbol}:`, e);
       continue;
     }

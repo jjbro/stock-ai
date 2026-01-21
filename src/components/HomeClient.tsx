@@ -70,6 +70,7 @@ export default function HomeClient({
   const [inputValue, setInputValue] = useState("삼성전자");
   const [timeframe, setTimeframe] = useState<Timeframe>("1D");
   const [chartData, setChartData] = useState<CandlestickData[]>([]);
+  const [chartError, setChartError] = useState<string | null>(null);
   const [searchError, setSearchError] = useState<string | null>(null);
   const [isChartLoading, setIsChartLoading] = useState(false);
   const [symbolOptions, setSymbolOptions] = useState<SymbolEntry[]>(
@@ -222,7 +223,12 @@ export default function HomeClient({
     );
 
     if (!response.ok) {
-      throw new Error("not-found");
+      try {
+        const payload = (await response.json()) as { message?: string };
+        throw new Error(payload.message || "not-found");
+      } catch {
+        throw new Error("not-found");
+      }
     }
 
     const payload = (await response.json()) as {
@@ -483,6 +489,7 @@ export default function HomeClient({
     if (cached) {
       setChartData(cached);
       setSearchError(null);
+      setChartError(null);
       return () => {
         active = false;
       };
@@ -491,6 +498,7 @@ export default function HomeClient({
     if (localCached) {
       setChartData(localCached);
       setSearchError(null);
+      setChartError(null);
       chartCacheRef.current.set(cacheKey, localCached);
       return () => {
         active = false;
@@ -498,6 +506,7 @@ export default function HomeClient({
     }
 
     setIsChartLoading(true);
+    setChartError(null);
     abortRef.current?.abort();
     const controller = new AbortController();
     abortRef.current = controller;
@@ -506,6 +515,7 @@ export default function HomeClient({
         if (!active) return;
         setChartData(payload.candles);
         setSearchError(null);
+        setChartError(null);
         const mappedName = findNameByTicker(payload.symbol)?.name;
         if (mappedName) {
           setDisplayName(cleanStockName(mappedName));
@@ -513,12 +523,20 @@ export default function HomeClient({
         chartCacheRef.current.set(cacheKey, payload.candles);
         setLocalCache(cacheKey, payload.candles);
       })
-      .catch(() => {
+      .catch((error: any) => {
         if (!active) return;
-        if (isInitialLoadRef.current) {
-          setSearchError("종목을 검색하세요.");
+        const message =
+          typeof error?.message === "string" ? error.message : "not-found";
+        if (message === "not-found") {
+          if (isInitialLoadRef.current) {
+            setSearchError("종목을 검색하세요.");
+          } else {
+            setSearchError("종목을 찾을 수 없습니다.");
+          }
+          setChartError(null);
         } else {
-          setSearchError("종목을 찾을 수 없습니다.");
+          setSearchError(null);
+          setChartError(message);
         }
       })
       .finally(() => {
@@ -626,6 +644,7 @@ export default function HomeClient({
               onTimeframeChange={setTimeframe}
               chartData={chartData}
               isChartLoading={isChartLoading}
+            chartError={chartError}
               isReportLoading={isReportLoading}
               reportError={reportError}
               reportData={reportData}

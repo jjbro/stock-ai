@@ -16,6 +16,7 @@ type MainReportSectionProps = {
   onTimeframeChange: (value: Timeframe) => void;
   chartData: CandlestickData[];
   isChartLoading: boolean;
+  chartError: string | null;
   isReportLoading: boolean;
   reportError: string | null;
   reportData: any | null;
@@ -28,6 +29,7 @@ export default function MainReportSection({
   onTimeframeChange,
   chartData,
   isChartLoading,
+  chartError,
   isReportLoading,
   reportError,
   reportData,
@@ -60,6 +62,10 @@ export default function MainReportSection({
         {isChartLoading ? (
           <div className="absolute inset-0 flex items-center justify-center rounded-xl bg-zinc-950/60 text-sm text-zinc-300">
             차트 로딩 중...
+          </div>
+        ) : chartError ? (
+          <div className="absolute inset-0 flex items-center justify-center rounded-xl bg-zinc-950/60 text-sm text-amber-500/80">
+            {chartError}
           </div>
         ) : null}
       </div>

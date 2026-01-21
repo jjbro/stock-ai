@@ -131,7 +131,7 @@ export default function SearchSection({
           </div>
           <button
             onClick={onSearch}
-            className="h-11 cursor-pointer rounded-xl bg-zinc-100 px-5 text-sm font-semibold text-zinc-900"
+            className="h-11 self-start cursor-pointer rounded-xl bg-zinc-100 px-5 text-sm font-semibold text-zinc-900"
           >
             검색
           </button>
