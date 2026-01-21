@@ -857,7 +857,7 @@ export async function getAiReport(rawSymbol: string) {
           { companyName, qoq, yoy, news: newsData, chartData },
           modelName,
           1,
-          6000
+          15000
         );
         if (aiReport) {
           cache.set(aiCacheKey, { expiresAt: expiry, data: aiReport });
