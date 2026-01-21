@@ -101,20 +101,17 @@ export default function HomeClient({
   const aiRetryAttemptedRef = useRef(false);
   const aiRetryTimeoutRef = useRef<number | null>(null);
 
-  const reportQuery = useQuery({
-    queryKey: ["report", symbol],
+  const marketQuery = useQuery({
+    queryKey: ["market", symbol],
     queryFn: async ({ signal }) => {
       const response = await fetch(
-        `/api/report?symbol=${encodeURIComponent(symbol)}`,
+        `/api/market?symbol=${encodeURIComponent(symbol)}`,
         { signal }
       );
-      const data = await response.json();
-      // If we got an error that looks like an AI quota error, we still want to refetch later
-      // But for a successful report, we can keep it.
-      return data;
+      return response.json();
     },
     enabled: Boolean(symbol),
-    staleTime: 1000 * 60 * 5, // 5분간 클라이언트 캐시 유지
+    staleTime: 1000 * 60 * 5,
     gcTime: 1000 * 60 * 30,
     retry: 1,
     initialData:
@@ -123,12 +120,29 @@ export default function HomeClient({
         : undefined,
   });
 
-  const reportData =
-    (reportQuery.data as { report?: typeof mockReport } | undefined)?.report ??
+  const aiQuery = useQuery({
+    queryKey: ["ai", symbol],
+    queryFn: async ({ signal }) => {
+      const response = await fetch(
+        `/api/ai?symbol=${encodeURIComponent(symbol)}`,
+        { signal }
+      );
+      return response.json();
+    },
+    enabled: Boolean(symbol),
+    staleTime: 1000 * 60 * 5,
+    gcTime: 1000 * 60 * 30,
+    retry: 1,
+  });
+
+  const marketReport =
+    (marketQuery.data as { report?: typeof mockReport } | undefined)?.report ??
     null;
+  const aiReport =
+    (aiQuery.data as { report?: typeof mockReport } | undefined)?.report ?? null;
   const reportError = (() => {
-    if (reportQuery.isError) return "AI 진단을 생성하지 못했습니다.";
-    const payload = reportQuery.data as
+    if (aiQuery.isError) return "AI 진단을 생성하지 못했습니다.";
+    const payload = aiQuery.data as
       | { aiReady?: boolean; errorReason?: string | null }
       | undefined;
     if (payload && payload.aiReady === false) {
@@ -139,15 +153,31 @@ export default function HomeClient({
     }
     return null;
   })();
-  const isReportLoading = reportQuery.isFetching && !reportData;
+  const isReportLoading = aiQuery.isFetching && !aiReport;
+  const isMarketLoading = marketQuery.isFetching && !marketReport;
 
   const report = useMemo(() => {
-    if (!reportData) return null;
-    return {
-      ...reportData,
-      companyName: reportData.companyName || displayName || mockReport.companyName,
+    if (!marketReport && !aiReport) return null;
+    const merged = {
+      ...mockReport,
+      ...(marketReport ?? {}),
+      ...(aiReport ?? {}),
     };
-  }, [displayName, reportData]);
+    return {
+      ...merged,
+      companyName:
+        merged.companyName || displayName || mockReport.companyName,
+      news: {
+        ...(marketReport?.news ?? mockReport.news),
+        ...(aiReport?.news
+          ? {
+              sentiment: aiReport.news.sentiment,
+              score: aiReport.news.score,
+            }
+          : {}),
+      },
+    };
+  }, [aiReport, displayName, marketReport]);
 
   useEffect(() => {
     aiRetryAttemptedRef.current = false;
@@ -158,20 +188,21 @@ export default function HomeClient({
   }, [symbol]);
 
   useEffect(() => {
-    const payload = reportQuery.data as
+    const payload = aiQuery.data as
       | { aiReady?: boolean; errorReason?: string | null }
       | undefined;
     if (!payload || payload.aiReady !== false) return;
-    if (reportQuery.isFetching) return;
+    if (aiQuery.isFetching) return;
     if (aiRetryAttemptedRef.current) return;
 
     const normalized = normalizeReportError(payload.errorReason);
     if (normalized?.includes("AI 사용량 초과")) return;
     if (normalized?.includes("Gemini API 키")) return;
+    if (normalized?.includes("서버 응답이 지연")) return;
 
     aiRetryAttemptedRef.current = true;
     aiRetryTimeoutRef.current = window.setTimeout(() => {
-      reportQuery.refetch();
+      aiQuery.refetch();
     }, 2500);
 
     return () => {
@@ -180,7 +211,7 @@ export default function HomeClient({
         aiRetryTimeoutRef.current = null;
       }
     };
-  }, [reportQuery.data, reportQuery.isFetching, reportQuery.refetch]);
+  }, [aiQuery.data, aiQuery.isFetching, aiQuery.refetch]);
 
   function getCacheKey(query: string, frame: Timeframe) {
     return `${query}::${frame}`;
@@ -324,7 +355,7 @@ export default function HomeClient({
   useEffect(() => {
     const cache = queryClient.getQueryCache();
     const update = () => {
-      const entries = cache.findAll({ queryKey: ["report"] });
+      const entries = cache.findAll({ queryKey: ["ai"] });
       const next = entries
         .map((entry) => {
           const symbol = entry.queryKey[1] as string | undefined;
@@ -422,7 +453,8 @@ export default function HomeClient({
     setSearchError(null);
 
     // AI 리포트: 새로운 검색 시에는 기존 캐시를 비우고 스켈레톤을 보여주기 위해 resetQueries 사용
-    queryClient.resetQueries({ queryKey: ["report", resolvedQuery] });
+    queryClient.resetQueries({ queryKey: ["ai", resolvedQuery] });
+    queryClient.resetQueries({ queryKey: ["market", resolvedQuery] });
 
     const cacheKey = getCacheKey(resolvedQuery, timeframe);
     const cached = chartCacheRef.current.get(cacheKey);
@@ -663,18 +695,19 @@ export default function HomeClient({
               onTimeframeChange={setTimeframe}
               chartData={chartData}
               isChartLoading={isChartLoading}
-            chartError={chartError}
+              chartError={chartError}
               isReportLoading={isReportLoading}
               reportError={reportError}
-              reportData={reportData}
+              reportData={marketReport}
               report={report}
             />
           </div>
           <div className="min-w-0">
             <SideReportSection
               isReportLoading={isReportLoading}
+            isMarketLoading={isMarketLoading}
               reportError={reportError}
-              reportData={reportData}
+              reportData={marketReport}
               report={report}
             />
           </div>

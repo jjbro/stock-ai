@@ -30,6 +30,20 @@ const newsLimit = 6;
 // Server-side cache for getFullReport to avoid redundant AI calls and Yahoo Finance hits
 const REPORT_CACHE_KEY = "__full_report_cache__";
 
+async function withTimeout<T>(
+  promise: Promise<T>,
+  ms: number,
+  fallback: T
+): Promise<T> {
+  let timeoutId: ReturnType<typeof setTimeout> | null = null;
+  const timeoutPromise = new Promise<T>((resolve) => {
+    timeoutId = setTimeout(() => resolve(fallback), ms);
+  });
+  const result = await Promise.race([promise, timeoutPromise]);
+  if (timeoutId) clearTimeout(timeoutId);
+  return result;
+}
+
 function getNextExpiry() {
   const now = new Date();
   const kstOffset = 9 * 60; // KST is UTC+9
@@ -568,16 +582,6 @@ export async function getFullReport(rawSymbol: string) {
   let marketData = cache.get(marketCacheKey)?.data;
   if (!marketData || cache.get(marketCacheKey)!.expiresAt < Date.now()) {
     console.log(`[Market Data] Fetching fresh chart/revenue for ${ticker}...`);
-    const withTimeout = async <T,>(promise: Promise<T>, ms: number, fallback: T) => {
-      let timeoutId: ReturnType<typeof setTimeout> | null = null;
-      const timeoutPromise = new Promise<T>((resolve) => {
-        timeoutId = setTimeout(() => resolve(fallback), ms);
-      });
-      const result = await Promise.race([promise, timeoutPromise]);
-      if (timeoutId) clearTimeout(timeoutId);
-      return result;
-    };
-
     const [revenues, chartData, quote] = (await Promise.all([
       fetchQuarterlyRevenue(ticker, companyName),
       withTimeout(fetchRecentChart(ticker), 2000, []),
@@ -623,15 +627,6 @@ export async function getFullReport(rawSymbol: string) {
   let newsData = cache.get(newsCacheKey)?.data;
   if (!newsData || cache.get(newsCacheKey)!.expiresAt < Date.now()) {
     console.log(`[News Data] Fetching fresh news for ${companyName}...`);
-    const withTimeout = async <T,>(promise: Promise<T>, ms: number, fallback: T) => {
-      let timeoutId: ReturnType<typeof setTimeout> | null = null;
-      const timeoutPromise = new Promise<T>((resolve) => {
-        timeoutId = setTimeout(() => resolve(fallback), ms);
-      });
-      const result = await Promise.race([promise, timeoutPromise]);
-      if (timeoutId) clearTimeout(timeoutId);
-      return result;
-    };
     newsData = await withTimeout(fetchNews(companyName), 1500, []);
     if (newsData.length > 0) {
       cache.set(newsCacheKey, { expiresAt: newsExpiry, data: newsData });
@@ -737,6 +732,168 @@ export async function getFullReport(rawSymbol: string) {
     aiReady: Boolean(aiReport),
     errorReason,
     marketSignal,
+    generatedAt: new Date().toISOString(),
+  };
+}
+
+export async function getMarketReport(rawSymbol: string) {
+  const cache = getGlobalReportCache();
+  const resolved = await resolveCompany(rawSymbol);
+  const companyName = resolved.name || rawSymbol;
+  const ticker = resolved.ticker || rawSymbol;
+
+  const marketCacheKey = `market-data:${ticker}`;
+  const newsCacheKey = `news-data:${ticker}`;
+  const expiry = getNextExpiry();
+  const newsExpiry = Date.now() + 5 * 60 * 1000;
+
+  let marketData = cache.get(marketCacheKey)?.data;
+  if (!marketData || cache.get(marketCacheKey)!.expiresAt < Date.now()) {
+    const [revenues, chartData, quote] = (await Promise.all([
+      fetchQuarterlyRevenue(ticker, companyName),
+      withTimeout(fetchRecentChart(ticker), 2000, []),
+      withTimeout(
+        yahooFinance.quote(ticker).catch((e) => {
+          console.warn(`[Quote API Failed] ${ticker}:`, e);
+          return null;
+        }),
+        2000,
+        null
+      ),
+    ])) as [any[], any[], any];
+
+    const price = buildPriceFromQuote(quote, chartData);
+    marketData = { revenues, chartData, price };
+    if (revenues.length > 0) {
+      cache.set(marketCacheKey, { expiresAt: expiry, data: marketData });
+    }
+  }
+
+  if (!marketData?.price) {
+    const quote = await withTimeout(
+      yahooFinance.quote(ticker).catch((e) => {
+        console.warn(`[Quote API Failed] ${ticker}:`, e);
+        return null;
+      }),
+      2000,
+      null
+    );
+    const refreshedPrice = buildPriceFromQuote(quote, marketData?.chartData ?? []);
+    if (refreshedPrice) {
+      marketData = { ...marketData, price: refreshedPrice };
+      cache.set(marketCacheKey, { expiresAt: expiry, data: marketData });
+    }
+  }
+
+  let newsData = cache.get(newsCacheKey)?.data;
+  if (!newsData || cache.get(newsCacheKey)!.expiresAt < Date.now()) {
+    newsData = await withTimeout(fetchNews(companyName), 1500, []);
+    if (newsData.length > 0) {
+      cache.set(newsCacheKey, { expiresAt: newsExpiry, data: newsData });
+    }
+  }
+
+  const revenues = marketData?.revenues ?? [];
+  const price = marketData?.price ?? null;
+  const news = newsData ?? [];
+  const revenueSeries = buildRevenueSeries(revenues);
+  const annualRevenue = buildAnnualRevenue(revenues);
+
+  const report = {
+    ...mockReport,
+    companyName,
+    revenue: {
+      qoq: computeChange(revenues[0]?.revenue, revenues[1]?.revenue),
+      yoy: computeChange(revenues[0]?.revenue, revenues[4]?.revenue),
+    },
+    revenueSeries: revenueSeries ?? mockReport.revenueSeries,
+    annualRevenue: annualRevenue.length ? annualRevenue : mockReport.annualRevenue,
+    price,
+    news: {
+      sentiment: "neutral" as Sentiment,
+      score: 0.5,
+      highlights: news.slice(0, 3).map((item: any) => item.title),
+    },
+    sources: news,
+  };
+
+  return {
+    report,
+    generatedAt: new Date().toISOString(),
+  };
+}
+
+export async function getAiReport(rawSymbol: string) {
+  const cache = getGlobalReportCache();
+  const resolved = await resolveCompany(rawSymbol);
+  const companyName = resolved.name || rawSymbol;
+  const ticker = resolved.ticker || rawSymbol;
+
+  const marketCacheKey = `market-data:${ticker}`;
+  const newsCacheKey = `news-data:${ticker}`;
+  const aiCacheKey = `ai-report:${ticker}`;
+  const expiry = getNextExpiry();
+
+  const marketData = cache.get(marketCacheKey)?.data;
+  const newsData = cache.get(newsCacheKey)?.data ?? [];
+  const revenues = marketData?.revenues ?? [];
+  const chartData = marketData?.chartData ?? [];
+  const qoq = computeChange(revenues[0]?.revenue, revenues[1]?.revenue);
+  const yoy = computeChange(revenues[0]?.revenue, revenues[4]?.revenue);
+
+  let aiReport = cache.get(aiCacheKey)?.data as OpenAIReport | null;
+  let errorReason: string | null = null;
+  const aiCacheEntry = cache.get(aiCacheKey);
+  if (!aiReport || aiCacheEntry!.expiresAt < Date.now()) {
+    const fallbackModels = [
+      "gemini-2.5-flash",
+      "gemini-2.5-flash-light",
+      "gemini-3-flash-preview",
+      "gemini-3-flash",
+    ];
+    for (const modelName of fallbackModels) {
+      try {
+        aiReport = await callGemini(
+          { companyName, qoq, yoy, news: newsData, chartData },
+          modelName,
+          1,
+          6000
+        );
+        if (aiReport) {
+          cache.set(aiCacheKey, { expiresAt: expiry, data: aiReport });
+          errorReason = null;
+          break;
+        }
+      } catch (e: any) {
+        errorReason = e.message;
+        if (e.message.includes("timeout")) break;
+        if (e.message.includes("429") || e.message.includes("404")) continue;
+        break;
+      }
+    }
+  }
+
+  const report = {
+    companyName,
+    news: {
+      sentiment: aiReport?.sentiment ?? ("neutral" as Sentiment),
+      score: aiReport?.sentimentScore ?? 0.5,
+    },
+    summary: aiReport?.summary ?? "",
+    narrative: aiReport?.narrative ?? "",
+    technicalAnalysis:
+      aiReport?.technicalAnalysis ??
+      (errorReason?.includes("429")
+        ? "AI 사용량 초과입니다."
+        : "데이터가 부족하여 기술적 분석을 제공할 수 없습니다."),
+    pros: aiReport?.pros ?? [],
+    cons: aiReport?.cons ?? [],
+  };
+
+  return {
+    report,
+    aiReady: Boolean(aiReport),
+    errorReason,
     generatedAt: new Date().toISOString(),
   };
 }

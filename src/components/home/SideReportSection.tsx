@@ -3,6 +3,7 @@ import RevenueLineChart from "../RevenueLineChart";
 
 type SideReportSectionProps = {
   isReportLoading: boolean;
+  isMarketLoading: boolean;
   reportError: string | null;
   reportData: any | null;
   report: any | null;
@@ -10,6 +11,7 @@ type SideReportSectionProps = {
 
 export default function SideReportSection({
   isReportLoading,
+  isMarketLoading,
   reportError,
   reportData,
   report,
@@ -37,7 +39,7 @@ export default function SideReportSection({
         </>
       )}
 
-      {isReportLoading ? (
+      {isMarketLoading ? (
         <div className="space-y-3 rounded-xl border border-zinc-800 bg-zinc-950/60 p-4">
           <div className="h-4 w-1/3 animate-pulse rounded bg-zinc-800" />
           <div className="h-28 w-full animate-pulse rounded bg-zinc-800" />
@@ -58,7 +60,7 @@ export default function SideReportSection({
         </div>
       ) : null}
 
-      {isReportLoading ? (
+      {isMarketLoading ? (
         <div className="space-y-3 rounded-xl border border-zinc-800 bg-zinc-950/60 p-4">
           <div className="h-4 w-1/3 animate-pulse rounded bg-zinc-800" />
           <div className="h-4 w-full animate-pulse rounded bg-zinc-800" />
