@@ -29,6 +29,8 @@ const newsLimit = 6;
 
 // Server-side cache for getFullReport to avoid redundant AI calls and Yahoo Finance hits
 const REPORT_CACHE_KEY = "__full_report_cache__";
+const DART_REPORT_CACHE_TTL = 1000 * 60 * 60 * 24; // 24h
+const DART_REPORT_NULL_TTL = 1000 * 60 * 10; // 10m
 
 async function withTimeout<T>(
   promise: Promise<T>,
@@ -67,6 +69,20 @@ function getGlobalReportCache(): Map<string, { expiresAt: number; data: any }> {
     globalAny[REPORT_CACHE_KEY] = new Map();
   }
   return globalAny[REPORT_CACHE_KEY];
+}
+
+function getCachedValue<T>(key: string): T | null {
+  const cache = getGlobalReportCache();
+  const cached = cache.get(key);
+  if (cached && cached.expiresAt > Date.now()) {
+    return cached.data as T;
+  }
+  return null;
+}
+
+function setCachedValue(key: string, data: any, ttlMs: number) {
+  const cache = getGlobalReportCache();
+  cache.set(key, { expiresAt: Date.now() + ttlMs, data });
 }
 
 const DART_CORP_MAP_KEY = "__dart_corp_map__";
@@ -148,6 +164,11 @@ async function fetchDartRevenueForReport(
   reportCode: string,
   fsDiv: "CFS" | "OFS"
 ) {
+  const cacheKey = `dart:rev:${corpCode}:${year}:${reportCode}:${fsDiv}`;
+  const cached = getCachedValue<number | null>(cacheKey);
+  if (cached !== null) {
+    return cached;
+  }
   const params = new URLSearchParams({
     crtfc_key: apiKey,
     corp_code: corpCode,
@@ -169,16 +190,31 @@ async function fetchDartRevenueForReport(
   } finally {
     clearTimeout(timeoutId);
   }
-  if (!response.ok) return null;
+  if (!response.ok) {
+    setCachedValue(cacheKey, null, DART_REPORT_NULL_TTL);
+    return null;
+  }
   const payload = await response.json();
-  if (payload.status !== "000") return null;
+  if (payload.status !== "000") {
+    setCachedValue(cacheKey, null, DART_REPORT_NULL_TTL);
+    return null;
+  }
   const list = Array.isArray(payload.list) ? payload.list : [];
   const target =
     list.find((row: any) => row.account_nm === "매출액") ??
     list.find((row: any) => row.account_nm === "영업수익") ??
     list.find((row: any) => row.account_nm?.includes("매출"));
-  if (!target) return null;
-  return parseDartNumber(target.thstrm_amount);
+  if (!target) {
+    setCachedValue(cacheKey, null, DART_REPORT_NULL_TTL);
+    return null;
+  }
+  const value = parseDartNumber(target.thstrm_amount);
+  setCachedValue(
+    cacheKey,
+    value,
+    value === null ? DART_REPORT_NULL_TTL : DART_REPORT_CACHE_TTL
+  );
+  return value;
 }
 
 async function fetchDartQuarterlyRevenue(ticker: string, companyName?: string) {
@@ -197,13 +233,51 @@ async function fetchDartQuarterlyRevenue(ticker: string, companyName?: string) {
   ];
 
   const results: { date: number; revenue: number }[] = [];
+  const fsDivKey = `dart:fsDiv:${corpCode}`;
+  const preferredFsDiv =
+    getCachedValue<"CFS" | "OFS">(fsDivKey) ?? "CFS";
+
+  const fetchValue = async (year: number, reportCode: string) => {
+    const primary =
+      (await fetchDartRevenueForReport(
+        apiKey,
+        corpCode,
+        year,
+        reportCode,
+        preferredFsDiv
+      )) ?? null;
+    if (primary !== null) return { value: primary, fsDiv: preferredFsDiv };
+    const fallback = preferredFsDiv === "CFS" ? "OFS" : "CFS";
+    const secondary =
+      (await fetchDartRevenueForReport(
+        apiKey,
+        corpCode,
+        year,
+        reportCode,
+        fallback
+      )) ?? null;
+    if (secondary !== null) {
+      setCachedValue(fsDivKey, fallback, DART_REPORT_CACHE_TTL);
+      return { value: secondary, fsDiv: fallback };
+    }
+    return { value: null, fsDiv: preferredFsDiv };
+  };
+
   for (const year of years) {
+    const entries = await Promise.all(
+      reports.map(async (report) => {
+        const { value, fsDiv } = await fetchValue(year, report.code);
+        if (value !== null) {
+          setCachedValue(fsDivKey, fsDiv, DART_REPORT_CACHE_TTL);
+          return { label: report.label, value };
+        }
+        return null;
+      })
+    );
+
     const values: Record<string, number> = {};
-    for (const report of reports) {
-      const val =
-        (await fetchDartRevenueForReport(apiKey, corpCode, year, report.code, "CFS")) ??
-        (await fetchDartRevenueForReport(apiKey, corpCode, year, report.code, "OFS"));
-      if (val) values[report.label] = val;
+    for (const entry of entries) {
+      if (entry) values[entry.label] = entry.value;
     }
 
     const q1 = values.Q1 ?? 0;

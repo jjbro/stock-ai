@@ -5,6 +5,7 @@ type SideReportSectionProps = {
   isReportLoading: boolean;
   isMarketLoading: boolean;
   reportError: string | null;
+  marketError: string | null;
   reportData: any | null;
   report: any | null;
 };
@@ -13,6 +14,7 @@ export default function SideReportSection({
   isReportLoading,
   isMarketLoading,
   reportError,
+  marketError,
   reportData,
   report,
 }: SideReportSectionProps) {
@@ -59,6 +61,10 @@ export default function SideReportSection({
             />
           )}
         </div>
+      ) : marketError ? (
+        <div className="rounded-xl border border-zinc-800 bg-zinc-950/60 p-4 text-sm text-amber-500/80">
+          {marketError}
+        </div>
       ) : null}
 
       {isMarketLoading ? (
@@ -91,6 +97,10 @@ export default function SideReportSection({
               ))}
             </ul>
           )}
+        </div>
+      ) : marketError ? (
+        <div className="rounded-xl border border-zinc-800 bg-zinc-950/60 p-4 text-sm text-amber-500/80">
+          {marketError}
         </div>
       ) : null}
 

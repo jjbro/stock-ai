@@ -104,11 +104,26 @@ export default function HomeClient({
   const marketQuery = useQuery({
     queryKey: ["market", symbol],
     queryFn: async ({ signal }) => {
-      const response = await fetch(
-        `/api/market?symbol=${encodeURIComponent(symbol)}`,
-        { signal }
-      );
-      return response.json();
+      const controller = new AbortController();
+      if (signal) {
+        signal.addEventListener("abort", () => controller.abort(), {
+          once: true,
+        });
+      }
+      const timeoutId = window.setTimeout(() => controller.abort(), 5000);
+      try {
+        const response = await fetch(
+          `/api/market?symbol=${encodeURIComponent(symbol)}`,
+          { signal: controller.signal }
+        );
+        const payload = await response.json();
+        if (!response.ok) {
+          throw new Error(payload?.errorReason || "매출 데이터를 불러오지 못했습니다.");
+        }
+        return payload;
+      } finally {
+        window.clearTimeout(timeoutId);
+      }
     },
     enabled: Boolean(symbol),
     staleTime: 1000 * 60 * 5,
@@ -152,6 +167,11 @@ export default function HomeClient({
       );
     }
     return null;
+  })();
+  const marketError = (() => {
+    if (marketQuery.isError) return "매출/뉴스 데이터를 불러오지 못했습니다.";
+    const payload = marketQuery.data as { errorReason?: string } | undefined;
+    return payload?.errorReason ?? null;
   })();
   const isReportLoading = aiQuery.isFetching && !aiReport;
   const isMarketLoading = marketQuery.isFetching && !marketReport;
@@ -707,6 +727,7 @@ export default function HomeClient({
               isReportLoading={isReportLoading}
             isMarketLoading={isMarketLoading}
               reportError={reportError}
+            marketError={marketError}
               reportData={marketReport}
               report={report}
             />
