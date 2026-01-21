@@ -204,7 +204,6 @@ function parseCsvRow(line: string): string[] {
 }
 
 async function readLocalCsv(): Promise<SymbolEntry[] | null> {
-  if (process.env.NODE_ENV === "production") return null;
   const dataDir = path.join(process.cwd(), "data");
   const localPath = path.join(dataDir, "krx.csv");
   try {

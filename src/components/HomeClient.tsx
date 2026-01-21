@@ -73,7 +73,9 @@ export default function HomeClient({
   const [searchError, setSearchError] = useState<string | null>(null);
   const [isChartLoading, setIsChartLoading] = useState(false);
   const [symbolOptions, setSymbolOptions] = useState<SymbolEntry[]>(
-    initialSymbols || fallbackSymbolDirectory
+    initialSymbols && initialSymbols.length
+      ? initialSymbols
+      : fallbackSymbolDirectory
   );
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
   const dropdownRef = useRef<HTMLDivElement | null>(null);

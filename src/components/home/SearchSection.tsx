@@ -47,7 +47,7 @@ export default function SearchSection({
 }: SearchSectionProps) {
   return (
     <section className="flex flex-col gap-4 rounded-2xl border border-zinc-800 bg-zinc-900/60 p-6">
-      <div className="flex flex-col gap-3 md:flex-row md:items-center md:justify-between">
+      <div className="flex flex-col gap-3 md:flex-row md:items-start md:justify-between">
         <div className="flex flex-col gap-1">
           <p className="text-xs uppercase text-zinc-500">
             종목 정보
