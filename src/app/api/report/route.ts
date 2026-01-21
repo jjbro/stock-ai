@@ -18,7 +18,20 @@ export async function GET(request: Request) {
   }
 
   try {
-    const result = await getFullReport(rawSymbol);
+    const timeoutMs = 8000;
+    const timeoutPromise = new Promise<null>((resolve) =>
+      setTimeout(() => resolve(null), timeoutMs)
+    );
+    const result = await Promise.race([
+      getFullReport(rawSymbol),
+      timeoutPromise,
+    ]);
+    if (!result) {
+      return NextResponse.json(
+        { ok: false, errorReason: "서버 응답이 지연되고 있습니다." },
+        { status: 504 }
+      );
+    }
     
     // Transform error messages for consistency with existing UI
     let errorReason = null;

@@ -142,7 +142,19 @@ async function fetchDartRevenueForReport(
     fs_div: fsDiv,
   });
   const url = `https://opendart.fss.or.kr/api/fnlttSinglAcnt.json?${params.toString()}`;
-  const response = await fetch(url);
+  const controller = new AbortController();
+  const timeoutId = setTimeout(() => controller.abort(), 3000);
+  let response: Response;
+  try {
+    response = await fetch(url, { signal: controller.signal });
+  } catch (error: any) {
+    if (error?.name === "AbortError") {
+      return null;
+    }
+    throw error;
+  } finally {
+    clearTimeout(timeoutId);
+  }
   if (!response.ok) return null;
   const payload = await response.json();
   if (payload.status !== "000") return null;
