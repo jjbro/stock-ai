@@ -4,6 +4,8 @@ import {
   CandlestickSeries,
   createChart,
   type CandlestickData,
+  type IChartApi,
+  type ISeriesApi,
 } from "lightweight-charts";
 import { useEffect, useMemo, useRef } from "react";
 
@@ -13,10 +15,8 @@ type Props = {
 
 export default function PriceChart({ data }: Props) {
   const containerRef = useRef<HTMLDivElement | null>(null);
-  const seriesRef = useRef<ReturnType<
-    ReturnType<typeof createChart>["addCandlestickSeries"]
-  > | null>(null);
-  const chartRef = useRef<ReturnType<typeof createChart> | null>(null);
+  const seriesRef = useRef<ISeriesApi<"Candlestick"> | null>(null);
+  const chartRef = useRef<IChartApi | null>(null);
   const tooltipRef = useRef<HTMLDivElement | null>(null);
 
   const chartOptions = useMemo(
