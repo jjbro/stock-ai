@@ -766,9 +766,19 @@ export async function getAiReport(rawSymbol: string) {
   const marketData = cache.get(revenueCacheKey)?.data;
   const newsData = cache.get(newsCacheKey)?.data ?? [];
   const revenues = marketData?.revenues ?? [];
-  const chartData = marketData?.chartData ?? [];
+  let chartData = marketData?.chartData ?? [];
   const qoq = computeChange(revenues[0]?.revenue, revenues[1]?.revenue);
   const yoy = computeChange(revenues[0]?.revenue, revenues[4]?.revenue);
+
+  if (!chartData.length) {
+    chartData = await withTimeout(fetchRecentChart(ticker), 1500, []);
+    if (chartData.length && marketData) {
+      cache.set(revenueCacheKey, {
+        expiresAt: expiry,
+        data: { ...marketData, chartData },
+      });
+    }
+  }
 
   let aiReport = cache.get(aiCacheKey)?.data as OpenAIReport | null;
   let errorReason: string | null = null;
