@@ -3,7 +3,8 @@ import { fallbackSymbolDirectory, cleanStockName } from "./symbols";
 import { mockReport } from "./mock";
 import { getMarketSignal } from "./reporting";
 import YahooFinance from "yahoo-finance2";
-import AdmZip from "adm-zip";
+import fs from "fs";
+import path from "path";
 
 const yahooFinance = new YahooFinance();
 
@@ -29,8 +30,6 @@ const newsLimit = 6;
 
 // Server-side cache for getFullReport to avoid redundant AI calls and Yahoo Finance hits
 const REPORT_CACHE_KEY = "__full_report_cache__";
-const DART_REPORT_CACHE_TTL = 1000 * 60 * 60 * 24; // 24h
-const DART_REPORT_NULL_TTL = 1000 * 60 * 10; // 10m
 
 async function withTimeout<T>(
   promise: Promise<T>,
@@ -71,238 +70,40 @@ function getGlobalReportCache(): Map<string, { expiresAt: number; data: any }> {
   return globalAny[REPORT_CACHE_KEY];
 }
 
-function getCachedValue<T>(key: string): T | null {
-  const cache = getGlobalReportCache();
-  const cached = cache.get(key);
-  if (cached && cached.expiresAt > Date.now()) {
-    return cached.data as T;
-  }
-  return null;
-}
 
-function setCachedValue(key: string, data: any, ttlMs: number) {
-  const cache = getGlobalReportCache();
-  cache.set(key, { expiresAt: Date.now() + ttlMs, data });
-}
 
-const DART_CORP_MAP_KEY = "__dart_corp_map__";
-const DART_CORP_MAP_TTL = 1000 * 60 * 60 * 24; // 24h
 
-async function getDartCorpCodeMap(apiKey: string) {
-  const cache = getGlobalReportCache();
-  const cached = cache.get(DART_CORP_MAP_KEY);
-  if (cached && cached.expiresAt > Date.now()) {
-    return cached.data as {
-      stockMap: Map<string, string>;
-      nameMap: Map<string, string>;
-    };
-  }
 
-  const url = `https://opendart.fss.or.kr/api/corpCode.xml?crtfc_key=${apiKey}`;
-  const response = await fetch(url);
-  if (!response.ok) {
-    throw new Error(`DART corpCode fetch failed (${response.status})`);
-  }
-  const buffer = Buffer.from(await response.arrayBuffer());
-  const zip = new AdmZip(buffer);
-  const entry = zip.getEntry("CORPCODE.xml");
-  if (!entry) {
-    throw new Error("DART CORPCODE.xml not found in zip");
-  }
-  const xml = entry.getData().toString("utf8");
-  const stockMap = new Map<string, string>();
-  const nameMap = new Map<string, string>();
-  const matches = xml.matchAll(/<list>([\s\S]*?)<\/list>/g);
-  for (const [, block] of matches) {
-    const corpCode = block.match(/<corp_code>(.*?)<\/corp_code>/)?.[1]?.trim();
-    const stockCode = block.match(/<stock_code>(.*?)<\/stock_code>/)?.[1]?.trim();
-    const corpName = block.match(/<corp_name>(.*?)<\/corp_name>/)?.[1]?.trim();
-    if (corpCode && stockCode && /^\d{6}$/.test(stockCode)) {
-      stockMap.set(stockCode, corpCode);
-    }
-    if (corpCode && corpName) {
-      nameMap.set(cleanStockName(corpName).toLowerCase(), corpCode);
-    }
-  }
-  cache.set(DART_CORP_MAP_KEY, {
-    expiresAt: Date.now() + DART_CORP_MAP_TTL,
-    data: { stockMap, nameMap },
-  });
-  return { stockMap, nameMap };
-}
+// 로컬 JSON 파일에서 매출액 데이터 로드
+let revenueDataCache: Record<string, any> | null = null;
 
-async function getDartCorpCode(
-  apiKey: string,
-  ticker: string,
-  companyName?: string
-) {
-  const { stockMap, nameMap } = await getDartCorpCodeMap(apiKey);
-  const stockCode = ticker.split(".")[0];
-  if (/^\d{6}$/.test(stockCode)) {
-    const code = stockMap.get(stockCode);
-    if (code) return code;
-  }
-  if (companyName) {
-    const normalized = cleanStockName(companyName).toLowerCase();
-    return nameMap.get(normalized) ?? null;
-  }
-  return null;
-}
-
-function parseDartNumber(value: string | null | undefined) {
-  if (!value) return 0;
-  const cleaned = value.replace(/,/g, "").trim();
-  if (!cleaned || cleaned === "-" || cleaned === "0") return 0;
-  const num = Number(cleaned);
-  return Number.isFinite(num) ? num : 0;
-}
-
-async function fetchDartRevenueForReport(
-  apiKey: string,
-  corpCode: string,
-  year: number,
-  reportCode: string,
-  fsDiv: "CFS" | "OFS"
-) {
-  const cacheKey = `dart:rev:${corpCode}:${year}:${reportCode}:${fsDiv}`;
-  const cached = getCachedValue<number | null>(cacheKey);
-  if (cached !== null) {
-    return cached;
-  }
-  const params = new URLSearchParams({
-    crtfc_key: apiKey,
-    corp_code: corpCode,
-    bsns_year: String(year),
-    reprt_code: reportCode,
-    fs_div: fsDiv,
-  });
-  const url = `https://opendart.fss.or.kr/api/fnlttSinglAcnt.json?${params.toString()}`;
-  const controller = new AbortController();
-  const timeoutId = setTimeout(() => controller.abort(), 3000);
-  let response: Response;
+function loadRevenueData(): Record<string, any> | null {
+  if (revenueDataCache) return revenueDataCache;
+  
   try {
-    response = await fetch(url, { signal: controller.signal });
-  } catch (error: any) {
-    if (error?.name === "AbortError") {
-      return null;
-    }
-    throw error;
-  } finally {
-    clearTimeout(timeoutId);
-  }
-  if (!response.ok) {
-    setCachedValue(cacheKey, null, DART_REPORT_NULL_TTL);
+    const dataPath = path.join(process.cwd(), "data", "revenue-data.json");
+    const fileContent = fs.readFileSync(dataPath, "utf8");
+    revenueDataCache = JSON.parse(fileContent);
+    return revenueDataCache;
+  } catch (error) {
+    console.warn("[Revenue Data] Failed to load revenue-data.json:", error);
     return null;
   }
-  const payload = await response.json();
-  if (payload.status !== "000") {
-    setCachedValue(cacheKey, null, DART_REPORT_NULL_TTL);
-    return null;
-  }
-  const list = Array.isArray(payload.list) ? payload.list : [];
-  const target =
-    list.find((row: any) => row.account_nm === "매출액") ??
-    list.find((row: any) => row.account_nm === "영업수익") ??
-    list.find((row: any) => row.account_nm?.includes("매출"));
-  if (!target) {
-    setCachedValue(cacheKey, null, DART_REPORT_NULL_TTL);
-    return null;
-  }
-  const value = parseDartNumber(target.thstrm_amount);
-  setCachedValue(
-    cacheKey,
-    value,
-    value === null ? DART_REPORT_NULL_TTL : DART_REPORT_CACHE_TTL
-  );
-  return value;
 }
 
-async function fetchDartQuarterlyRevenue(ticker: string, companyName?: string) {
-  const apiKey = process.env.DART_API_KEY;
-  if (!apiKey) return [];
-  const corpCode = await getDartCorpCode(apiKey, ticker, companyName);
-  if (!corpCode) return [];
-
-  const now = new Date();
-  const years = [now.getFullYear(), now.getFullYear() - 1];
-  const reports = [
-    { code: "11013", label: "Q1" },
-    { code: "11012", label: "H1" },
-    { code: "11014", label: "Q3" },
-    { code: "11011", label: "FY" },
-  ];
-
-  const results: { date: number; revenue: number }[] = [];
-  const fsDivKey = `dart:fsDiv:${corpCode}`;
-  const preferredFsDiv =
-    getCachedValue<"CFS" | "OFS">(fsDivKey) ?? "CFS";
-
-  const fetchValue = async (year: number, reportCode: string) => {
-    const primary =
-      (await fetchDartRevenueForReport(
-        apiKey,
-        corpCode,
-        year,
-        reportCode,
-        preferredFsDiv
-      )) ?? null;
-    if (primary !== null) return { value: primary, fsDiv: preferredFsDiv };
-    const fallback = preferredFsDiv === "CFS" ? "OFS" : "CFS";
-    const secondary =
-      (await fetchDartRevenueForReport(
-        apiKey,
-        corpCode,
-        year,
-        reportCode,
-        fallback
-      )) ?? null;
-    if (secondary !== null) {
-      setCachedValue(fsDivKey, fallback, DART_REPORT_CACHE_TTL);
-      return { value: secondary, fsDiv: fallback };
-    }
-    return { value: null, fsDiv: preferredFsDiv };
-  };
-
-  for (const year of years) {
-    const entries = await Promise.all(
-      reports.map(async (report) => {
-        const { value, fsDiv } = await fetchValue(year, report.code);
-        if (value !== null) {
-          setCachedValue(fsDivKey, fsDiv, DART_REPORT_CACHE_TTL);
-          return { label: report.label, value };
-        }
-        return null;
-      })
-    );
-
-    const values: Record<string, number> = {};
-    for (const entry of entries) {
-      if (entry) values[entry.label] = entry.value;
-    }
-
-    const q1 = values.Q1 ?? 0;
-    const h1 = values.H1 ?? 0;
-    const q3 = values.Q3 ?? 0;
-    const fy = values.FY ?? 0;
-
-    const q2 = h1 && q1 ? h1 - q1 : 0;
-    const q3Quarter = q3 && h1 ? q3 - h1 : 0;
-    const q4 = fy && q3 ? fy - q3 : 0;
-
-    const toDate = (month: number, day: number) =>
-      Math.floor(Date.UTC(year, month - 1, day) / 1000);
-
-    if (q1) results.push({ date: toDate(3, 31), revenue: q1 / 100000000 });
-    if (q2) results.push({ date: toDate(6, 30), revenue: q2 / 100000000 });
-    if (q3Quarter) results.push({ date: toDate(9, 30), revenue: q3Quarter / 100000000 });
-    if (q4) results.push({ date: toDate(12, 31), revenue: q4 / 100000000 });
-  }
-
-  return results
-    .filter((item) => item.date && item.revenue)
-    .sort((a, b) => b.date - a.date)
-    .slice(0, 4);
+// JSON 파일에서 매출액 조회
+function getRevenueFromJson(corpCode: string, year: number, quarter: "Q1" | "Q2" | "Q3" | "Q4" | "H1" | "FY"): number | null {
+  const data = loadRevenueData();
+  if (!data || !data[corpCode]) return null;
+  
+  const yearData = data[corpCode].revenue?.[String(year)];
+  if (!yearData) return null;
+  
+  const value = yearData[quarter];
+  return value !== null && value !== undefined ? value : null;
 }
+
+
 
 function normalizeSymbol(raw: string) {
   const trimmed = raw.trim();
@@ -448,7 +249,7 @@ async function fetchNews(companyName: string): Promise<NewsItem[]> {
   return news;
 }
 
-async function fetchQuarterlyRevenue(ticker: string, companyName: string) {
+async function fetchQuarterlyRevenue(ticker: string, _companyName: string) {
   const cache = getGlobalReportCache();
   const cacheKey = `raw-revenue:${ticker}`;
   const cached = cache.get(cacheKey);
@@ -457,18 +258,36 @@ async function fetchQuarterlyRevenue(ticker: string, companyName: string) {
     return cached.data;
   }
 
-  // DART only
-  try {
-    const data = await fetchDartQuarterlyRevenue(ticker, companyName);
-    if (data.length > 0) {
-      cache.set(cacheKey, { expiresAt: getNextExpiry(), data });
-      return data;
-    }
-  } catch (e) {
-    console.warn(`[DART Revenue Failed] ${ticker}:`, e);
+  const stockCode = ticker.split(".")[0];
+  if (!/^\d{6}$/.test(stockCode)) return [];
+
+  const now = new Date();
+  const years = [now.getFullYear(), now.getFullYear() - 1];
+  const results: { date: number; revenue: number }[] = [];
+
+  for (const year of years) {
+    const q1 = getRevenueFromJson(stockCode, year, "Q1");
+    const q2 = getRevenueFromJson(stockCode, year, "Q2");
+    const q3 = getRevenueFromJson(stockCode, year, "Q3");
+    const q4 = getRevenueFromJson(stockCode, year, "Q4");
+
+    const toDate = (month: number, day: number) =>
+      Math.floor(Date.UTC(year, month - 1, day) / 1000);
+
+    if (q1) results.push({ date: toDate(3, 31), revenue: q1 / 100000000 });
+    if (q2) results.push({ date: toDate(6, 30), revenue: q2 / 100000000 });
+    if (q3) results.push({ date: toDate(9, 30), revenue: q3 / 100000000 });
+    if (q4) results.push({ date: toDate(12, 31), revenue: q4 / 100000000 });
   }
 
-  return []; 
+  if (results.length > 0) {
+    cache.set(cacheKey, { expiresAt: getNextExpiry(), data: results });
+  }
+
+  return results
+    .filter((item) => item.date && item.revenue)
+    .sort((a, b) => b.date - a.date)
+    .slice(0, 4);
 }
 
 function getChartPeriod1(range: "3mo" | "1y" | "10y") {
@@ -646,15 +465,15 @@ export async function getFullReport(rawSymbol: string) {
   const ticker = resolved.ticker || rawSymbol;
   console.log(`[Report] Requested: ${rawSymbol} -> ${ticker} (${companyName})`);
 
-  const marketCacheKey = `market-data:${ticker}`;
+  const revenueCacheKey = `revenue-data:${ticker}`;
   const newsCacheKey = `news-data:${ticker}`;
   const aiCacheKey = `ai-report:${ticker}`;
   const expiry = getNextExpiry();
   const newsExpiry = Date.now() + 5 * 60 * 1000; // 5분 캐시
 
-  // 1. 시장 데이터(매출, 차트) 가져오기 (캐시 우선)
-  let marketData = cache.get(marketCacheKey)?.data;
-  if (!marketData || cache.get(marketCacheKey)!.expiresAt < Date.now()) {
+  // 1. 매출/가격 데이터(차트 포함) 가져오기 (캐시 우선)
+  let marketData = cache.get(revenueCacheKey)?.data;
+  if (!marketData || cache.get(revenueCacheKey)!.expiresAt < Date.now()) {
     console.log(`[Market Data] Fetching fresh chart/revenue for ${ticker}...`);
     const [revenues, chartData, quote] = (await Promise.all([
       fetchQuarterlyRevenue(ticker, companyName),
@@ -679,7 +498,7 @@ export async function getFullReport(rawSymbol: string) {
     
     // 매출 데이터가 정상적일 때만 시장 데이터 캐싱
     if (revenues.length > 0) {
-      cache.set(marketCacheKey, { expiresAt: expiry, data: marketData });
+      cache.set(revenueCacheKey, { expiresAt: expiry, data: marketData });
     }
   } else {
     console.log(`[Market Data] Cache Hit for ${ticker}`);
@@ -693,7 +512,7 @@ export async function getFullReport(rawSymbol: string) {
     const refreshedPrice = buildPriceFromQuote(quote, marketData?.chartData ?? []);
     if (refreshedPrice) {
       marketData = { ...marketData, price: refreshedPrice };
-      cache.set(marketCacheKey, { expiresAt: expiry, data: marketData });
+      cache.set(revenueCacheKey, { expiresAt: expiry, data: marketData });
     }
   }
 
@@ -810,19 +629,17 @@ export async function getFullReport(rawSymbol: string) {
   };
 }
 
-export async function getMarketReport(rawSymbol: string) {
+export async function getRevenueReport(rawSymbol: string) {
   const cache = getGlobalReportCache();
   const resolved = await resolveCompany(rawSymbol);
   const companyName = resolved.name || rawSymbol;
   const ticker = resolved.ticker || rawSymbol;
 
-  const marketCacheKey = `market-data:${ticker}`;
-  const newsCacheKey = `news-data:${ticker}`;
+  const revenueCacheKey = `revenue-data:${ticker}`;
   const expiry = getNextExpiry();
-  const newsExpiry = Date.now() + 5 * 60 * 1000;
 
-  let marketData = cache.get(marketCacheKey)?.data;
-  if (!marketData || cache.get(marketCacheKey)!.expiresAt < Date.now()) {
+  let marketData = cache.get(revenueCacheKey)?.data;
+  if (!marketData || cache.get(revenueCacheKey)!.expiresAt < Date.now()) {
     const [revenues, chartData, quote] = (await Promise.all([
       fetchQuarterlyRevenue(ticker, companyName),
       withTimeout(fetchRecentChart(ticker), 2000, []),
@@ -839,7 +656,7 @@ export async function getMarketReport(rawSymbol: string) {
     const price = buildPriceFromQuote(quote, chartData);
     marketData = { revenues, chartData, price };
     if (revenues.length > 0) {
-      cache.set(marketCacheKey, { expiresAt: expiry, data: marketData });
+      cache.set(revenueCacheKey, { expiresAt: expiry, data: marketData });
     }
   }
 
@@ -855,21 +672,12 @@ export async function getMarketReport(rawSymbol: string) {
     const refreshedPrice = buildPriceFromQuote(quote, marketData?.chartData ?? []);
     if (refreshedPrice) {
       marketData = { ...marketData, price: refreshedPrice };
-      cache.set(marketCacheKey, { expiresAt: expiry, data: marketData });
-    }
-  }
-
-  let newsData = cache.get(newsCacheKey)?.data;
-  if (!newsData || cache.get(newsCacheKey)!.expiresAt < Date.now()) {
-    newsData = await withTimeout(fetchNews(companyName), 1500, []);
-    if (newsData.length > 0) {
-      cache.set(newsCacheKey, { expiresAt: newsExpiry, data: newsData });
+      cache.set(revenueCacheKey, { expiresAt: expiry, data: marketData });
     }
   }
 
   const revenues = marketData?.revenues ?? [];
   const price = marketData?.price ?? null;
-  const news = newsData ?? [];
   const revenueSeries = buildRevenueSeries(revenues);
   const annualRevenue = buildAnnualRevenue(revenues);
 
@@ -883,6 +691,35 @@ export async function getMarketReport(rawSymbol: string) {
     revenueSeries: revenueSeries ?? mockReport.revenueSeries,
     annualRevenue: annualRevenue.length ? annualRevenue : mockReport.annualRevenue,
     price,
+  };
+
+  return {
+    report,
+    generatedAt: new Date().toISOString(),
+  };
+}
+
+export async function getNewsReport(rawSymbol: string) {
+  const cache = getGlobalReportCache();
+  const resolved = await resolveCompany(rawSymbol);
+  const companyName = resolved.name || rawSymbol;
+  const ticker = resolved.ticker || rawSymbol;
+
+  const newsCacheKey = `news-data:${ticker}`;
+  const newsExpiry = Date.now() + 5 * 60 * 1000;
+
+  let newsData = cache.get(newsCacheKey)?.data;
+  if (!newsData || cache.get(newsCacheKey)!.expiresAt < Date.now()) {
+    newsData = await withTimeout(fetchNews(companyName), 1500, []);
+    if (newsData.length > 0) {
+      cache.set(newsCacheKey, { expiresAt: newsExpiry, data: newsData });
+    }
+  }
+
+  const news = newsData ?? [];
+  const report = {
+    ...mockReport,
+    companyName,
     news: {
       sentiment: "neutral" as Sentiment,
       score: 0.5,
@@ -897,18 +734,36 @@ export async function getMarketReport(rawSymbol: string) {
   };
 }
 
+export async function getMarketReport(rawSymbol: string) {
+  const [revenueResult, newsResult] = await Promise.all([
+    getRevenueReport(rawSymbol),
+    getNewsReport(rawSymbol),
+  ]);
+
+  const report = {
+    ...mockReport,
+    ...(revenueResult.report ?? {}),
+    ...(newsResult.report ?? {}),
+  };
+
+  return {
+    report,
+    generatedAt: new Date().toISOString(),
+  };
+}
+
 export async function getAiReport(rawSymbol: string) {
   const cache = getGlobalReportCache();
   const resolved = await resolveCompany(rawSymbol);
   const companyName = resolved.name || rawSymbol;
   const ticker = resolved.ticker || rawSymbol;
 
-  const marketCacheKey = `market-data:${ticker}`;
+  const revenueCacheKey = `revenue-data:${ticker}`;
   const newsCacheKey = `news-data:${ticker}`;
   const aiCacheKey = `ai-report:${ticker}`;
   const expiry = getNextExpiry();
 
-  const marketData = cache.get(marketCacheKey)?.data;
+  const marketData = cache.get(revenueCacheKey)?.data;
   const newsData = cache.get(newsCacheKey)?.data ?? [];
   const revenues = marketData?.revenues ?? [];
   const chartData = marketData?.chartData ?? [];

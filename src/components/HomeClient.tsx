@@ -101,8 +101,8 @@ export default function HomeClient({
   const aiRetryAttemptedRef = useRef(false);
   const aiRetryTimeoutRef = useRef<number | null>(null);
 
-  const marketQuery = useQuery({
-    queryKey: ["market", symbol],
+  const revenueQuery = useQuery({
+    queryKey: ["revenue", symbol],
     queryFn: async ({ signal }) => {
       const controller = new AbortController();
       if (signal) {
@@ -113,7 +113,7 @@ export default function HomeClient({
       const timeoutId = window.setTimeout(() => controller.abort(), 5000);
       try {
         const response = await fetch(
-          `/api/market?symbol=${encodeURIComponent(symbol)}`,
+          `/api/revenue?symbol=${encodeURIComponent(symbol)}`,
           { signal: controller.signal }
         );
         const payload = await response.json();
@@ -135,6 +135,36 @@ export default function HomeClient({
         : undefined,
   });
 
+  const newsQuery = useQuery({
+    queryKey: ["news", symbol],
+    queryFn: async ({ signal }) => {
+      const controller = new AbortController();
+      if (signal) {
+        signal.addEventListener("abort", () => controller.abort(), {
+          once: true,
+        });
+      }
+      const timeoutId = window.setTimeout(() => controller.abort(), 3000);
+      try {
+        const response = await fetch(
+          `/api/news?symbol=${encodeURIComponent(symbol)}`,
+          { signal: controller.signal }
+        );
+        const payload = await response.json();
+        if (!response.ok) {
+          throw new Error(payload?.errorReason || "뉴스 데이터를 불러오지 못했습니다.");
+        }
+        return payload;
+      } finally {
+        window.clearTimeout(timeoutId);
+      }
+    },
+    enabled: Boolean(symbol),
+    staleTime: 1000 * 60 * 5,
+    gcTime: 1000 * 60 * 30,
+    retry: 1,
+  });
+
   const aiQuery = useQuery({
     queryKey: ["ai", symbol],
     queryFn: async ({ signal }) => {
@@ -150,8 +180,11 @@ export default function HomeClient({
     retry: 1,
   });
 
-  const marketReport =
-    (marketQuery.data as { report?: typeof mockReport } | undefined)?.report ??
+  const revenueReport =
+    (revenueQuery.data as { report?: typeof mockReport } | undefined)?.report ??
+    null;
+  const newsReport =
+    (newsQuery.data as { report?: typeof mockReport } | undefined)?.report ??
     null;
   const aiReport =
     (aiQuery.data as { report?: typeof mockReport } | undefined)?.report ?? null;
@@ -168,19 +201,26 @@ export default function HomeClient({
     }
     return null;
   })();
-  const marketError = (() => {
-    if (marketQuery.isError) return "매출/뉴스 데이터를 불러오지 못했습니다.";
-    const payload = marketQuery.data as { errorReason?: string } | undefined;
+  const revenueError = (() => {
+    if (revenueQuery.isError) return "매출 데이터를 불러오지 못했습니다.";
+    const payload = revenueQuery.data as { errorReason?: string } | undefined;
+    return payload?.errorReason ?? null;
+  })();
+  const newsError = (() => {
+    if (newsQuery.isError) return "뉴스 데이터를 불러오지 못했습니다.";
+    const payload = newsQuery.data as { errorReason?: string } | undefined;
     return payload?.errorReason ?? null;
   })();
   const isReportLoading = aiQuery.isFetching && !aiReport;
-  const isMarketLoading = marketQuery.isFetching && !marketReport;
+  const isRevenueLoading = revenueQuery.isFetching && !revenueReport;
+  const isNewsLoading = newsQuery.isFetching && !newsReport;
 
   const report = useMemo(() => {
-    if (!marketReport && !aiReport) return null;
+    if (!revenueReport && !newsReport && !aiReport) return null;
     const merged = {
       ...mockReport,
-      ...(marketReport ?? {}),
+      ...(revenueReport ?? {}),
+      ...(newsReport ?? {}),
       ...(aiReport ?? {}),
     };
     return {
@@ -188,7 +228,7 @@ export default function HomeClient({
       companyName:
         merged.companyName || displayName || mockReport.companyName,
       news: {
-        ...(marketReport?.news ?? mockReport.news),
+        ...(newsReport?.news ?? mockReport.news),
         ...(aiReport?.news
           ? {
               sentiment: aiReport.news.sentiment,
@@ -197,7 +237,7 @@ export default function HomeClient({
           : {}),
       },
     };
-  }, [aiReport, displayName, marketReport]);
+  }, [aiReport, displayName, newsReport, revenueReport]);
 
   useEffect(() => {
     aiRetryAttemptedRef.current = false;
@@ -474,7 +514,8 @@ export default function HomeClient({
 
     // AI 리포트: 새로운 검색 시에는 기존 캐시를 비우고 스켈레톤을 보여주기 위해 resetQueries 사용
     queryClient.resetQueries({ queryKey: ["ai", resolvedQuery] });
-    queryClient.resetQueries({ queryKey: ["market", resolvedQuery] });
+    queryClient.resetQueries({ queryKey: ["revenue", resolvedQuery] });
+    queryClient.resetQueries({ queryKey: ["news", resolvedQuery] });
 
     const cacheKey = getCacheKey(resolvedQuery, timeframe);
     const cached = chartCacheRef.current.get(cacheKey);
@@ -718,17 +759,20 @@ export default function HomeClient({
               chartError={chartError}
               isReportLoading={isReportLoading}
               reportError={reportError}
-              reportData={marketReport}
+              reportData={aiReport}
               report={report}
             />
           </div>
           <div className="min-w-0">
             <SideReportSection
               isReportLoading={isReportLoading}
-            isMarketLoading={isMarketLoading}
+              isRevenueLoading={isRevenueLoading}
+              isNewsLoading={isNewsLoading}
               reportError={reportError}
-            marketError={marketError}
-              reportData={marketReport}
+              revenueError={revenueError}
+              newsError={newsError}
+              revenueData={revenueReport}
+              newsData={newsReport}
               report={report}
             />
           </div>

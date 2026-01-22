@@ -3,22 +3,29 @@ import RevenueLineChart from "../RevenueLineChart";
 
 type SideReportSectionProps = {
   isReportLoading: boolean;
-  isMarketLoading: boolean;
   reportError: string | null;
-  marketError: string | null;
-  reportData: any | null;
+  isRevenueLoading: boolean;
+  isNewsLoading: boolean;
+  revenueError: string | null;
+  newsError: string | null;
+  revenueData: any | null;
+  newsData: any | null;
   report: any | null;
 };
 
 export default function SideReportSection({
   isReportLoading,
-  isMarketLoading,
   reportError,
-  marketError,
-  reportData,
+  isRevenueLoading,
+  isNewsLoading,
+  revenueError,
+  newsError,
+  revenueData,
+  newsData,
   report,
 }: SideReportSectionProps) {
-  const marketReport = reportData ?? report;
+  const revenueReport = revenueData ?? report;
+  const newsReport = newsData ?? report;
   return (
     <section className="flex flex-col gap-4 rounded-2xl border border-zinc-800 bg-zinc-900/60 p-6">
       {isReportLoading ? (
@@ -34,7 +41,7 @@ export default function SideReportSection({
         </div>
       ) : (
         <>
-          {reportError && !reportData && (
+          {reportError && !report && (
             <div className="rounded-xl border border-zinc-800 bg-zinc-950/60 p-4 text-sm text-zinc-400">
               AI 진단을 생성하지 못했습니다.
             </div>
@@ -42,48 +49,48 @@ export default function SideReportSection({
         </>
       )}
 
-      {isMarketLoading ? (
+      {isRevenueLoading ? (
         <div className="space-y-3 rounded-xl border border-zinc-800 bg-zinc-950/60 p-4">
           <div className="h-4 w-1/3 animate-pulse rounded bg-zinc-800" />
           <div className="h-28 w-full animate-pulse rounded bg-zinc-800" />
         </div>
-      ) : marketReport ? (
+      ) : revenueReport ? (
         <div className="rounded-xl border border-zinc-800 bg-zinc-950/60 p-4 text-sm text-zinc-300">
           <p className="font-semibold text-zinc-100">매출 비교</p>
-          {marketReport.revenueSeries.currentYear.points.length === 0 ? (
+          {revenueReport.revenueSeries.currentYear.points.length === 0 ? (
             <p className="mt-4 text-amber-500/80">
-              {reportError || "매출이 확인되지 않습니다."}
+              {revenueError || "매출이 확인되지 않습니다."}
             </p>
           ) : (
             <RevenueLineChart
-              currentYear={marketReport.revenueSeries.currentYear}
-              previousYear={marketReport.revenueSeries.previousYear}
+              currentYear={revenueReport.revenueSeries.currentYear}
+              previousYear={revenueReport.revenueSeries.previousYear}
             />
           )}
         </div>
-      ) : marketError ? (
+      ) : revenueError ? (
         <div className="rounded-xl border border-zinc-800 bg-zinc-950/60 p-4 text-sm text-amber-500/80">
-          {marketError}
+          {revenueError}
         </div>
       ) : null}
 
-      {isMarketLoading ? (
+      {isNewsLoading ? (
         <div className="space-y-3 rounded-xl border border-zinc-800 bg-zinc-950/60 p-4">
           <div className="h-4 w-1/3 animate-pulse rounded bg-zinc-800" />
           <div className="h-4 w-full animate-pulse rounded bg-zinc-800" />
           <div className="h-4 w-5/6 animate-pulse rounded bg-zinc-800" />
           <div className="h-4 w-2/3 animate-pulse rounded bg-zinc-800" />
         </div>
-      ) : marketReport ? (
+      ) : newsReport ? (
         <div className="rounded-xl border border-zinc-800 bg-zinc-950/60 p-4 text-sm text-zinc-300">
           <p className="font-semibold text-zinc-100">관련 뉴스</p>
-          {marketReport.sources.length === 0 ? (
+          {newsReport.sources.length === 0 ? (
             <p className="mt-4 text-amber-500/80">
-              {reportError || "관련종목의 최근 뉴스가 없습니다."}
+              {newsError || "관련종목의 최근 뉴스가 없습니다."}
             </p>
           ) : (
             <ul className="mt-2 space-y-2 text-zinc-400">
-              {marketReport.sources.map((source: { url: string; title: string }) => (
+              {newsReport.sources.map((source: { url: string; title: string }) => (
                 <li key={source.url}>
                   <a
                     href={source.url}
@@ -98,9 +105,9 @@ export default function SideReportSection({
             </ul>
           )}
         </div>
-      ) : marketError ? (
+      ) : newsError ? (
         <div className="rounded-xl border border-zinc-800 bg-zinc-950/60 p-4 text-sm text-amber-500/80">
-          {marketError}
+          {newsError}
         </div>
       ) : null}
 
