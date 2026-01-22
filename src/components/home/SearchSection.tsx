@@ -54,7 +54,7 @@ export default function SearchSection({
           </p>
           <div className="flex items-baseline gap-3">
             <h2 className="text-xl font-semibold text-zinc-100">{displayName}</h2>
-            {price ? (
+            {price?.current ? (
               <div className="flex items-baseline gap-2">
                 <span className="text-lg font-bold text-zinc-100">
                   {price.current?.toLocaleString()}

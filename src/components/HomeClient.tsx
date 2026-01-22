@@ -420,10 +420,7 @@ export default function HomeClient({
         .map((entry) => {
           const symbol = entry.queryKey[1] as string | undefined;
           if (!symbol) return null;
-          const payload = entry.state.data as
-            | { report?: any; aiReady?: boolean }
-            | undefined;
-          if (!payload?.aiReady) return null;
+          const payload = entry.state.data as { report?: any } | undefined;
           const rawName =
             payload?.report?.companyName ??
             findNameByTicker(symbol)?.name ??
@@ -435,22 +432,25 @@ export default function HomeClient({
         })
         .filter(Boolean) as { symbol: string; name: string }[];
 
-      const seen = new Set<string>();
-      const unique = next.filter((item) => {
-        const base = item.symbol.split(".")[0];
-        const key = `${base}:${cleanStockName(item.name)}`;
-        if (seen.has(key)) return false;
-        seen.add(key);
-        return true;
-      });
+      setCachedReports((prev) => {
+        const merged = [...prev, ...next];
+        const seen = new Set<string>();
+        const unique = merged.filter((item) => {
+          const base = item.symbol.split(".")[0];
+          const key = `${base}:${cleanStockName(item.name)}`;
+          if (seen.has(key)) return false;
+          seen.add(key);
+          return true;
+        });
 
-      unique.sort((a, b) => a.symbol.localeCompare(b.symbol));
-      const signature = unique
-        .map((item) => `${item.symbol.split(".")[0]}:${cleanStockName(item.name)}`)
-        .join("|");
-      if (signature === cachedReportsSigRef.current) return;
-      cachedReportsSigRef.current = signature;
-      setCachedReports(unique);
+        unique.sort((a, b) => a.symbol.localeCompare(b.symbol));
+        const signature = unique
+          .map((item) => `${item.symbol.split(".")[0]}:${cleanStockName(item.name)}`)
+          .join("|");
+        if (signature === cachedReportsSigRef.current) return prev;
+        cachedReportsSigRef.current = signature;
+        return unique;
+      });
     };
 
     update();
@@ -674,9 +674,9 @@ export default function HomeClient({
           }}
         />
 
-        <SearchSection
-          displayName={displayName}
-          price={report?.price ?? null}
+          <SearchSection
+            displayName={displayName}
+            price={revenueReport?.price ?? null}
           inputValue={inputValue}
           onInputChange={(value) => {
             setInputValue(value);

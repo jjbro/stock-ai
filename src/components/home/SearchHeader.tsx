@@ -22,7 +22,7 @@ export default function SearchHeader({
       {cachedReports.length > 0 ? (
         <div className="flex flex-col gap-2 mt-2">
           <p className="text-xs uppercase text-zinc-500">검색한 종목</p>
-          <div className="flex gap-2 overflow-x-auto pb-1">
+          <div className="scrollbar-only flex gap-2 overflow-x-auto pb-1">
             {cachedReports.map((item) => (
               <button
                 key={item.symbol}

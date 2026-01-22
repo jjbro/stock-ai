@@ -706,7 +706,7 @@ export async function getNewsReport(rawSymbol: string) {
   const ticker = resolved.ticker || rawSymbol;
 
   const newsCacheKey = `news-data:${ticker}`;
-  const newsExpiry = Date.now() + 5 * 60 * 1000;
+  const newsExpiry = Date.now() + 24 * 60 * 60 * 1000;
 
   let newsData = cache.get(newsCacheKey)?.data;
   if (!newsData || cache.get(newsCacheKey)!.expiresAt < Date.now()) {

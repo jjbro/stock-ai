@@ -27,10 +27,12 @@ body {
 .scrollbar-only {
   scrollbar-width: thin;
   scrollbar-color: rgba(113, 113, 122, 0.8) transparent;
+  scrollbar-gutter: stable both-edges;
 }
 
 .scrollbar-only::-webkit-scrollbar {
   width: 8px;
+  height: 8px;
 }
 
 .scrollbar-only::-webkit-scrollbar-track {
