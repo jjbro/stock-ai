@@ -14,7 +14,7 @@ export default function SearchHeader({
   return (
     <header className="flex flex-col gap-2">
       <h1 className="text-3xl font-semibold text-zinc-100 md:text-4xl">
-        종목 검색 → 차트 + AI 리포트
+        주식 종목 검색(차트 + AI 리포트)
       </h1>
       <p className="max-w-2xl text-base text-zinc-400">
         종목을 검색하세요. AI가 진단 내용을 보여줍니다.
