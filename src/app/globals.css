@@ -8,7 +8,7 @@
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: "Pretendard Variable", var(--font-inter), ui-sans-serif, system-ui;
+  --font-sans: "Pretendard Variable", ui-sans-serif, system-ui;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -42,4 +42,21 @@ body {
 .scrollbar-only::-webkit-scrollbar-thumb {
   background-color: rgba(113, 113, 122, 0.8);
   border-radius: 999px;
+}
+
+.loading-ellipsis {
+  display: inline-block;
+  margin-left: 0.25rem;
+  width: 0ch;
+  overflow: hidden;
+  animation: ellipsis 1.2s steps(4, end) infinite;
+}
+
+@keyframes ellipsis {
+  0% {
+    width: 0ch;
+  }
+  100% {
+    width: 3ch;
+  }
 }

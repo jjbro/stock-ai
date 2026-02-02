@@ -1,4 +1,3 @@
-import React from "react";
 import type { SymbolEntry } from "@/lib/symbols";
 
 type SearchSectionProps = {

@@ -108,3 +108,5 @@ export const mockReport = {
   cons: [] as string[],
   sources: [] as NewsSource[],
 };
+
+export type Report = typeof mockReport;

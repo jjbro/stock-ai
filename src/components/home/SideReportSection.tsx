@@ -1,5 +1,5 @@
-import React from "react";
 import RevenueLineChart from "../RevenueLineChart";
+import type { Report } from "@/lib/mock";
 
 type SideReportSectionProps = {
   isReportLoading: boolean;
@@ -8,9 +8,9 @@ type SideReportSectionProps = {
   isNewsLoading: boolean;
   revenueError: string | null;
   newsError: string | null;
-  revenueData: any | null;
-  newsData: any | null;
-  report: any | null;
+  revenueData: Report | null;
+  newsData: Report | null;
+  report: Report | null;
 };
 
 export default function SideReportSection({
@@ -130,23 +130,6 @@ export default function SideReportSection({
           </p>
         </div>
       ) : null}
-      <style jsx>{`
-        .loading-ellipsis {
-          display: inline-block;
-          margin-left: 0.25rem;
-          width: 0ch;
-          overflow: hidden;
-          animation: ellipsis 1.2s steps(4, end) infinite;
-        }
-        @keyframes ellipsis {
-          0% {
-            width: 0ch;
-          }
-          100% {
-            width: 3ch;
-          }
-        }
-      `}</style>
     </section>
   );
 }

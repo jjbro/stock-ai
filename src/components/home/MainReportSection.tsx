@@ -1,7 +1,6 @@
-import React from "react";
 import dynamic from "next/dynamic";
 import type { CandlestickData } from "lightweight-charts";
-import type { Timeframe } from "@/lib/mock";
+import type { Timeframe, Report } from "@/lib/mock";
 
 const PriceChart = dynamic(() => import("../PriceChart"), {
   ssr: false,
@@ -19,8 +18,8 @@ type MainReportSectionProps = {
   chartError: string | null;
   isReportLoading: boolean;
   reportError: string | null;
-  reportData: any | null;
-  report: any | null;
+  reportData: Report | null;
+  report: Report | null;
 };
 
 export default function MainReportSection({

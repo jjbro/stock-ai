@@ -3,7 +3,7 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import dynamic from "next/dynamic";
 import { useQuery, useQueryClient } from "@tanstack/react-query";
-import { mockReport, type Timeframe } from "@/lib/mock";
+import { mockReport, type Timeframe, type Report } from "@/lib/mock";
 import type { CandlestickData } from "lightweight-charts";
 import { SymbolEntry, fallbackSymbolDirectory, cleanStockName } from "@/lib/symbols";
 import SearchHeader from "./home/SearchHeader";
@@ -60,10 +60,8 @@ function normalizeReportError(errorReason?: string | null) {
 }
 
 export default function HomeClient({
-  initialReport,
   initialSymbols,
 }: {
-  initialReport?: any;
   initialSymbols?: SymbolEntry[];
 }) {
   const [symbol, setSymbol] = useState("005930.KS");
@@ -129,10 +127,6 @@ export default function HomeClient({
     staleTime: 1000 * 60 * 5,
     gcTime: 1000 * 60 * 30,
     retry: 1,
-    initialData:
-      isInitialLoadRef.current && symbol === initialSymbolRef.current
-        ? initialReport
-        : undefined,
   });
 
   const newsQuery = useQuery({
@@ -420,7 +414,7 @@ export default function HomeClient({
         .map((entry) => {
           const symbol = entry.queryKey[1] as string | undefined;
           if (!symbol) return null;
-          const payload = entry.state.data as { report?: any } | undefined;
+          const payload = entry.state.data as { report?: Report } | undefined;
           const rawName =
             payload?.report?.companyName ??
             findNameByTicker(symbol)?.name ??
@@ -635,10 +629,12 @@ export default function HomeClient({
         });
         setLocalCache(cacheKey, payload.candles);
       })
-      .catch((error: any) => {
+      .catch((error: unknown) => {
         if (!active) return;
         const message =
-          typeof error?.message === "string" ? error.message : "not-found";
+          error instanceof Error && typeof error.message === "string"
+            ? error.message
+            : "not-found";
         if (message === "not-found") {
           if (isInitialLoadRef.current) {
             setSearchError("종목을 검색하세요.");
@@ -783,23 +779,6 @@ export default function HomeClient({
             빠르게 재검색을 하거나, 사용량이 많을 경우 검색 시 AI 조회가 어렵습니다.
           </span>
         </footer>
-        <style jsx>{`
-          .loading-ellipsis {
-            display: inline-block;
-            margin-left: 0.25rem;
-            width: 0ch;
-            overflow: hidden;
-            animation: ellipsis 1.2s steps(4, end) infinite;
-          }
-          @keyframes ellipsis {
-            0% {
-              width: 0ch;
-            }
-            100% {
-              width: 3ch;
-            }
-          }
-        `}</style>
       </div>
     </div>
   );

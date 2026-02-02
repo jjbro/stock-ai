@@ -1,5 +1,3 @@
-import React from "react";
-
 type CachedReport = { symbol: string; name: string };
 
 type SearchHeaderProps = {

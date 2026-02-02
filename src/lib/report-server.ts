@@ -173,10 +173,13 @@ function buildRevenueSeries(revenues: { date: number; revenue: number }[]) {
 
   const toPoints = (year: number) => {
     const map = grouped.get(year) ?? new Map();
-    return ["Q1", "Q2", "Q3", "Q4"].map((label, index) => ({
-      label,
-      value: map.get(index + 1) ?? 0,
-    }));
+    // 실제 데이터가 있는 분기만 포함 (0인 값은 제외)
+    return ["Q1", "Q2", "Q3", "Q4"]
+      .map((label, index) => {
+        const value = map.get(index + 1);
+        return value && value > 0 ? { label, value } : null;
+      })
+      .filter((point): point is { label: string; value: number } => point !== null);
   };
 
   const fallbackPreviousYear = previousYear ?? currentYear - 1;
@@ -274,18 +277,20 @@ async function fetchQuarterlyRevenue(ticker: string, _companyName: string) {
     const toDate = (month: number, day: number) =>
       Math.floor(Date.UTC(year, month - 1, day) / 1000);
 
-    if (q1) results.push({ date: toDate(3, 31), revenue: q1 / 100000000 });
-    if (q2) results.push({ date: toDate(6, 30), revenue: q2 / 100000000 });
-    if (q3) results.push({ date: toDate(9, 30), revenue: q3 / 100000000 });
-    if (q4) results.push({ date: toDate(12, 31), revenue: q4 / 100000000 });
+    // 매출이 0보다 큰 경우만 추가 (0은 아직 집계되지 않은 분기로 판단)
+    if (q1 && q1 > 0) results.push({ date: toDate(3, 31), revenue: q1 / 100000000 });
+    if (q2 && q2 > 0) results.push({ date: toDate(6, 30), revenue: q2 / 100000000 });
+    if (q3 && q3 > 0) results.push({ date: toDate(9, 30), revenue: q3 / 100000000 });
+    if (q4 && q4 > 0) results.push({ date: toDate(12, 31), revenue: q4 / 100000000 });
   }
 
   if (results.length > 0) {
     cache.set(cacheKey, { expiresAt: getNextExpiry(), data: results });
   }
 
+  // 매출이 0보다 큰 데이터만 반환 (집계되지 않은 분기 제외)
   return results
-    .filter((item) => item.date && item.revenue)
+    .filter((item) => item.date && item.revenue > 0)
     .sort((a, b) => b.date - a.date)
     .slice(0, 4);
 }
@@ -531,9 +536,16 @@ export async function getFullReport(rawSymbol: string) {
   const { revenues, chartData, price } = marketData;
   const news = newsData;
 
-  const latest = revenues[0]?.revenue ?? 0;
-  const prev = revenues[1]?.revenue ?? 0;
-  const yearAgo = revenues[4]?.revenue ?? 0;
+  // 유효한 매출 데이터만 필터링 (0보다 큰 값만)
+  const validRevenues = revenues.filter((r: { date: number; revenue: number }) => r.revenue > 0);
+  const latest = validRevenues[0]?.revenue ?? 0;
+  const prev = validRevenues[1]?.revenue ?? 0;
+  const yearAgo = validRevenues.find((r: { date: number; revenue: number }) => {
+    const date = new Date(r.date * 1000);
+    const latestDate = new Date(validRevenues[0]?.date * 1000);
+    return date.getUTCFullYear() === latestDate.getUTCFullYear() - 1 && 
+           date.getUTCMonth() === latestDate.getUTCMonth();
+  })?.revenue ?? 0;
   const qoq = computeChange(latest, prev);
   const yoy = computeChange(latest, yearAgo);
 
@@ -584,8 +596,9 @@ export async function getFullReport(rawSymbol: string) {
     );
   }
 
-  const revenueSeries = buildRevenueSeries(revenues);
-  const annualRevenue = buildAnnualRevenue(revenues);
+  // 유효한 매출 데이터만 사용하여 시리즈 생성 (0인 값 제외)
+  const revenueSeries = buildRevenueSeries(validRevenues);
+  const annualRevenue = buildAnnualRevenue(validRevenues);
 
   const report = {
     ...mockReport,
@@ -678,15 +691,28 @@ export async function getRevenueReport(rawSymbol: string) {
 
   const revenues = marketData?.revenues ?? [];
   const price = marketData?.price ?? null;
-  const revenueSeries = buildRevenueSeries(revenues);
-  const annualRevenue = buildAnnualRevenue(revenues);
+  
+  // 유효한 매출 데이터만 필터링 (0보다 큰 값만) - 리포트 표시용
+  const validRevenues = revenues.filter((r: { date: number; revenue: number }) => r.revenue > 0);
+  const revenueSeries = buildRevenueSeries(validRevenues);
+  const annualRevenue = buildAnnualRevenue(validRevenues);
+
+  // AI 분석용 qoq, yoy 계산 (유효한 데이터만 사용)
+  const latest = validRevenues[0]?.revenue ?? 0;
+  const prev = validRevenues[1]?.revenue ?? 0;
+  const yearAgo = validRevenues.find((r: { date: number; revenue: number }) => {
+    const date = new Date(r.date * 1000);
+    const latestDate = new Date(validRevenues[0]?.date * 1000);
+    return date.getUTCFullYear() === latestDate.getUTCFullYear() - 1 && 
+           date.getUTCMonth() === latestDate.getUTCMonth();
+  })?.revenue ?? 0;
 
   const report = {
     ...mockReport,
     companyName,
     revenue: {
-      qoq: computeChange(revenues[0]?.revenue, revenues[1]?.revenue),
-      yoy: computeChange(revenues[0]?.revenue, revenues[4]?.revenue),
+      qoq: computeChange(latest, prev),
+      yoy: computeChange(latest, yearAgo),
     },
     revenueSeries: revenueSeries ?? mockReport.revenueSeries,
     annualRevenue: annualRevenue.length ? annualRevenue : mockReport.annualRevenue,
@@ -767,8 +793,19 @@ export async function getAiReport(rawSymbol: string) {
   const newsData = cache.get(newsCacheKey)?.data ?? [];
   const revenues = marketData?.revenues ?? [];
   let chartData = marketData?.chartData ?? [];
-  const qoq = computeChange(revenues[0]?.revenue, revenues[1]?.revenue);
-  const yoy = computeChange(revenues[0]?.revenue, revenues[4]?.revenue);
+  
+  // 유효한 매출 데이터만 필터링 (0보다 큰 값만)
+  const validRevenues = revenues.filter((r: { date: number; revenue: number }) => r.revenue > 0);
+  const latest = validRevenues[0]?.revenue ?? 0;
+  const prev = validRevenues[1]?.revenue ?? 0;
+  const yearAgo = validRevenues.find((r: { date: number; revenue: number }) => {
+    const date = new Date(r.date * 1000);
+    const latestDate = new Date(validRevenues[0]?.date * 1000);
+    return date.getUTCFullYear() === latestDate.getUTCFullYear() - 1 && 
+           date.getUTCMonth() === latestDate.getUTCMonth();
+  })?.revenue ?? 0;
+  const qoq = computeChange(latest, prev);
+  const yoy = computeChange(latest, yearAgo);
 
   if (!chartData.length) {
     chartData = await withTimeout(fetchRecentChart(ticker), 1500, []);
