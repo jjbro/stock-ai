@@ -72,7 +72,7 @@ export default function RevenueLineChart({ currentYear, previousYear }: Props) {
         viewBox={`0 0 ${width} ${height}`}
         className="mt-3 h-36 w-full"
         role="img"
-        aria-label="매출 비교 라인 차트"
+        aria-label="영업이익 비교 라인 차트"
       >
         <path
           d={buildPath(prevCoords)}

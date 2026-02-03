@@ -1,0 +1,1090 @@
+재무제표종류	종목코드	회사명	시장구분	업종	업종명	결산월	결산기준일	보고서종류	통화	항목코드	항목명	당기 3분기말	전기말	전전기말	
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InvestmentIncomeExpenses	      투자손익	109,240,422,386		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingExpenseInvestment	         투자영업비용	722,221,877,447		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_AdditionalImpairmentLossesOfFinancialAssets	            신용손실충당금 전입액	396,756,435		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_FinanceExpensesFromReinsuranceContractsHeldRecognisedInProfitOrLoss	            재보험금융비용	2,936,955,283		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InsuranceFinanceExpensesFromInsuranceContractsIssuedRecognisedInProfitOrLoss	            보험금융비용	349,411,195,321		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융상품관련손실	13,000,383,354		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정금융상품관련손실	81,840,232,969		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossesFromDerivatives	            파생상품관련비용	87,271,400,225		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingExpenseInvestment	            기타투자비용	16,504,977,815		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeLoss	            외화거래손실	116,355,232,969		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InterestExpense	            금융부채의 이자비용	52,167,700,564		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	            재산관리비	2,337,042,512		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentIncome	         투자영업수익	831,462,299,833		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_FinanceIncomeFromReinsuranceContractsHeldRecognisedInProfitOrLoss	            재보험금융수익	1,630,993,553		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromDerivatives	            파생상품관련수익	105,943,238,608		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융상품관련이익	8,637,203,188		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정금융상품관련이익	280,247,235,577		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InsuranceFinanceIncomeFromInsuranceContractsIssuedRecognisedInProfitOrLoss	            보험금융수익	41,023,194,500		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingIncomeInvestment	            기타투자수익	57,571,262,356		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_ReversalsOfImpairmentLossesOfFinancialAssets	            신용손실충당금 환입액	4,233,083,226		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeGain	            외화거래이익	70,003,523,355		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RevenueFromDividends	            배당금수익	11,102,822,031		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RevenueFromInterest	            이자수익	251,069,743,439		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingProfitLoss	      영업외손익	-5,787,849,845		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingExpense	         영업외비용	5,993,038,860		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingIncome	         영업외수익	205,189,015		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncome	      총포괄손익	-92,701,752,424		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests	         비지배지분	0		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배기업의 소유주지분	-92,701,752,424		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         기본주당순이익	3,303		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShare	         희석주당순이익	3,303		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용(수익)	38,217,035,487		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceServiceResult	      보험손익	75,125,468,264		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingExpenseInsurance	         보험서비스비용	514,092,508,339		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingExpenseInsurance	            기타사업비용	7,671,103,332		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ExpensesFromAllocationOfPremiumsPaidToReinsurer	            재보험비용	33,489,076,629		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceServiceExpensesFromInsuranceContractsIssued	            보험비용	472,932,328,378		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingIncomeInsurance	         보험영업수익	589,217,976,603		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IncomeFromAmountsRecoveredFromReinsurer	            재보험수익	32,279,856,463		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceRevenue	            보험수익	556,938,120,140		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	-233,062,757,742		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax	         후속적으로 당기손익으로 재분류될 수 있는 항목	-230,032,979,963		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxCreditLossesOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산 기대신용손실	-3,314,039,268		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges	            위험회피목적파생상품평가손익	-41,921,652,443		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinanceIncomeExpensesFromReinsuranceContractsHeldExcludedFromProfitOrLoss	            재보험계약자산(부채)순금융손익	-2,959,042,614		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정채무증권평가손익	17,972,984,034		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxInsuranceFinanceIncomeExpensesFromInsuranceContractsIssuedExcludedFromProfitOrLossThatWillBeReclassifiedToProfitOrLoss	            보험계약자산(부채)순금융손익	-199,811,229,672		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax	         후속적으로 당기손익으로 재분류되지 않는 항목	-3,029,777,779		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정지분증권평가손익	-2,682,717,003		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            확정급여부채의 재측정요소	-347,060,776		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLoss	      당기순이익(손실)	140,361,005,318		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToNoncontrollingInterests	         비지배지분	0		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	         지배기업의 소유주지분	140,361,005,318		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세차감전순이익	178,578,040,805		
+ 포괄손익계산서, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익(손실)	184,365,890,650		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InvestmentIncomeExpenses	      투자손익	1,024,370,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingExpenseInvestment	         투자영업비용	3,477,545,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_AdditionalImpairmentLossesOfFinancialAssets	            신용손실충당금 전입액	31,539,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InsuranceFinanceExpensesFromInsuranceContractsIssuedRecognisedInProfitOrLoss	            보험금융비용	883,101,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossArisingFromDerecognitionOfFinancialInstrumentsMeasuredAtAmortisedCost	            상각후원가측정금융상품제거손실	3,744,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융상품관련손실	70,317,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정금융상품관련손실	255,048,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossesFromDerivatives	            파생상품관련비용	908,378,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingExpenseInvestment	            기타투자비용	70,551,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	entity00159102_SellingGeneralAndAdministrativeExpenseRelatedToRealEstateOfOperatingExpenseInvestment	            부동산관리비	19,630,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeLoss	            외화거래손실	702,757,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InterestExpense	            금융부채의 이자비용	452,246,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	            재산관리비	80,234,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentIncome	         투자영업수익	4,501,915,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainArisingFromDerecognitionOfFinancialInstrumentsMeasuredAtAmortisedCost	            상각후원가측정금융상품제거이익	1,763,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromDerivatives	            파생상품관련수익	1,072,015,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융상품관련이익	108,422,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정금융상품관련이익	666,119,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InsuranceFinanceIncomeFromInsuranceContractsIssuedRecognisedInProfitOrLoss	            보험금융수익	101,902,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingIncomeInvestment	            기타투자수익	413,044,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_ReversalsOfImpairmentLossesOfFinancialAssets	            신용손실충당금 환입액	44,361,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeGain	            외화거래이익	409,325,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RevenueFromDividends	            배당금수익	50,818,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RevenueFromInterest	            이자수익	1,634,146,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InterestRevenueOnFinancialAssetsAtFairValueThroughProfitOrLoss	               당기손익-공정가치로 측정하는 금융자산의 이자수익	38,108,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	entity00159102_OtherInterestRevenueOfRevenueFromInterest	               기타이자수익	5,141,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	               유효이자율법 적용 이자수익	1,590,897,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingProfitLoss	      영업외손익	62,187,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingExpense	         영업외비용	45,508,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingIncome	         영업외수익	77,728,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ShareOfProfitLossOfAssociatesAndJointVenturesAccountedForUsingEquityMethod	         관계기업투자자산평가손익	29,967,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncome	      총포괄손익	296,372,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests	         비지배지분에 귀속되는 총포괄손익	-2,907,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배기업의 소유주에게 귀속되는 총포괄손익	299,279,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         보통주기본주당이익(손실)	23,434		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	509,987,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceServiceResult	      보험손익	835,207,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingExpenseInsurance	         보험서비스비용	12,134,832,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingExpenseInsurance	            기타사업비용	99,276,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ExpensesFromAllocationOfPremiumsPaidToReinsurer	            재보험비용	803,848,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceServiceExpensesFromInsuranceContractsIssued	            보험비용	11,231,708,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingIncomeInsurance	         보험영업수익	12,970,039,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IncomeFromAmountsRecoveredFromReinsurer	            재보험수익	752,358,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceRevenue	            보험수익	12,217,681,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	-1,115,405,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax	         당기손익으로 재분류되는 세후기타포괄손익의 구성요소	-1,121,173,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	entity00159102_OtherComprehensiveIncomeNetOfTaxGainsAndLossesOnHedgingDerivativesOfOtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax	            위험회피목적파생상품평가손익	-264,710,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	            해외사업환산손익	-87,219,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinanceIncomeExpensesFromReinsuranceContractsHeldExcludedFromProfitOrLoss	            재보험계약자산(부채)순금융손익	-2,794,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산관련손익	138,090,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxInsuranceFinanceIncomeExpensesFromInsuranceContractsIssuedExcludedFromProfitOrLossThatWillBeReclassifiedToProfitOrLoss	            보험계약자산(부채)순금융손익	-905,136,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax	            관계기업 기타포괄손익항목에 대한 지분변동	596,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax	         당기손익으로 재분류되지 않는 세후기타포괄손익의 구성요소	5,768,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정유가증권평가손익	9,385,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            확정급여제도의재측정요소	-1,601,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation	            자산재평가손익	-2,016,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLoss	      당기순이익(손실)	1,411,777,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToNoncontrollingInterests	         비지배지분에 귀속되는 당기순이익(손실)	2,391,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	         지배기업의 소유주에게 귀속되는 당기순이익(손실)	1,409,386,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세차감전순이익	1,921,764,000,000		
+ 포괄손익계산서, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익(손실)	1,859,577,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_AdjustedProfitLossNetOfCapastropheReserve	      비상위험준비금 반영후 조정이익	689,750,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      대손준비금 반영후 조정이익	769,600,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_AdjustedProfitLossNetOfSurrenderValueReserve	      해약환급금준비금 반영후 조정이익	117,472,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InvestmentIncomeExpenses	      투자손익	339,994,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingExpenseInvestment	         투자영업비용	1,490,909,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_FinanceExpensesFromReinsuranceContractsHeldRecognisedInProfitOrLoss	            재보험금융비용	56,720,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InsuranceFinanceExpensesFromInsuranceContractsIssuedRecognisedInProfitOrLoss	            보험금융비용	586,621,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossesFromDerivatives	            파생상품관련손실	88,747,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingExpenseInvestment	            기타비용	79,309,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	entity00120216_LossesonchangeinfairvalueandondisposalofsecuritiesOfOperatingExpenseInvestment	            유가증권 평가 및 처분손실	278,567,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	entity00120216_LossesonchangeinfairvalueofloansandmiscellaneousreceivablesOfOperatingExpenseInvestment	            대출채권 및 기타수취채권 평가 및 처분손실	11,361,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	entity00120216_LossesondisposalofsubsidiariesOfOperatingExpenseInvestment	            종속기업투자주식관련손실	783,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeLoss	            외화거래손실	168,878,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InterestExpense	            이자비용	199,970,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_PropertyManagementExpense	            부동산관리비	2,577,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	            재산관리비	17,376,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentIncome	         투자영업수익	1,830,903,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_FinanceIncomeFromReinsuranceContractsHeldRecognisedInProfitOrLoss	            재보험금융수익	65,521,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromDerivatives	            파생상품관련이익	168,160,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InsuranceFinanceIncomeFromInsuranceContractsIssuedRecognisedInProfitOrLoss	            보험금융수익	49,778,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingIncomeInvestment	            기타수익	267,064,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	entity00120216_GainsonchangeinfairvalueandondisposalofsecuritiesOfInvestmentIncome	            유가증권 평가 및 처분이익	450,890,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	entity00120216_GainsonchangeinfairvalueofloansandmiscellaneousreceivablesOfInvestmentIncome	            대출채권 및 기타수취채권 평가 및 처분이익	2,820,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	entity00120216_GainsondisposalofsubsidiariesOfInvestmentIncome	            종속기업투자주식관련이익	422,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeGain	            외화거래이익	41,063,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RevenueFromDividends	            배당수익	44,324,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RevenueFromInterest	            이자수익	740,861,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingProfitLoss	      영업외손익	3,543,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingExpense	         영업외비용	6,420,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingIncome	         영업외수익	9,963,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncome	      총포괄손익	125,020,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests	         비지배지분총포괄손익	10,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배기업소유지분총포괄손익	125,010,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	275,915,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceServiceResult	      보험손익	699,680,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingExpenseInsurance	         보험영업비용	7,852,019,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingExpenseInsurance	            기타사업비용	286,747,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ExpensesFromAllocationOfPremiumsPaidToReinsurer	            재보험비용	638,371,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceServiceExpensesFromInsuranceContractsIssued	            보험비용	6,926,901,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingIncomeInsurance	         보험영업수익	8,551,699,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IncomeFromAmountsRecoveredFromReinsurer	            재보험수익	601,358,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceRevenue	            보험수익	7,950,341,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	-642,282,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax	         후속적으로 당기손익으로 재분류되는 포괄손익	-649,003,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxCreditLossesOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정유가증권 대손충당금	-199,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges	            현금흐름위험회피파생상품평가손익	-81,396,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	            해외사업장환산손익	-6,143,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinanceIncomeExpensesFromReinsuranceContractsHeldExcludedFromProfitOrLoss	            재보험계약 관련 금융손익	4,366,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산 평가손익	-28,548,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxInsuranceFinanceIncomeExpensesFromInsuranceContractsIssuedExcludedFromProfitOrLossThatWillBeReclassifiedToProfitOrLoss	            보험계약 관련 금융손익	-536,991,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax	            관계기업투자관련기타포괄손익	-92,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax	         후속적으로 당기손익으로 재분류되지 않는 포괄손익	6,721,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정 지분증권 관련손익	5,220,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            확정급여채무 재측정요소	1,501,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLoss	      분기순이익	767,302,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToNoncontrollingInterests	         비지배지분순손익	503,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	         지배기업소유지분순이익	766,799,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세비용차감전순이익	1,043,217,000,000		
+ 포괄손익계산서, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익	1,039,674,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InvestmentIncomeExpenses	      투자손익	1,018,205,424,912		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingExpenseInvestment	         투자영업비용	10,662,156,628,222		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_FinanceExpensesFromReinsuranceContractsHeldRecognisedInProfitOrLoss	            재보험금융비용	4,877,998,194		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InsuranceFinanceExpensesFromInsuranceContractsIssuedRecognisedInProfitOrLoss	            보험금융비용	3,822,284,247,931		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtAmortisedCost	            상각후원가측정금융상품관련손실	185,195,182,243		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융상품관련손실	53,533,985,717		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정금융상품관련손실	1,142,033,927,602		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossesFromDerivatives	            파생상품관련손실	3,208,871,916,497		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingExpenseInvestment	            기타투자비용	108,668,191,559		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeLoss	            외환거래손실	1,200,862,866,372		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InterestExpense	            이자비용	299,564,503,842		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherFinanceCost	            기타금융비용	577,452,810,102		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	            재산관리비	58,810,998,163		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentIncome	         투자영업수익	11,680,362,053,134		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_FinanceIncomeFromReinsuranceContractsHeldRecognisedInProfitOrLoss	            재보험금융수익	2,812,423,604		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromDerivatives	            파생상품관련이익	3,096,111,453,449		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtAmortisedCost	            상각후원가측정금융상품관련이익	8,858,148,387		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융상품관련이익	284,621,794,684		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정금융상품관련이익	3,595,030,973,314		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InsuranceFinanceIncomeFromInsuranceContractsIssuedRecognisedInProfitOrLoss	            보험금융수익	476,191,738		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingIncomeInvestment	            기타투자수익	617,309,682,251		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	            수수료수익	278,476,254,416		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeGain	            외화거래이익	576,484,385,732		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RentalIncome	            임대료수익	74,878,344,973		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RevenueFromDividends	            배당금수익	160,045,989,187		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RevenueFromInterest	            이자수익	2,985,256,411,399		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingProfitLoss	      영업외손익	8,615,637,517		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingExpense	         영업외비용	20,874,633,352		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingIncome	         영업외수익	29,490,270,869		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncome	      연결분기총포괄손익	128,318,452,938		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests	         비지배지분에 귀속되는 분기총포괄손익	21,138,593,179		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배기업의 소유주에게 귀속되는 분기총포괄손익	107,179,859,759		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         보통주기본주당이익	7,953		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	309,073,891,213		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceServiceResult	      보험손익	410,273,540,869		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingExpenseInsurance	         보험서비스비용	2,873,222,906,431		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingExpenseInsurance	            기타사업비용	50,952,730,599		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ExpensesFromAllocationOfPremiumsPaidToReinsurer	            재보험비용	20,220,119,487		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceServiceExpensesFromInsuranceContractsIssued	            보험비용	2,802,050,056,345		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingIncomeInsurance	         보험영업수익	3,283,496,447,300		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IncomeFromAmountsRecoveredFromReinsurer	            재보험수익	31,740,399,234		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceRevenue	            보험수익	3,251,756,048,066		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	-775,848,779,098		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax	         당기손익으로 재분류되는 세후기타포괄손익의 구성요소	-839,285,864,641		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromDerivativesHeldForHedging	            위험회피파생상품평가손익	-176,242,505,061		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxCreditLossesOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정채무증권 손실충당금	125,348,122		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	            해외사업장환산손익	-394,587,357		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinanceIncomeExpensesFromReinsuranceContractsHeldExcludedFromProfitOrLoss	            재보험계약자산(부채)순금융손익	-4,276,194,127		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정채무증권평가손익	-44,304,338,912		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxInsuranceFinanceIncomeExpensesFromInsuranceContractsIssuedExcludedFromProfitOrLossThatWillBeReclassifiedToProfitOrLoss	            보험계약자산(부채)순금융손익	-614,206,054,342		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax	            관계종속기업투자평가손익	12,467,036		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax	         당기손익으로 재분류되지 않는 세후기타포괄손익의 구성요소	63,437,085,543		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정지정지분증권평가손익	59,275,153,530		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluationOfPropertyPlandAndEquipment	            유형자산재평가잉여금	5,756,686,913		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	            당기손익-공정가치측정지정금융부채의 자기신용위험조정	-1,062,184,433		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            확정급여제도의재측정요소	-532,570,467		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherOperatingIncomeExpense	      기타영업손익	-223,853,480,049		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingExpense	         기타영업비용	1,050,928,398,861		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingIncome	         기타영업수익	827,074,918,812		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLoss	      연결분기순이익	904,167,232,036		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToNoncontrollingInterests	         비지배지분에 귀속되는 분기순이익	19,750,257,401		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	         지배기업의 소유주에게 귀속되는 분기순이익	884,416,974,635		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세차감전순이익	1,213,241,123,249		
+ 포괄손익계산서, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익	1,204,625,485,732		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InvestmentIncomeExpenses	      투자손익	52,815,000,000		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingExpenseInvestment	         투자영업비용	1,633,384,000,000		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_AdditionalImpairmentLossesOfFinancialAssets	            신용손실충당금 전입액	0		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InsuranceFinanceExpensesFromInsuranceContractsIssuedRecognisedInProfitOrLoss	            보험금융비용	959,382,000,000		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융상품관련손실	14,740,000,000		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정금융상품관련손실	102,167,000,000		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossesFromDerivatives	            파생상품관련비용	154,299,000,000		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingExpenseInvestment	            기타투자비용	49,568,000,000		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeLoss	            외화거래손실	225,834,000,000		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InterestExpense	            금융부채의 이자비용	124,800,000,000		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	            재산관리비	2,594,000,000		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentIncome	         투자영업수익	1,686,199,000,000		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_FinanceIncomeFromReinsuranceContractsHeldRecognisedInProfitOrLoss	            재보험금융수익	11,719,000,000		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainArisingFromDerecognitionOfFinancialInstrumentsMeasuredAtAmortisedCost	            상각후원가측정금융자산관련이익	90,000,000		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromDerivatives	            파생상품관련수익	144,574,000,000		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융상품관련이익	50,278,000,000		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정금융상품관련이익	396,178,000,000		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InsuranceFinanceIncomeFromInsuranceContractsIssuedRecognisedInProfitOrLoss	            보험금융수익	159,000,000		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingIncomeInvestment	            기타투자수익	89,630,000,000		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_ReversalsOfImpairmentLossesOfFinancialAssets	            신용손실충당금 환입액	9,764,000,000		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	            수수료수익	34,089,000,000		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeGain	            외화거래이익	145,420,000,000		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RevenueFromDividends	            배당금수익	4,254,000,000		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RevenueFromInterest	            이자수익	800,044,000,000		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingExpense	      영업외비용	25,869,000,000		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingIncome	      영업외수익	4,690,000,000		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncome	      연결총포괄손익	-200,247,000,000		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests	         비지배주주지분총포괄손익	0		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배주주지분총포괄손익	-200,247,000,000		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         기본주당순이익	704		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShare	         희석주당순이익	704		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	16,762,000,000		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceServiceResult	      보험손익	94,982,000,000		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingExpenseInsurance	         보험서비스비용	854,711,000,000		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingExpenseInsurance	            기타사업비용	26,031,000,000		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ExpensesFromAllocationOfPremiumsPaidToReinsurer	            재보험비용	17,990,000,000		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceServiceExpensesFromInsuranceContractsIssued	            보험비용	810,690,000,000		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingIncomeInsurance	         보험영업수익	949,693,000,000		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IncomeFromAmountsRecoveredFromReinsurer	            재보험수익	32,314,000,000		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceRevenue	            보험수익	917,379,000,000		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      연결기타포괄손익	-310,103,000,000		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax	         후속적으로 당기손익으로 재분류될 수 있는 기타포괄손익	-306,916,000,000		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges	            현금흐름위험회피파생상품평가손익	-28,093,000,000		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinanceIncomeExpensesFromReinsuranceContractsHeldExcludedFromProfitOrLoss	            재보험계약자산(부채)순금융손익	-372,000,000		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정채무증권평가손익	3,862,000,000		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxInsuranceFinanceIncomeExpensesFromInsuranceContractsIssuedExcludedFromProfitOrLossThatWillBeReclassifiedToProfitOrLoss	            보험계약자산(부채)순금융손익	-282,313,000,000		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax	         후속적으로 당기손익으로 재분류되지 않는 기타포괄손익	-3,187,000,000		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정지분증권평가손익	419,000,000		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            순확정급여부채의 재측정요소	-3,619,000,000		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation	            자산재평가손익	13,000,000		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLoss	      연결분기순이익	109,856,000,000		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세차감전순이익	126,618,000,000		
+ 포괄손익계산서, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익	147,797,000,000		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_AdjustedProfitLossNetOfCapastropheReserve	      비상위험준비금 반영후 조정이익	1,426,987,629,549		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      대손준비금 반영후 조정이익	1,202,416,876,139		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_AdjustedProfitLossNetOfSurrenderValueReserve	      해약환급금준비금 반영후 조정이익	757,227,905,859		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InvestmentIncomeExpenses	      투자손익	926,020,782,329		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingExpenseInvestment	         투자영업비용	1,182,690,451,764		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InsuranceFinanceExpensesFromInsuranceContractsIssuedRecognisedInProfitOrLoss	            보험금융비용	498,519,441,117		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossesOnChangeInFairValueAndOnDisposalOfFinancialInstruments	            금융상품투자비용	146,111,680,847		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingExpenseInvestment	            기타투자비용	137,458,995,921		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InterestExpense	            금융부채의 이자비용	389,072,701,095		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	            재산관리비	11,527,632,784		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentIncome	         투자영업수익	2,108,711,234,093		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_AdjustmentsForGainOnDisposalOfInvestmentsInAssociates	            관계기업투자주식관련이익	135,896,035		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_FinanceIncomeFromReinsuranceContractsHeldRecognisedInProfitOrLoss	            재보험금융수익	18,308,577,922		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainsOnChangeInFairValueAndOnDisposalOfFinancialInstruments	            금융상품투자수익	502,943,948,872		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingIncomeInvestment	            기타투자수익	260,592,996,432		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RevenueFromDividends	            배당금수익	34,088,628,141		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RevenueFromInterest	            이자수익	1,292,641,186,691		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingProfitLoss	      영업외손익	10,058,184,152		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingExpense	         영업외비용	3,293,989,478		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingIncome	         영업외수익	13,352,173,630		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncome	      분기총포괄손익	718,654,417,223		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests	         비지배지분에 귀속되는 분기총포괄손익	245,978,121		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배기업의 소유주에게 귀속되는 분기총포괄손익	718,408,439,102		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         보통주기본주당이익(손실)	13,829		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShare	         보통주희석주당이익(손실)	13,829		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	508,089,269,814		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceServiceResult	      보험손익	1,026,156,156,021		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingExpenseInsurance	         보험서비스비용	6,185,641,587,229		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingExpenseInsurance	            기타사업비용	77,350,438,905		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ExpensesFromAllocationOfPremiumsPaidToReinsurer	            재보험비용	490,045,013,408		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceServiceExpensesFromInsuranceContractsIssued	            보험비용	5,618,246,134,916		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingIncomeInsurance	         보험영업수익	7,211,797,743,250		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IncomeFromAmountsRecoveredFromReinsurer	            재보험수익	365,976,005,309		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceRevenue	            보험수익	6,845,821,737,941		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	-735,491,435,465		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax	         당기손익으로 재분류되는 세후기타포괄손익의 구성요소	-747,349,355,081		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxCreditLossesOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정 신용손실	-687,165,641		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges	            현금흐름위험회피파생상품평가손익	-88,676,648,014		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	            해외사업환산손익	-2,200,239,489		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinanceIncomeExpensesFromReinsuranceContractsHeldExcludedFromProfitOrLoss	            재보험계약자산(부채)순금융손익	5,132,771,532		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산관련손익	-187,974,849,706		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxInsuranceFinanceIncomeExpensesFromInsuranceContractsIssuedExcludedFromProfitOrLossThatWillBeReclassifiedToProfitOrLoss	            보험계약자산(부채)순금융손익	-472,943,223,763		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax	         당기손익으로 재분류되지 않는 세후기타포괄손익의 구성요소	11,857,919,616		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정유가증권평가손익	12,703,088,559		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            확정급여제도의재측정요소	-845,168,943		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation	            재평가잉여금	0		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLoss	      분기순이익	1,454,145,852,688		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToNoncontrollingInterests	         비지배지분에 귀속되는 분기순이익	1,333,631,315		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	         지배기업의 소유주에게 귀속되는 분기순이익	1,452,812,221,373		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세차감전순이익	1,962,235,122,502		
+ 포괄손익계산서, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익	1,952,176,938,350		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	entity00112332_EquityMethodValuationLossOfOperatingExpenseInvestment	            지분법평가손실	475,724,628		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InvestmentIncomeExpenses	      투자서비스손익	71,688,265,644		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingExpenseInvestment	         투자서비스비용	3,064,526,256,253		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_FinanceExpensesFromReinsuranceContractsHeldRecognisedInProfitOrLoss	            재보험금융비용	1,713,452,802		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InsuranceFinanceExpensesFromInsuranceContractsIssuedRecognisedInProfitOrLoss	            보험금융비용	2,110,926,278,601		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산관련손실	5,519,415,256		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정금융자산관련비용	467,669,561,412		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossesFromDerivatives	            파생상품평가및처분손실	124,024,540,399		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingExpenseInvestment	            기타투자영업비용	115,038,115,702		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	entity00112332_LossFromFinancialAssetsAtAmortisedCostOfOperatingExpenseInvestment	            상각후원가측정대출채권및기타수취채권관련손실	5,496,917,237		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeLoss	            외화거래손실	208,492,714,609		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InterestExpense	            이자비용	9,668,029,816		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	            재산관리비	15,501,505,791		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentIncome	         투자서비스수익	3,136,214,521,897		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_FinanceIncomeFromReinsuranceContractsHeldRecognisedInProfitOrLoss	            재보험금융수익	2,449,857,952		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromDerivatives	            파생상품관련수익	223,783,246,372		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융상품관련이익	7,205,771,939		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정금융상품관련이익	1,800,216,707,770		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InsuranceFinanceIncomeFromInsuranceContractsIssuedRecognisedInProfitOrLoss	            보험금융수익	478,403,888,726		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingIncomeInvestment	            기타수익	127,664,078,122		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	entity00112332_RentalRuvenueOfInvestmentIncome	            임대료수익	395,044,936		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	entity00112332_StakeMethodProductValuationGainOrLossOfInvestmentIncome	            지분법평가이익	255,945,132		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	entity00112332_udf_IS_2024319201530452OfInvestmentIncome	            수수료수익	58,998,540,480		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	entity00112332_udf_IS_202445153513828OfInvestmentIncome	            상각후원가측정대출채권및기타수취채권관련이익	2,675,482,249		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeGain	            외화거래이익	31,484,869,556		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RevenueFromDividends	            배당금수익	34,598,505,213		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RevenueFromInterest	            이자수익	368,082,583,450		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InterestRevenueOnFinancialAssetsAtFairValueThroughProfitOrLoss	               당기손익-공정가치로 측정하는 금융자산의 이자수익	5,926,967,872		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	               유효이자율법 적용 이자수익	362,155,615,578		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingProfitLoss	      영업외손익	-2,346,144,593		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingExpense	         영업외비용	6,722,389,972		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingIncome	         영업외수익	4,376,245,379		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncome	      총포괄손익	-72,106,426,469		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배기업의 소유주에게 귀속되는 총포괄손익	-72,106,426,469		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeFromContinuingOperationsAttributableToOwnersOfParent	            지배기업의 소유주에게 귀속되는 계속영업포괄손익	-72,106,426,469		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         보통주기본주당이익(손실)	960		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_BasicEarningsLossPerShareFromContinuingOperations	            계속영업기본주당이익(손실) - 보통주	960		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShare	         보통주희석주당이익(손실)	960		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShareFromContinuingOperations	            계속영업희석주당이익(손실) - 보통주	960		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용(수익)	38,589,669,038		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceServiceResult	      보험손익	94,478,783,386		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingExpenseInsurance	         보험서비스비용	719,904,737,853		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingExpenseInsurance	            기타사업비용	69,932,807,793		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ExpensesFromAllocationOfPremiumsPaidToReinsurer	            출재보험서비스비용	22,614,918,376		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceServiceExpensesFromInsuranceContractsIssued	            일반보험서비스비용	627,357,011,684		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingIncomeInsurance	         보험서비스수익	814,383,521,239		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IncomeFromAmountsRecoveredFromReinsurer	            출재보험서비스수익	18,425,950,560		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceRevenue	            일반보험서비스수익	795,957,570,679		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	-197,337,661,868		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax	         당기손익으로 재분류되는 세후기타포괄손익의 구성요소	-198,587,839,700		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges	            현금흐름위험회피파생상품평가손익	-102,159,124,194		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinanceIncomeExpensesFromReinsuranceContractsHeldExcludedFromProfitOrLoss	            재보험계약자산(부채)순금융손익	-1,670,935,076		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산관련손익	100,098,442,400		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxInsuranceFinanceIncomeExpensesFromInsuranceContractsIssuedExcludedFromProfitOrLossThatWillBeReclassifiedToProfitOrLoss	            보험계약자산(부채)순금융손익	-189,842,305,865		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax	            지분법자본변동	-5,013,916,965		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax	         당기손익으로 재분류되지 않는 세후기타포괄손익의 구성요소	1,250,177,832		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            확정급여제도의재측정요소	1,250,180,613		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation	            자산재평가손익	-2,781		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLoss	      당기순이익(손실)	125,231,235,399		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	         지배기업의 소유주에게 귀속되는 당기순이익(손실)	125,231,235,399		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IncomeFromContinuingOperationsAttributableToOwnersOfParent	            지배기업의 소유주에게 귀속될 계속영업손익	125,231,235,399		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세차감전순이익	163,820,904,437		
+ 포괄손익계산서, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익(손실)	166,167,049,030		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InvestmentIncomeExpenses	      투자손익	1,378,265,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingExpenseInvestment	         투자서비스비용	18,040,357,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_FinanceExpensesFromReinsuranceContractsHeldRecognisedInProfitOrLoss	            재보험금융비용	30,928,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InsuranceFinanceExpensesFromInsuranceContractsIssuedRecognisedInProfitOrLoss	            보험금융비용	8,633,098,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtAmortisedCost	            상각후원가측정금융자산관련손실	633,211,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익공정가치측정금융자산관련손실	27,660,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	            당기손익공정가치측정금융자산관련손실	356,963,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossesFromDerivatives	            파생상품관련손실	2,852,608,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingExpenseInvestment	            기타영업비용	1,890,308,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeLoss	            외환거래손실	1,939,489,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InterestExpense	            이자비용	1,440,943,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	            재산관리비	235,149,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentIncome	         투자서비스수익	19,418,622,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_FinanceIncomeFromReinsuranceContractsHeldRecognisedInProfitOrLoss	            재보험금융수익	84,933,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromDerivatives	            파생상품관련이익	2,265,607,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtAmortisedCost	            상각후원가측정금융자산관련이익	4,496,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익공정가치측정금융자산관련이익	35,334,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	            당기손익공정가치측정금융자산관련이익	4,717,484,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InsuranceFinanceIncomeFromInsuranceContractsIssuedRecognisedInProfitOrLoss	            보험금융수익	1,110,149,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LeaseIncome	            리스수익	158,603,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingIncomeInvestment	            기타영업수익	430,195,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	            수수료수익	1,588,313,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeGain	            외환거래이익	1,554,566,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RentalIncome	            임대료수익	381,416,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RevenueFromDividends	            배당금수익	802,984,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RevenueFromInterest	            이자수익	6,284,542,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingProfitLoss	      영업외손익	320,620,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingExpense	         영업외비용	24,581,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingIncome	         영업외수익	345,201,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncome	      총포괄손익	9,060,278,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests	         비지배지분에 귀속되는 총포괄손익	132,651,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeFromContinuingOperationsAttributableToNoncontrollingInterests	            비지배지분에 귀속되는 계속영업포괄손익	132,651,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배기업의 소유주에게 귀속되는 총포괄손익	8,927,627,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeFromContinuingOperationsAttributableToOwnersOfParent	            지배기업의 소유주에게 귀속되는 계속영업포괄손익	8,927,627,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         기본주당이익(손실)(단위:원)	11,790		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShare	         보통주희석주당이익(손실)	11,790		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	573,803,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceServiceResult	      보험서비스결과	1,106,940,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingExpenseInsurance	         보험서비스비용	6,281,902,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingExpenseInsurance	            기타사업비용	94,372,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ExpensesFromAllocationOfPremiumsPaidToReinsurer	            출재보험서비스비용	167,977,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceServiceExpensesFromInsuranceContractsIssued	            일반보험서비스비용	6,019,553,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingIncomeInsurance	         보험서비스수익	7,388,842,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IncomeFromAmountsRecoveredFromReinsurer	            출재보험서비스수익	127,833,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceRevenue	            일반보험서비스수익	7,261,009,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      법인세비용차감후기타포괄손익	6,828,256,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax	         후속적으로 당기손익으로 재분류될 수 있는 포괄손익	-1,544,348,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges	            위험회피목적파생상품평가손익	-363,512,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	            해외사업환산손익	-41,729,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinanceIncomeExpensesFromReinsuranceContractsHeldExcludedFromProfitOrLoss	            기타포괄재보험금융손익	3,028,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익공정가치측정채무증권평가손익	198,959,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxInsuranceFinanceIncomeExpensesFromInsuranceContractsIssuedExcludedFromProfitOrLossThatWillBeReclassifiedToProfitOrLoss	            기타포괄보험금융손익	-1,344,966,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax	            관계기업투자기타포괄손익	3,872,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax	         후속적으로 당기손익으로 재분류되지 않는 포괄손익	8,372,604,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익공정가치측정지분증권평가손익	8,375,541,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            순확정급여부채재측정요소	-2,937,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLoss	      당기순이익(손실)	2,232,022,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToNoncontrollingInterests	         비지배지분에 귀속되는 당기순이익(손실)	114,888,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossFromContinuingOperationsAttributableToNoncontrollingInterests	            비지배지분에 귀속될 계속영업이익(손실)	114,888,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	         지배기업의 소유주에게 귀속되는 당기순이익(손실)	2,117,134,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IncomeFromContinuingOperationsAttributableToOwnersOfParent	            지배기업의 소유주에게 귀속될 계속영업손익	2,117,134,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세비용차감전순이익	2,805,825,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossFromContinuingOperations	      계속영업이익(손실)	2,232,022,000,000		
+ 포괄손익계산서, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익	2,485,205,000,000		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InvestmentIncomeExpenses	      투자손익	948,251,265,380		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingExpenseInvestment	         투자영업비용	3,175,118,937,289		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_AdditionalImpairmentLossesOfFinancialAssets	            신용손실충당금전입액	66,853,032,910		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_FinanceExpensesFromReinsuranceContractsHeldRecognisedInProfitOrLoss	            재보험금융비용	63,230,853,288		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InsuranceFinanceExpensesFromInsuranceContractsIssuedRecognisedInProfitOrLoss	            보험금융비용	1,168,121,660,529		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossArisingFromDerecognitionOfFinancialInstrumentsMeasuredAtAmortisedCost	            상각후원가측정금융상품제거손실	1,040,541,908		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융상품관련손실	324,325,240,694		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정금융상품관련손실	161,957,176,935		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossesFromDerivatives	            파생상품거래및평가손실	305,173,547,575		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingExpenseInvestment	            기타투자비용	65,308,568,304		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeLoss	            외환거래손실	501,129,079,155		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InterestExpense	            이자비용	452,646,280,355		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	            재산관리비	65,332,955,636		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentIncome	         투자영업수익	4,123,370,202,669		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_FinanceIncomeFromReinsuranceContractsHeldRecognisedInProfitOrLoss	            재보험금융수익	88,773,779,645		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainArisingFromDerecognitionOfFinancialInstrumentsMeasuredAtAmortisedCost	            상각후원가측정금융상품제거이익	13,904,614,281		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromDerivatives	            파생상품거래및평가이익	409,167,199,421		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융상품관련이익	16,376,039,619		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정금융상품관련이익	289,373,206,124		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InsuranceFinanceIncomeFromInsuranceContractsIssuedRecognisedInProfitOrLoss	            보험금융수익	181,915,591,155		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingIncomeInvestment	            기타투자수익	869,258,717,940		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_ReversalsOfImpairmentLossesOfFinancialAssets	            신용손실충당금환입액	12,338,787,417		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeGain	            외환거래이익	341,815,418,979		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RevenueFromDividends	            배당금수익	137,141,872,924		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RevenueFromInterest	            이자수익	1,763,304,975,164		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingExpense	      영업외비용	8,036,121,139		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingIncome	      영업외수익	112,654,874,788		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncome	      연결분기총포괄손익	3,936,899,236,109		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests	         비지배지분에 귀속되는 연결분기총포괄손익	-335,621,684		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배기업의 소유주에게 귀속되는 연결분기총포괄손익	3,937,234,857,793		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         기본주당이익	41,956		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShare	         희석주당이익	41,956		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	586,598,328,706		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceServiceResult	      보험손익	1,319,633,649,852		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingExpenseInsurance	         보험영업비용	13,252,541,702,102		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingExpenseInsurance	            기타사업비용	169,374,134,427		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ExpensesFromAllocationOfPremiumsPaidToReinsurer	            재보험비용	974,910,193,151		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceServiceExpensesFromInsuranceContractsIssued	            보험서비스비용	12,108,257,374,524		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingIncomeInsurance	         보험영업수익	14,572,175,351,954		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingIncome	            기타영업수익	23,034,416,252		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IncomeFromAmountsRecoveredFromReinsurer	            재보험수익	645,533,331,669		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceRevenue	            보험수익	13,903,607,604,033		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      연결기타포괄손익	2,150,993,895,934		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax	         후속적으로 당기손익으로 재분류되는 항목	100,438,514,033		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax	         후속적으로 당기손익으로 재분류되지 않는 항목	2,050,555,381,901		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLoss	      연결분기순이익	1,785,905,340,175		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_AdjustedProfitLossNetOfCapastropheReserve	         비상위험준비금 반영후 조정이익	1,688,919,977,356		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	         대손준비금 반영후 조정이익	1,794,902,948,896		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_AdjustedProfitLossNetOfSurrenderValueReserve	         해약환급금준비금 반영후 조정이익	330,764,038,997		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToNoncontrollingInterests	         비지배지분에 귀속되는 연결분기순이익	2,350,618,943		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	         지배기업의 소유주에게 귀속되는 연결분기순이익	1,783,554,721,232		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세비용차감전순이익	2,372,503,668,881		
+ 포괄손익계산서, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익	2,267,884,915,232		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_AdjustedProfitLossNetOfCapastropheReserve	      비상위험준비금 반영후 조정이익	77,450,075,048		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      대손준비금 반영후 조정이익	146,663,078,392		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InvestmentIncomeExpenses	      투자손익	91,810,416,643		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingExpenseInvestment	         투자영업비용	-246,446,522,646		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_AdditionalImpairmentLossesOfFinancialAssets	            신용손실충당금 전입액	-1,244,994,303		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_FinanceExpensesFromReinsuranceContractsHeldRecognisedInProfitOrLoss	            재보험금융비용	-6,231,106,717		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InsuranceFinanceExpensesFromInsuranceContractsIssuedRecognisedInProfitOrLoss	            보험금융비용	-112,540,252,264		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융상품관련손실	-2,039,368,910		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정금융상품관련손실	-40,916,287,125		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossesFromDerivatives	            파생상품관련손실	-7,731,051,693		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingExpenseInvestment	            기타비용	-43,449,864,743		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeLoss	            외환거래손실	-20,475,057,718		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InterestExpense	            이자비용	-4,453,669,066		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_PropertyManagementExpense	            부동산관리비	-1,201,509,575		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	            재산관리비	-6,163,360,532		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentIncome	         투자영업수익	338,256,939,289		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_FinanceIncomeFromReinsuranceContractsHeldRecognisedInProfitOrLoss	            재보험금융수익	10,805,834,979		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromDerivatives	            파생상품관련이익	22,084,898,285		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융상품관련이익	17,255,055,964		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정금융상품관련이익	35,954,191,797		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InsuranceFinanceIncomeFromInsuranceContractsIssuedRecognisedInProfitOrLoss	            보험금융수익	38,273,073,263		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingIncomeInvestment	            기타수익	66,250,600,627		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_ReversalsOfImpairmentLossesOfFinancialAssets	            신용손실충당금 환입액	232,193,476		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeGain	            외환거래이익	2,017,162,226		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RevenueFromDividends	            배당수익	6,091,203,357		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RevenueFromInterest	            이자수익	139,292,725,315		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingExpense	      영업외비용	-8,134,287,823		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingIncome	      영업외수익	7,189,283,993		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncome	      총포괄손익	211,216,000,875		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests	         비지배주주지분	-66,631,504		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배주주지분	211,282,632,379		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         기본주당이익	2,101		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShare	         희석주당이익	2,101		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	-45,178,004,779		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceServiceResult	      보험손익	100,953,589,498		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingExpenseInsurance	         보험영업비용	-1,643,173,134,677		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingExpenseInsurance	            기타사업비용	-54,463,232,221		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ExpensesFromAllocationOfPremiumsPaidToReinsurer	            재보험서비스비용	-120,625,150,623		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceServiceExpensesFromInsuranceContractsIssued	            보험서비스비용	-1,468,084,751,833		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingIncomeInsurance	         보험영업수익	1,744,126,724,175		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IncomeFromAmountsRecoveredFromReinsurer	            재보험수익	123,195,642,991		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceRevenue	            보험수익	1,620,931,081,184		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	64,575,003,343		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax	         후속적으로 당기손익으로 재분류되는 포괄손익	29,604,813,648		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxCreditLossesOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정유가증권신용손실	118,198,379		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges	            현금흐름위험회피파생상품평가손익	-4,991,907,952		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	            해외사업환산손익	-4,022,371,303		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinanceIncomeExpensesFromReinsuranceContractsHeldExcludedFromProfitOrLoss	            재보험계약 관련 금융손익	115,167,112		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정채무상품평가손익	39,864,950,968		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxInsuranceFinanceIncomeExpensesFromInsuranceContractsIssuedExcludedFromProfitOrLossThatWillBeReclassifiedToProfitOrLoss	            보험계약 관련 금융손익	-1,479,223,556		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax	         후속적으로 당기손익으로 재분류되지 않는 포괄손익	34,970,189,695		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정유가증권평가손익	36,106,764,857		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            확정급여부채 재측정요소	-1,136,575,162		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLoss	      분기순이익	146,640,997,532		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToNoncontrollingInterests	         비지배주주지분	-66,631,504		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	         지배주주지분	146,707,629,036		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세비용차감전순이익	191,819,002,311		
+ 포괄손익계산서, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익	192,764,006,141		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InvestmentIncomeExpenses	      투자손익	128,615,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingExpenseInvestment	         투자영업비용	3,175,402,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_AdditionalImpairmentLossesOfFinancialAssets	            신용손실충당금 전입액	14,748,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_FinanceExpensesFromReinsuranceContractsHeldRecognisedInProfitOrLoss	            재보험금융비용	40,126,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InsuranceFinanceExpensesFromInsuranceContractsIssuedRecognisedInProfitOrLoss	            보험금융비용	2,092,527,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtAmortisedCost	            상각후원가측정금융자산관련손실	0		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익공정가치측정유가증권처분손실	42,318,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	            당기손익공정가치측정금융자산관련손실	168,188,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossesFromDerivatives	            파생상품관련손실	256,103,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingExpenseInvestment	            기타투자비용	250,536,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	entity00137517_LossesOnDisposalOfLoansAtAmortizedCostOfOperatingExpenseInvestment	            상각후원가측정대출채권처분손실	345,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeLoss	            외화거래손실	245,983,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InterestExpense	            이자비용	49,350,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	            재산관리비	15,178,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentIncome	         투자영업수익	3,304,017,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_FinanceIncomeFromReinsuranceContractsHeldRecognisedInProfitOrLoss	            재보험금융수익	49,125,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromDerivatives	            파생상품관련이익	225,482,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtAmortisedCost	            상각후원가측정금융자산관련이익	17,064,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익공정가치측정유가증권처분이익	78,390,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	            당기손익공정가치측정금융자산관련이익	1,247,231,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InsuranceFinanceIncomeFromInsuranceContractsIssuedRecognisedInProfitOrLoss	            보험금융수익	159,176,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingIncomeInvestment	            기타투자수익	191,416,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_ReversalsOfImpairmentLossesOfFinancialAssets	            신용손실충당금환입액	13,645,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	entity00137517_FeesAndCommissionIncomeOfInvestmentIncome	            수수료수익	7,141,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	entity00137517_GainsOnDisposalOfLoansAtAmortizedCostOfInvestmentIncome	            상각후원가측정대출채권처분이익	3,969,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeGain	            외환거래이익	157,343,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RevenueFromDividends	            배당수익	29,808,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RevenueFromInterest	            이자수익	1,124,227,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingProfitLoss	      영업외손익	-12,546,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	entity00137517_udf_IS_2023111011359606OfStatementOfComprehensiveIncomeAbstract	      관계기업손익에 대한 지분	-1,714,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncome	      분기총포괄손익	-237,531,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배기업 소유주지분	-237,531,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         기본 및 희석주당분기순이익	4,402		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	172,796,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceServiceResult	      보험손익	572,956,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingExpenseInsurance	         보험영업비용	1,753,989,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ExpensesFromAllocationOfPremiumsPaidToReinsurer	            재보험서비스비용	115,930,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceServiceExpensesFromInsuranceContractsIssued	            보험서비스비용	1,638,059,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingIncomeInsurance	         보험영업수익	2,392,577,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IncomeFromAmountsRecoveredFromReinsurer	            재보험수익	115,762,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceRevenue	            보험수익	2,276,815,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingExpenseInsurance	         기타사업비용	65,632,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	-752,046,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax	         후속적으로 당기손익으로 재분류되는 항목	-749,773,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges	            현금흐름위험회피목적파생상품평가손익	-86,890,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	            해외사업환산손익	-7,140,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinanceIncomeExpensesFromReinsuranceContractsHeldExcludedFromProfitOrLoss	            재보험계약자산(부채)순금융손익	-60,934,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익공정가치측정유가증권평가손익	-72,510,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxInsuranceFinanceIncomeExpensesFromInsuranceContractsIssuedExcludedFromProfitOrLossThatWillBeReclassifiedToProfitOrLoss	            보험계약부채순금융손익	-522,299,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax	         후속적으로 당기손익으로 재분류되지 않는 항목	-2,273,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익공정가치측정유가증권평가손익	1,221,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            확정급여제도의재측정요소	-3,494,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLoss	      분기순이익	514,515,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	         지배기업 소유주지분	514,515,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세비용차감전순이익	687,311,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익	701,571,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InvestmentIncomeExpenses	      투자손익	87,611,849,108		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingExpenseInvestment	         투자영업비용	1,344,424,009,026		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_AdditionalImpairmentLossesOfFinancialAssets	            신용손실충당금 전입액	373,408,285		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_FinanceExpensesFromReinsuranceContractsHeldRecognisedInProfitOrLoss	            재보험금융비용	2,684,337,902		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InsuranceFinanceExpensesFromInsuranceContractsIssuedRecognisedInProfitOrLoss	            보험금융비용	686,633,074,406		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융상품관련손실	1,723,705,951		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정금융상품관련손실	419,282,318,843		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossesFromDerivatives	            파생상품관련비용	21,804,511,916		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingExpenseInvestment	            기타투자비용	1,743,833		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	entity00148391_udf_IS_2023102316452134OfOperatingExpenseInvestment	            부동산관리비	4,686,265,974		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	entity00148391_udf_IS_2023102316454337OfOperatingExpenseInvestment	            투자부동산감가상각비	1,734,036,113		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	entity00148391_udf_IS_202311619434654OfOperatingExpenseInvestment	            무형자산상각비	128,741,004		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeLoss	            외화거래손실	99,216,496,642		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InterestExpense	            이자비용	53,592,770,612		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	            재산관리비	52,562,597,545		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentIncome	         투자영업수익	1,432,035,858,134		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_FinanceIncomeFromReinsuranceContractsHeldRecognisedInProfitOrLoss	            재보험금융수익	0		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromDerivatives	            파생상품관련수익	16,097,995,649		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융상품관련이익	18,016,635,928		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정금융상품관련이익	800,127,610,630		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InsuranceFinanceIncomeFromInsuranceContractsIssuedRecognisedInProfitOrLoss	            보험금융수익	0		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingIncomeInvestment	            기타투자수익	110,672,336,134		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_ReversalsOfImpairmentLossesOfFinancialAssets	            신용손실충당금 환입액	776,929,546		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	entity00148391_udf_IS_20231023164347684OfInvestmentIncome	            임대료수익	6,096,971,856		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	entity00148391_udf_IS_20231023164350153OfInvestmentIncome	            수수료수익	47,116,454,774		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeGain	            외화거래이익	55,821,273,732		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RevenueFromDividends	            배당금수익	10,025,272,983		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RevenueFromInterest	            이자수익	367,284,376,902		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingProfitLoss	      영업외손익	-15,110,626,820		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingExpense	         영업외비용	15,260,537,968		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingIncome	         영업외수익	149,911,148		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncome	      총포괄손익	-60,068,125,199		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests	         비지배지분에 귀속되는 총포괄손익	0		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배기업의 소유주에게 귀속되는 총포괄손익	-60,068,125,199		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         기본주당이익(손실)	26,959		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShare	         희석주당이익(손실)	26,959		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용(수익)	10,649,747,334		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceServiceResult	      총 보험서비스결과	21,903,640,953		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingExpenseInsurance	         보험서비스비용	557,847,431,709		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingExpenseInsurance	            기타사업비용	14,593,646,033		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ExpensesFromAllocationOfPremiumsPaidToReinsurer	            재보험비용	44,582,387,491		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceServiceExpensesFromInsuranceContractsIssued	            보험비용	498,671,398,185		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingIncomeInsurance	         보험영업수익	579,751,072,662		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IncomeFromAmountsRecoveredFromReinsurer	            재보험수익	35,231,166,851		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceRevenue	            보험수익	544,519,905,811		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	-143,823,241,106		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax	         당기손익으로 재분류되는 세후기타포괄손익의 구성요소	-143,823,241,106		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxCreditLossesOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정 신용손실	-113,564,866		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges	            현금흐름위험회피파생상품평가손익	-599,695,520		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinanceIncomeExpensesFromReinsuranceContractsHeldExcludedFromProfitOrLoss	            재보험계약자산(부채)순금융손익	-4,667,357,038		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산평가손익	-25,142,527,519		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxInsuranceFinanceIncomeExpensesFromInsuranceContractsIssuedExcludedFromProfitOrLossThatWillBeReclassifiedToProfitOrLoss	            보험계약자산(부채)순금융손익	-113,300,096,163		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax	         당기손익으로 재분류되지 않는 세후기타포괄손익의 구성요소	0		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLoss	      당기순이익(손실)	83,755,115,907		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToNoncontrollingInterests	         비지배지분에 귀속되는 당기순이익(손실)	0		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	         지배기업의 소유주에게 귀속되는 당기순이익(손실)	83,755,115,907		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세차감전순이익	94,404,863,241		
+ 포괄손익계산서, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익(손실)	109,515,490,061		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InvestmentIncomeExpenses	      투자영업손익	143,087,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingExpenseInvestment	         투자영업비용	1,653,862,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_FinanceExpensesFromReinsuranceContractsHeldRecognisedInProfitOrLoss	            재보험금융비용	367,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InsuranceFinanceExpensesFromInsuranceContractsIssuedRecognisedInProfitOrLoss	            보험금융비용	1,273,099,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융상품관련손실	8,108,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정금융상품관련손실	129,086,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossesFromDerivatives	            파생상품평가 및 거래손실	62,992,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingExpenseInvestment	            기타영업비용	56,700,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	entity00160393_LossesOnDisposalOfSubsidiariesOfOperatingExpenseInvestmentOfOperatingExpenseInvestment	            관계기업투자주식관련손실	499,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeLoss	            외환거래손실	114,521,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InterestExpense	            이자비용	8,490,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentIncome	         투자영업수익	1,796,949,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_FinanceIncomeFromReinsuranceContractsHeldRecognisedInProfitOrLoss	            재보험금융수익	64,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromDerivatives	            파생상품평가 및 거래이익	103,778,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융상품관련이익	37,358,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정금융상품관련이익	788,008,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InsuranceFinanceIncomeFromInsuranceContractsIssuedRecognisedInProfitOrLoss	            보험금융수익	14,733,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingIncomeInvestment	            기타영업수익	136,493,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeGain	            외환거래이익	8,732,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RevenueFromDividends	            배당금수익	33,946,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RevenueFromInterest	            이자수익	673,837,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingProfitLoss	      영업외손익	-517,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingExpense	         영업외비용	2,017,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingIncome	         영업외수익	1,500,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncome	      총포괄손익	-137,235,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배기업 소유지분	-137,235,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	92,899,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceServiceResult	      보험영업손익	232,317,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingExpenseInsurance	         보험영업비용	417,915,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingExpenseInsurance	            기타사업비용	2,628,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ExpensesFromAllocationOfPremiumsPaidToReinsurer	            재보험영업비용	8,158,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceServiceExpensesFromInsuranceContractsIssued	            보험영업비용	407,129,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingIncomeInsurance	         보험영업수익	650,232,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IncomeFromAmountsRecoveredFromReinsurer	            재보험영업수익	7,750,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceRevenue	            보험영업수익	642,482,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	-392,029,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax	         후속적으로 당기손익으로 재분류되는 항목	-396,407,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges	            현금흐름위험회피파생상품평가손익	-19,640,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinanceIncomeExpensesFromReinsuranceContractsHeldExcludedFromProfitOrLoss	            재보험계약자산부채순금융손익	3,508,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정채무상품평가손익	-109,154,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxInsuranceFinanceIncomeExpensesFromInsuranceContractsIssuedExcludedFromProfitOrLossThatWillBeReclassifiedToProfitOrLoss	            보험계약자산부채순금융손익	-271,121,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax	         후속적으로 당기손익으로 재분류되지 않는 항목	4,378,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정지분상품평가손익	4,091,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            순확정급여부채의 재측정요소	287,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherOperatingIncomeExpense	      기타영업손익	-27,194,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingExpense	         기타영업비용	83,831,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingIncome	         기타영업수익	56,637,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLoss	      분기순이익	254,794,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	         지배기업 소유지분	254,794,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세비용차감전순이익	347,693,000,000		
+ 포괄손익계산서, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익	348,210,000,000		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	dart_AdjustedProfitLossNetOfCapastropheReserve	      비상위험준비금 반영후 조정이익	230,586,674,130		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      대손준비금 반영후 조정이익	291,527,022,502		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	dart_AdjustedProfitLossNetOfSurrenderValueReserve	      해약환급금준비금 반영후 조정이익	290,558,879,602		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	dart_InvestmentIncomeExpenses	      투자손익	162,596,625,025		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingExpenseInvestment	         투자영업비용	556,019,939,495		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	dart_FinanceExpensesFromReinsuranceContractsHeldRecognisedInProfitOrLoss	            재보험금융비용	55,727,200,195		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	dart_InsuranceFinanceExpensesFromInsuranceContractsIssuedRecognisedInProfitOrLoss	            보험금융비용	292,220,925,636		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingExpenseInvestment	            기타비용	123,338,909,603		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	entity00113191_InvestmentExpensesFromFinancialInstrumentsOfOperatingExpenseInvestment	            금융상품투자비용	68,672,814,468		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InterestExpense	            이자비용	569,357,973		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_PropertyManagementExpense	            부동산관리비	2,777,507,108		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	            재산관리비	12,713,224,512		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentIncome	         투자영업수익	718,616,564,520		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	dart_FinanceIncomeFromReinsuranceContractsHeldRecognisedInProfitOrLoss	            재보험금융수익	38,509,181,341		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	dart_InsuranceFinanceIncomeFromInsuranceContractsIssuedRecognisedInProfitOrLoss	            보험금융수익	177,828,861,222		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingIncomeInvestment	            기타수익	142,688,478,422		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	entity00113191_InvestmentIncomeFromFinancialInstrumentsOfInvestmentIncome	            금융상품투자수익	97,188,023,171		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RevenueFromDividends	            배당금수익	19,430,416,216		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RevenueFromInterest	            이자수익	242,971,604,148		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingProfitLoss	      영업외손익	-4,927,049,843		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingExpense	         영업외비용	5,142,725,748		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingIncome	         영업외수익	215,675,905		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncome	      총포괄손익	289,931,352,887		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         보통주기본주당이익	1,364		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShare	         보통주희석주당이익	1,364		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	127,853,950,693		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceServiceResult	      보험손익	252,384,016,421		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingExpenseInsurance	         보험서비스비용	4,075,660,805,275		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingExpenseInsurance	            기타사업비용	84,855,841,282		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ExpensesFromAllocationOfPremiumsPaidToReinsurer	            재보험비용	951,508,420,975		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceServiceExpensesFromInsuranceContractsIssued	            보험비용	3,039,296,543,018		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingIncomeInsurance	         보험영업수익	4,328,044,821,696		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IncomeFromAmountsRecoveredFromReinsurer	            재보험수익	641,296,566,719		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceRevenue	            보험수익	3,686,748,254,977		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	7,417,063,457		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax	         후속적으로 당기손익으로 재분류되는 항목	-22,921,178,466		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxCreditLossesOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산손실충당금전입(환입)	812,440,262		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges	            현금흐름위험회피파생상품평가손익	-7,946,726,863		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	            해외사업환산손익	8,807,464,180		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinanceIncomeExpensesFromReinsuranceContractsHeldExcludedFromProfitOrLoss	            재보험계약자산(부채)순금융손익	12,781,397,065		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산평가손익	30,098,513,064		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxInsuranceFinanceIncomeExpensesFromInsuranceContractsIssuedExcludedFromProfitOrLossThatWillBeReclassifiedToProfitOrLoss	            보험계약자산(부채)순금융손익	-67,474,266,174		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax	         후속적으로 당기손익으로 재분류되지 않는 항목	30,338,241,923		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정금융자산평가손익	31,290,562,215		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            확정급여제도의 재측정요소의 변동	48,701,147		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation	            재평가잉여금	-1,001,021,439		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherOperatingIncomeExpense	      기타영업손익	314,648,520		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingExpense	         기타영업비용	3,923,582,039		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingIncome	         기타영업수익	4,238,230,559		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLoss	      분기순이익	282,514,289,430		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세차감전순이익	410,368,240,123		
+ 포괄손익계산서, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익	415,295,289,966		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InvestmentIncomeExpenses	      투자손익	-124,816,534,249		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingExpenseInvestment	         투자영업비용	1,011,195,438,828		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_AdditionalImpairmentLossesOfFinancialAssets	            신용손실충당금 전입액	618,795,000		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InsuranceFinanceExpensesFromInsuranceContractsIssuedRecognisedInProfitOrLoss	            보험금융비용	220,473,212,449		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossArisingFromDerecognitionOfFinancialInstrumentsMeasuredAtAmortisedCost	            상각후원가측정금융상품제거손실	266,268,711		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융상품관련손실	5,981,540,190		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정금융상품관련손실	53,555,867,062		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossesFromDerivatives	            파생상품관련비용	103,255,173,845		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingExpenseInvestment	            기타투자비용	246,937,314,803		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeLoss	            외화거래손실	335,651,517,483		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InterestExpense	            금융부채의 이자비용	43,019,471,308		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	            재산관리비	1,436,277,977		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentIncome	         투자영업수익	886,378,904,579		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_FinanceIncomeFromReinsuranceContractsHeldRecognisedInProfitOrLoss	            재보험금융수익	53,905,922		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainArisingFromDerecognitionOfFinancialInstrumentsMeasuredAtAmortisedCost	            상각후원가측정금융상품제거이익	1,925,298,962		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromDerivatives	            파생상품관련수익	300,813,472,917		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융상품관련이익	6,715,886,678		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정금융상품관련이익	153,895,232,804		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingIncomeInvestment	            기타투자수익	13,600,921,983		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_ReversalsOfImpairmentLossesOfFinancialAssets	            신용손실충당금 환입액	8,026,789,920		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeGain	            외화거래이익	34,934,863,748		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RevenueFromDividends	            배당금수익	4,299,987,872		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RevenueFromInterest	            이자수익	362,112,543,773		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InterestRevenueOnFinancialAssetsAtFairValueThroughProfitOrLoss	               당기손익-공정가치로 측정하는 금융자산의 이자수익	2,066,590,640		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	               유효이자율법 적용 이자수익	360,045,953,133		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingProfitLoss	      영업외손익	-551,477,825		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingExpense	         영업외비용	1,418,989,840		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingIncome	         영업외수익	867,512,015		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncome	      총포괄손익	75,577,767,560		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests	         비지배지분	0		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배기업 소유주지분	75,577,767,560		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용(수익)	-37,648,034,598		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceServiceResult	      보험손익	2,841,375,566		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingExpenseInsurance	         보험서비스비용	184,733,608,910		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingExpenseInsurance	            기타사업비용	7,194,584,482		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ExpensesFromAllocationOfPremiumsPaidToReinsurer	            재보험비용	7,252,555,735		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceServiceExpensesFromInsuranceContractsIssued	            보험비용	170,286,468,693		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingIncomeInsurance	         보험영업수익	187,574,984,476		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IncomeFromAmountsRecoveredFromReinsurer	            재보험수익	5,655,806,687		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceRevenue	            보험수익	181,919,177,789		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	160,456,369,470		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax	         당기손익으로 재분류되는 세후기타포괄손익의 구성요소	160,736,323,281		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxCreditLossesOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정 신용손실	-236,557,024		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges	            현금흐름위험회피파생상품평가손익	-5,240,076,316		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinanceIncomeExpensesFromReinsuranceContractsHeldExcludedFromProfitOrLoss	            재보험계약자산(부채)순금융손익	-87,978,794		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산 평가손익	163,941,288,853		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxInsuranceFinanceIncomeExpensesFromInsuranceContractsIssuedExcludedFromProfitOrLossThatWillBeReclassifiedToProfitOrLoss	            보험계약자산(부채)순금융손익	2,359,646,562		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax	         당기손익으로 재분류되지 않는 세후기타포괄손익의 구성요소	-279,953,811		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            확정급여부채의 재측정요소	-279,953,811		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLoss	      분기순이익(손실)	-84,878,601,910		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToNoncontrollingInterests	         비지배지분	0		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	         지배기업 소유주지분	-84,878,601,910		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세차감전순이익(손실)	-122,526,636,508		
+ 포괄손익계산서, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익(손실)	-121,975,158,683		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InvestmentIncomeExpenses	      투자손익	582,281,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingExpenseInvestment	         투자영업비용	10,658,317,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_FinanceExpensesFromReinsuranceContractsHeldRecognisedInProfitOrLoss	            재보험금융비용	6,260,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InsuranceFinanceExpensesFromInsuranceContractsIssuedRecognisedInProfitOrLoss	            보험금융비용	3,715,988,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtAmortisedCost	            상각후원가측정금융상품관련손실	113,648,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융상품관련손실	6,124,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정금융상품관련손실	965,913,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossesFromDerivatives	            파생상품관련비용	2,690,973,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingExpenseInvestment	            기타투자비용	1,427,933,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeLoss	            외화거래손실	1,054,377,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InterestExpense	            금융부채의 이자비용	623,291,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	            재산관리비	53,810,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentIncome	         투자영업수익	11,240,598,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_FinanceIncomeFromReinsuranceContractsHeldRecognisedInProfitOrLoss	            재보험금융수익	19,345,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromDerivatives	            파생상품관련수익	2,264,601,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtAmortisedCost	            상각후원가측정금융상품관련이익	19,910,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융상품관련이익	149,110,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정금융상품관련이익	3,866,707,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingIncomeInvestment	            기타투자수익	892,070,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeGain	            외화거래이익	661,681,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RevenueFromDividends	            배당수익	280,848,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RevenueFromInterest	            이자수익	3,086,326,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingProfitLoss	      영업외손익	11,479,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingExpense	         영업외비용	35,276,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingIncome	         영업외수익	46,755,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncome	      총포괄손익	-446,179,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests	         비지배지분	87,427,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배기업의 소유주	-533,606,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         보통주기본주당이익	750		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShare	         보통주희석주당이익	750		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	209,519,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceServiceResult	      보험손익	384,671,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingExpenseInsurance	         보험서비스비용	8,466,918,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingExpenseInsurance	            기타사업비용	216,106,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ExpensesFromAllocationOfPremiumsPaidToReinsurer	            재보험비용	447,520,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceServiceExpensesFromInsuranceContractsIssued	            보험비용	7,803,292,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingIncomeInsurance	         보험영업수익	8,851,589,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IncomeFromAmountsRecoveredFromReinsurer	            재보험수익	336,584,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceRevenue	            보험수익	8,515,005,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	-1,215,091,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax	         당기손익으로 재분류되는 세후기타포괄손익의 구성요소	-1,353,265,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges	            현금흐름위험회피파생상품평가손익	-179,590,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	            해외사업환산손익	-102,264,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinanceIncomeExpensesFromReinsuranceContractsHeldExcludedFromProfitOrLoss	            재보험계약자산(부채)순금융손익	-652,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정채무증권평가손익	-266,489,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxInsuranceFinanceIncomeExpensesFromInsuranceContractsIssuedExcludedFromProfitOrLossThatWillBeReclassifiedToProfitOrLoss	            보험계약자산(부채)순금융손익	-768,890,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax	            관계기업의 기타포괄손익지분	-35,380,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax	         당기손익으로 재분류되지 않는 세후기타포괄손익의 구성요소	138,174,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정지분증권평가손익	136,110,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            확정급여제도의 재측정요소	-1,682,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation	            자산재평가손익	3,746,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLoss	      분기순이익	768,912,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToNoncontrollingInterests	         비지배지분	150,763,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	         분기순이익	618,149,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세차감전순이익	978,431,000,000		
+ 포괄손익계산서, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익	966,952,000,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InvestmentIncomeExpenses	      투자손익	158,052,353,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingExpenseInvestment	         투자영업비용	622,797,748,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_FinanceExpensesFromReinsuranceContractsHeldRecognisedInProfitOrLoss	            재보험금융비용	4,075,811,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InsuranceFinanceExpensesFromInsuranceContractsIssuedRecognisedInProfitOrLoss	            보험금융비용	332,095,245,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossArisingFromDerecognitionOfFinancialInstrumentsMeasuredAtAmortisedCost	            상각후원가측정금융상품관련손실	12,266,320,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융상품관련손실	5,260,572,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정금융상품관련손실	77,366,822,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossesFromDerivatives	            파생상품평가및처분손실	71,707,586,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingExpenseInvestment	            기타투자비용	19,519,559,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeLoss	            외화거래및환산손실	57,202,134,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InterestExpense	            이자비용	40,485,707,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	            재산관리비	2,817,992,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentIncome	         투자영업수익	780,850,101,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_FinanceIncomeFromReinsuranceContractsHeldRecognisedInProfitOrLoss	            재보험금융수익	12,756,646,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainArisingFromDerecognitionOfFinancialInstrumentsMeasuredAtAmortisedCost	            상각후원가측정금융자산관련이익	10,111,469,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromDerivatives	            파생상품평가및처분이익	62,561,169,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융상품관련이익	9,562,083,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정금융상품관련이익	127,259,261,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingIncomeInvestment	            기타투자수익	154,733,545,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeGain	            외화거래이익	56,196,410,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RevenueFromDividends	            배당수익	23,586,499,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RevenueFromInterest	            이자수익	324,083,019,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InterestRevenueOnFinancialAssetsAtFairValueThroughProfitOrLoss	               당기손익-공정가치로 측정하는 금융자산의 이자수익	3,602,014,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	               유효이자율적용이자수익	320,481,005,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingProfitLoss	      영업외손익	-2,137,056,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingExpense	         영업외비용	4,748,228,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingIncome	         영업외수익	2,611,172,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncome	      총포괄손익	-93,348,087,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests	         비지배지분	-6,500,166,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배기업의 소유주	-86,847,921,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         보통주기본주당이익(손실)	1,509		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_BasicEarningsLossPerShareFromContinuingOperations	            기본및희석주당순이익	1,509		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용(수익)	107,480,420,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceServiceResult	      보험손익	184,651,466,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingExpenseInsurance	         보험영업비용	4,425,938,351,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingExpenseInsurance	            기타사업비용	92,891,824,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ExpensesFromAllocationOfPremiumsPaidToReinsurer	            재보험비용	332,391,964,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceServiceExpensesFromInsuranceContractsIssued	            보험서비스비용	4,000,654,563,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingIncomeInsurance	         보험영업수익	4,610,589,817,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IncomeFromAmountsRecoveredFromReinsurer	            재보험수익	245,894,531,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceRevenue	            보험수익	4,364,695,286,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	-326,434,430,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax	         후속적으로 당기손익으로 재분류될 수 있는 항목	-351,511,274,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges	            현금흐름위험회피파생상품평가손익	-50,511,348,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinanceIncomeExpensesFromReinsuranceContractsHeldExcludedFromProfitOrLoss	            재보험계약자산(부채)순금융손익	872,004,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산평가손익	-46,559,257,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxInsuranceFinanceIncomeExpensesFromInsuranceContractsIssuedExcludedFromProfitOrLossThatWillBeReclassifiedToProfitOrLoss	            보험계약자산(부채)순금융손익	-255,312,673,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax	         후속적으로 당기손익으로 재분류될 수 없는 항목	25,076,844,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정금융자산평가손익	25,592,270,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            확정급여제도의재측정요소	-486,555,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation	            유형자산재평가이익	-28,871,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLoss	      분기순이익(손실)	233,086,343,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToNoncontrollingInterests	         비지배지분에 귀속되는 당기순이익(손실)	-6,500,166,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	         지배기업의 소유주에게 귀속되는 당기순이익(손실)	239,586,509,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세비용차감전순이익	340,566,763,000		
+ 포괄손익계산서, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익(손실)	342,703,819,000		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_AdjustedProfitLossNetOfCapastropheReserve	      비상위험준비금 반영후 조정이익	1,101,400,079,009		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      대손준비금 반영후 조정이익	1,138,160,373,951		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_AdjustedProfitLossNetOfSurrenderValueReserve	      해약환급금준비금 반영후 조정이익	1,103,195,071,504		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InvestmentIncomeExpenses	      투자손익	818,999,478,244		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingExpenseInvestment	         투자영업비용	1,790,140,029,425		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_AdditionalImpairmentLossesOfFinancialAssets	            신용손실충당금 전입액	231,093,504		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_FinanceExpensesFromReinsuranceContractsHeldRecognisedInProfitOrLoss	            재보험금융비용	42,093,381,029		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InsuranceFinanceExpensesFromInsuranceContractsIssuedRecognisedInProfitOrLoss	            보험금융비용	649,348,650,783		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossArisingFromDerecognitionOfFinancialInstrumentsMeasuredAtAmortisedCost	            상각후원가측정금융상품제거손실	475,015,067		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융상품관련손실	1,183,362,214		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정금융상품관련손실	215,887,466,867		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossesFromDerivatives	            파생상품관련비용	267,975,955,182		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingExpenseInvestment	            기타투자비용	87,849,807,863		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeLoss	            외화거래손실	322,756,450,838		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InterestExpense	            이자비용	199,743,831,510		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	            재산관리비	2,595,014,568		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentIncome	         투자영업수익	2,609,139,507,669		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_FinanceIncomeFromReinsuranceContractsHeldRecognisedInProfitOrLoss	            재보험금융수익	43,263,992,726		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainArisingFromDerecognitionOfFinancialInstrumentsMeasuredAtAmortisedCost	            상각후원가측정금융상품제거이익	414,921,017		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromDerivatives	            파생상품관련수익	343,206,497,438		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융상품관련이익	281,483,178		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정금융상품관련이익	950,161,125,659		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InsuranceFinanceIncomeFromInsuranceContractsIssuedRecognisedInProfitOrLoss	            보험금융수익	49,093,639,846		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InterestRevenueOnFinancialAssetsAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정금융자산 이자수익	21,631,589,249		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingIncomeInvestment	            기타투자수익	113,575,590,868		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_ReversalsOfImpairmentLossesOfFinancialAssets	            신용손실충당금 환입액	3,557,739,993		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeGain	            외화거래이익	158,761,483,179		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	            유효이자율법 적용 이자수익	923,411,908,792		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RevenueFromDividends	            배당금수익	1,779,535,724		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingProfitLoss	      영업외손익	-19,507,455,003		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingExpense	         영업외비용	30,912,724,180		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingIncome	         영업외수익	11,332,752,378		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ShareOfProfitLossOfAssociatesAndJointVenturesAccountedForUsingEquityMethod	         지분법손익	72,516,799		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncome	      총포괄손익	294,606,922,061		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배기업의 소유주에게 귀속되는 총포괄손익	294,606,922,061		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         보통주기본주당이익(손실)	14,466		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShare	         보통주희석주당이익(손실)	14,466		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용(수익)	235,042,827,010		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceServiceResult	      보험손익	856,970,852,167		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingExpenseInsurance	         보험영업비용	10,169,541,852,019		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingExpenseInsurance	            기타사업비용	73,119,512,193		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ExpensesFromAllocationOfPremiumsPaidToReinsurer	            재보험서비스비용	810,338,691,184		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceServiceExpensesFromInsuranceContractsIssued	            보험서비스비용	9,286,083,648,642		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingIncomeInsurance	         보험영업수익	11,026,512,704,186		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IncomeFromAmountsRecoveredFromReinsurer	            재보험수익	478,043,030,295		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceRevenue	            보험수익	10,548,469,673,891		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	-839,734,366,147		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax	         당기손익으로 재분류될 수 있는 포괄손익	-782,573,750,689		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxCreditLossesOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정 신용손실	-81,776,129		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges	            현금흐름위험회피파생상품평가손익	-76,800,937,486		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	            해외사업환산손익	-19,144,331,058		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinanceIncomeExpensesFromReinsuranceContractsHeldExcludedFromProfitOrLoss	            재보험계약 순금융손익	-2,609,060,724		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정채무증권평가손익	4,950,074,398		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxInsuranceFinanceIncomeExpensesFromInsuranceContractsIssuedExcludedFromProfitOrLossThatWillBeReclassifiedToProfitOrLoss	            보험계약 순금융손익	-684,188,338,193		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax	            지분법자본변동	-4,699,381,497		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax	         당기손익으로 재분류되지 않는 포괄손익	-57,160,615,458		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정지분증권평가손익	9,695,467,794		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            확정급여부채의재측정요소	2,431,770,650		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation	            자산재평가잉여금	-69,287,853,902		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherOperatingIncomeExpense	      기타 영업이익(비용)	-287,078,760,190		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingExpense	         기타영업비용	455,287,839,508		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingIncome	         기타영업수익	168,209,079,318		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLoss	      당기순이익(손실)	1,134,341,288,208		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	         지배기업의 소유주에게 귀속되는 당기순이익(손실)	1,134,341,288,208		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세차감전순이익	1,369,384,115,218		
+ 포괄손익계산서, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익(손실)	1,388,891,570,221		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InvestmentIncomeExpenses	      투자손익	102,416,245,927		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingExpenseInvestment	         투자영업비용	1,226,779,597,644		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_AdditionalImpairmentLossesOfFinancialAssets	            신용손실충당금 전입액	74,751,547,591		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_FinanceExpensesFromReinsuranceContractsHeldRecognisedInProfitOrLoss	            재보험금융비용	7,584,760,746		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InsuranceFinanceExpensesFromInsuranceContractsIssuedRecognisedInProfitOrLoss	            보험금융비용	589,112,967,847		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossArisingFromDerecognitionOfFinancialInstrumentsMeasuredAtAmortisedCost	            상각후원가측정금융상품제거손실	2,728,807,305		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융상품관련손실	35,502,589,156		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정금융상품관련손실	69,322,210,897		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LossesFromDerivatives	            파생상품관련비용	132,707,079,366		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingExpenseInvestment	            기타투자비용	44,538,055,857		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeLoss	            외화거래손실	159,000,520,634		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InterestExpense	            이자비용	102,475,246,733		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	            재산관리비	9,055,811,512		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentIncome	         투자영업수익	1,329,195,843,571		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_FinanceIncomeFromReinsuranceContractsHeldRecognisedInProfitOrLoss	            재보험금융수익	0		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromDerivatives	            파생상품관련수익	168,819,696,311		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융상품관련이익	53,977,609,223		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정금융상품관련이익	337,431,762,541		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InsuranceFinanceIncomeFromInsuranceContractsIssuedRecognisedInProfitOrLoss	            보험금융수익	0		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingIncomeInvestment	            기타투자수익	201,058,362,253		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_ReversalsOfImpairmentLossesOfFinancialAssets	            신용손실충당금 환입액	55,348,664,977		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeGain	            외화거래이익	59,360,867,461		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RevenueFromInterest	            이자수익	453,198,880,805		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_InterestRevenueOnFinancialAssetsAtFairValueThroughProfitOrLoss	               당기손익-공정가치로 측정하는 금융자산의 이자수익	20,264,975,951		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	               유효이자율법 적용 이자수익	432,933,904,854		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingExpense	      영업외비용	5,631,218,041		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_NonOperatingIncome	      영업외수익	63,787,648,426		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncome	      분기총포괄손익	-97,121,049,967		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests	         비지배지분	0		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배기업의 소유주	-97,121,049,967		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_BasicEarningsLossPerShareFromContinuingOperations	         기본주당이익	12,227		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShareFromContinuingOperations	         희석주당이익	12,227		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	39,532,181,604		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceServiceResult	      보험손익	71,504,673,814		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingExpenseInsurance	         보험비용	777,155,936,962		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherOperatingExpenseInsurance	            기타사업비용	29,466,435,306		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ExpensesFromAllocationOfPremiumsPaidToReinsurer	            재보험비용	61,396,698,797		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceServiceExpensesFromInsuranceContractsIssued	            보험비용	686,292,802,859		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OperatingIncomeInsurance	         보험수익	848,660,610,776		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IncomeFromAmountsRecoveredFromReinsurer	            재보험수익	70,332,640,864		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceRevenue	            보험수익	778,327,969,912		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	-289,666,218,489		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax	         후속적으로 당기손익으로 재분류될 수 있는 항목	-280,029,283,473		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxCreditLossesOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산손상충당금	3,220,436,216		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges	            위험회피목적파생상품평가손익	-40,839,489,460		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	            해외사업환산손익	-2,706,318,128		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinanceIncomeExpensesFromReinsuranceContractsHeldExcludedFromProfitOrLoss	            재보험계약 관련 금융손익	13,862,004,452		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산평가손익(채무상품)	457,020,849		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxInsuranceFinanceIncomeExpensesFromInsuranceContractsIssuedExcludedFromProfitOrLossThatWillBeReclassifiedToProfitOrLoss	            보험계약 관련 금융손익	-176,390,009,194		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax	            관계기업투자주식지분법자본변동	-77,632,928,208		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax	         후속적으로 당기손익으로 재분류되지 않는 항목	-9,636,935,016		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정금융자산평가손익(지분상품)	-5,902,449,077		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            순확정급여부채 재측정요소	-272,671,312		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation	            재평가잉여금	-3,461,814,627		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLoss	      분기순이익	192,545,168,522		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToNoncontrollingInterests	         비지배지분	0		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	         지배기업의 소유주지분	192,545,168,522		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세비용차감전순이익	232,077,350,126		
+ 포괄손익계산서, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익	173,920,919,741		

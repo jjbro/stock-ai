@@ -1,0 +1,1103 @@
+재무제표종류	종목코드	회사명	시장구분	업종	업종명	결산월	결산기준일	보고서종류	통화	항목코드	항목명	당기 3분기말	전기말	전전기말	
+ 포괄손익계산서, 증권 - 연결	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_GainLossFromFinancialInstruments	      금융상품관련순손익	44,440,709,058		
+ 포괄손익계산서, 증권 - 연결	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_GainFromFinancialInstruments	         금융상품평가및처분이익	597,953,058,034		
+ 포괄손익계산서, 증권 - 연결	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_LossFromFinancialInstruments	         금융상품평가및처분손실	553,512,348,976		
+ 포괄손익계산서, 증권 - 연결	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_NonOperatingExpense	      영업외비용	1,332,114,211		
+ 포괄손익계산서, 증권 - 연결	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_NonOperatingIncome	      영업외수익	798,881,502		
+ 포괄손익계산서, 증권 - 연결	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00251400_GainLossFromLoansOfStatementOfComprehensiveIncomeAbstract	      대출채권관련순손익	-102,023,918,539		
+ 포괄손익계산서, 증권 - 연결	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00251400_GainFromLoansOfGainLossFromLoansOfStatementOfComprehensiveIncomeAbstract	         대출채권관련이익	366,613,250		
+ 포괄손익계산서, 증권 - 연결	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00251400_LossFromLoansOfGainLossFromLoansOfStatementOfComprehensiveIncomeAbstract	         대출채권관련손실	102,390,531,789		
+ 포괄손익계산서, 증권 - 연결	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncome	      총포괄손익	-8,221,021,838		
+ 포괄손익계산서, 증권 - 연결	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests	         비지배지분	0		
+ 포괄손익계산서, 증권 - 연결	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배기업소유주지분	-8,221,021,838		
+ 포괄손익계산서, 증권 - 연결	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionIncomeExpense	      순수수료손익	53,160,684,909		
+ 포괄손익계산서, 증권 - 연결	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	         수수료비용	17,100,147,234		
+ 포괄손익계산서, 증권 - 연결	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	         수수료수익	70,260,832,143		
+ 포괄손익계산서, 증권 - 연결	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	871,887,555		
+ 포괄손익계산서, 증권 - 연결	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestRevenueExpense	      순이자손익	62,617,461,467		
+ 포괄손익계산서, 증권 - 연결	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestExpense	         이자비용	120,817,150,446		
+ 포괄손익계산서, 증권 - 연결	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_RevenueFromInterest	         이자수익	183,434,611,913		
+ 포괄손익계산서, 증권 - 연결	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	            당기손익-공정가치금융자산이자수익	102,255,699,816		
+ 포괄손익계산서, 증권 - 연결	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	            상각후원가및기타포괄손익공정가치측정금융자산이자수익	81,178,912,097		
+ 포괄손익계산서, 증권 - 연결	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OperatingExpense	      영업비용	862,714,560,464		
+ 포괄손익계산서, 증권 - 연결	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	-11,670,429,009		
+ 포괄손익계산서, 증권 - 연결	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeBeforeTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치금융자산(채무증권)평가손익	-10,665,931,491		
+ 포괄손익계산서, 증권 - 연결	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	            당기손익-공정가치측정금융부채 신용위험변동	-158,683,363		
+ 포괄손익계산서, 증권 - 연결	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치금융자산(지분증권)평가손익	-664,939,722		
+ 포괄손익계산서, 증권 - 연결	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            확정급여제도의재측정요소	-180,874,433		
+ 포괄손익계산서, 증권 - 연결	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherOperatingIncomeExpense	      기타영업손익	11,075,215,139		
+ 포괄손익계산서, 증권 - 연결	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherOperatingExpense	         기타영업비용	4,478,757,420		
+ 포괄손익계산서, 증권 - 연결	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeLoss	            외화거래손실	3,978,394,270		
+ 포괄손익계산서, 증권 - 연결	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_MiscellaneousOtherOperatingExpense	            기타영업비용	500,363,150		
+ 포괄손익계산서, 증권 - 연결	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherOperatingIncome	         기타영업수익	15,553,972,559		
+ 포괄손익계산서, 증권 - 연결	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeGain	            외화거래이익	2,640,424,902		
+ 포괄손익계산서, 증권 - 연결	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_MiscellaneousOtherOperatingIncome	            기타영업수익	12,913,547,657		
+ 포괄손익계산서, 증권 - 연결	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLoss	      당기순이익(손실)	3,449,407,171		
+ 포괄손익계산서, 증권 - 연결	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToNoncontrollingInterests	      비지배지분	0		
+ 포괄손익계산서, 증권 - 연결	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	      지배기업소유주지분	3,449,407,171		
+ 포괄손익계산서, 증권 - 연결	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세차감전순이익	4,321,294,726		
+ 포괄손익계산서, 증권 - 연결	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익(손실)	4,854,527,435		
+ 포괄손익계산서, 증권 - 연결	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_Revenue	      영업수익	867,569,087,899		
+ 포괄손익계산서, 증권 - 연결	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      일반관리비	64,415,624,599		
+ 포괄손익계산서, 증권 - 연결	[016610]	DB금융투자	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_NonOperatingExpense	      영업외비용	538,852,541		
+ 포괄손익계산서, 증권 - 연결	[016610]	DB금융투자	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_NonOperatingIncome	      영업외수익	2,368,798,510		
+ 포괄손익계산서, 증권 - 연결	[016610]	DB금융투자	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00115694_udf_IS_202310301752698OfStatementOfComprehensiveIncomeAbstract	      대손준비금 반영후 조정이익(손실)	21,419,734,201		
+ 포괄손익계산서, 증권 - 연결	[016610]	DB금융투자	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncome	      총포괄손익	41,799,243,997		
+ 포괄손익계산서, 증권 - 연결	[016610]	DB금융투자	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests	      비지배지분에 귀속되는 총포괄손익	1,345,717,649		
+ 포괄손익계산서, 증권 - 연결	[016610]	DB금융투자	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	      지배기업의 소유주에게 귀속되는 총포괄손익	40,453,526,348		
+ 포괄손익계산서, 증권 - 연결	[016610]	DB금융투자	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         기본주당이익(손실)	1,061		
+ 포괄손익계산서, 증권 - 연결	[016610]	DB금융투자	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShare	         희석주당이익(손실)	1,061		
+ 포괄손익계산서, 증권 - 연결	[016610]	DB금융투자	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용(수익)	9,515,863,020		
+ 포괄손익계산서, 증권 - 연결	[016610]	DB금융투자	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OperatingExpense	      영업비용	904,544,462,511		
+ 포괄손익계산서, 증권 - 연결	[016610]	DB금융투자	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtAmortisedCost	         대출채권평가및처분손실	51,396,765,087		
+ 포괄손익계산서, 증권 - 연결	[016610]	DB금융투자	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융상품관련손실	404,824,715,187		
+ 포괄손익계산서, 증권 - 연결	[016610]	DB금융투자	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherOperatingExpense	         기타의영업비용	6,994,746,887		
+ 포괄손익계산서, 증권 - 연결	[016610]	DB금융투자	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_TotalSellingGeneralAdministrativeExpenses	         판매비와관리비	210,856,728,854		
+ 포괄손익계산서, 증권 - 연결	[016610]	DB금융투자	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	         수수료비용	25,700,435,463		
+ 포괄손익계산서, 증권 - 연결	[016610]	DB금융투자	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeLoss	         외환거래손실	17,229,637,974		
+ 포괄손익계산서, 증권 - 연결	[016610]	DB금융투자	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestExpense	         이자비용	187,541,433,059		
+ 포괄손익계산서, 증권 - 연결	[016610]	DB금융투자	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	-2,945,365,775		
+ 포괄손익계산서, 증권 - 연결	[016610]	DB금융투자	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산평가손익	2,727,349,798		
+ 포괄손익계산서, 증권 - 연결	[016610]	DB금융투자	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	            당기손익-공정가치측정지정금융부채 신용위험변동효과	-386,772,903		
+ 포괄손익계산서, 증권 - 연결	[016610]	DB금융투자	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정금융자산평가손익	-5,285,942,670		
+ 포괄손익계산서, 증권 - 연결	[016610]	DB금융투자	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLoss	      당기순이익(손실)	44,744,609,772		
+ 포괄손익계산서, 증권 - 연결	[016610]	DB금융투자	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToNoncontrollingInterests	      비지배지분에 귀속되는 당기순이익(손실)	1,478,230,196		
+ 포괄손익계산서, 증권 - 연결	[016610]	DB금융투자	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	      지배기업의 소유주에게 귀속되는 당기순이익(손실)	43,266,379,576		
+ 포괄손익계산서, 증권 - 연결	[016610]	DB금융투자	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세차감전순이익	54,260,472,792		
+ 포괄손익계산서, 증권 - 연결	[016610]	DB금융투자	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익(손실)	52,430,526,823		
+ 포괄손익계산서, 증권 - 연결	[016610]	DB금융투자	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_Revenue	      영업수익	956,974,989,334		
+ 포괄손익계산서, 증권 - 연결	[016610]	DB금융투자	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtAmortisedCost	         대출채권평가및처분이익	3,058,490,016		
+ 포괄손익계산서, 증권 - 연결	[016610]	DB금융투자	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융상품관련이익	441,220,195,451		
+ 포괄손익계산서, 증권 - 연결	[016610]	DB금융투자	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherOperatingIncome	         기타의영업수익	15,149,500,386		
+ 포괄손익계산서, 증권 - 연결	[016610]	DB금융투자	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	         수수료수익	168,122,467,516		
+ 포괄손익계산서, 증권 - 연결	[016610]	DB금융투자	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeGain	         외환거래이익	16,637,750,756		
+ 포괄손익계산서, 증권 - 연결	[016610]	DB금융투자	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_RevenueFromInterest	         이자수익	312,786,585,209		
+ 포괄손익계산서, 증권 - 연결	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      (대손준비금 반영후 조정이익)	22,108,918,849		
+ 포괄손익계산서, 증권 - 연결	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_GainFromDerivatives	      파생상품평가및처분이익	577,168,537,551		
+ 포괄손익계산서, 증권 - 연결	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_GainsOnChangeInFairValueAndOnDisposalOfFinancialInstruments	      금융상품평가및처분이익	342,246,498,812		
+ 포괄손익계산서, 증권 - 연결	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_LossesFromDerivatives	      파생상품평가및처분손실	518,050,001,713		
+ 포괄손익계산서, 증권 - 연결	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_LossesOfAssociatesAndJointVenturesAccountedForUsingEquityMethod	      지분법손실	6,064,545,925		
+ 포괄손익계산서, 증권 - 연결	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_LossesOnChangeInFairValueAndOnDisposalOfFinancialInstruments	      금융상품평가및처분손실	325,286,484,099		
+ 포괄손익계산서, 증권 - 연결	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_NonOperatingExpense	      V. 영업외비용	6,107,089,548		
+ 포괄손익계산서, 증권 - 연결	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_NonOperatingIncome	      IV. 영업외수익	5,519,947,734		
+ 포괄손익계산서, 증권 - 연결	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherOperatingExpense	      기타의영업비용	144,119,182		
+ 포괄손익계산서, 증권 - 연결	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherOperatingIncome	      기타의영업수익	14,709,211,548		
+ 포괄손익계산서, 증권 - 연결	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_ProfitsOfAssociatesAndJointVenturesAccountedForUsingEquityMethod	      지분법이익	4,827,194,253		
+ 포괄손익계산서, 증권 - 연결	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00330424_GainOnDisposalOfPropertyPlantAndEquipmentOfStatementOfComprehensiveIncomeAbstract	      유형자산관련이익	28,091,079		
+ 포괄손익계산서, 증권 - 연결	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00330424_LossOnDisposalOfPropertyPlantAndEquipmentOfStatementOfComprehensiveIncomeAbstract	      유형자산관련손실	17,501,797		
+ 포괄손익계산서, 증권 - 연결	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00330424_OthersOfStatementOfComprehensiveIncomeAbstract	      기타	664,662,402		
+ 포괄손익계산서, 증권 - 연결	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00330424_udf_IS_202311918822364OfStatementOfComprehensiveIncomeAbstract	      기타	25,041,826		
+ 포괄손익계산서, 증권 - 연결	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      신용손실충당금전입액	31,151,607,320		
+ 포괄손익계산서, 증권 - 연결	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncome	      X. 분기총포괄손익	26,721,319,877		
+ 포괄손익계산서, 증권 - 연결	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests	         비지배주주지분	0		
+ 포괄손익계산서, 증권 - 연결	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배주주지분	26,721,319,877		
+ 포괄손익계산서, 증권 - 연결	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         기본주당손익	418		
+ 포괄손익계산서, 증권 - 연결	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShare	         희석주당손익	418		
+ 포괄손익계산서, 증권 - 연결	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	      수수료비용	33,605,308,269		
+ 포괄손익계산서, 증권 - 연결	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	      수수료수익	93,332,035,282		
+ 포괄손익계산서, 증권 - 연결	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeGain	      외환거래이익	11,660,791,340		
+ 포괄손익계산서, 증권 - 연결	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeLoss	      외환거래손실	11,381,662,008		
+ 포괄손익계산서, 증권 - 연결	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      VII. 법인세비용	7,053,553,434		
+ 포괄손익계산서, 증권 - 연결	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestExpense	      이자비용	156,357,925,395		
+ 포괄손익계산서, 증권 - 연결	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OperatingExpense	      II. 영업비용	1,181,803,154,984		
+ 포괄손익계산서, 증권 - 연결	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      IX. 기타포괄손익	0		
+ 포괄손익계산서, 증권 - 연결	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLoss	      VIII. 분기순이익	26,721,319,877		
+ 포괄손익계산서, 증권 - 연결	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToNoncontrollingInterests	      비지배주주지분	0		
+ 포괄손익계산서, 증권 - 연결	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	      지배주주지분	26,721,319,877		
+ 포괄손익계산서, 증권 - 연결	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      VI. 법인세비용차감전순이익	33,774,873,311		
+ 포괄손익계산서, 증권 - 연결	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      III. 영업이익	34,362,015,125		
+ 포괄손익계산서, 증권 - 연결	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_Revenue	      I. 영업수익	1,216,165,170,109		
+ 포괄손익계산서, 증권 - 연결	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_RevenueFromInterest	      이자수익	167,515,725,635		
+ 포괄손익계산서, 증권 - 연결	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	         기타 이자수익	91,111,807,430		
+ 포괄손익계산서, 증권 - 연결	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	         유효이자율법으로 인식하는 이자수익	76,403,918,205		
+ 포괄손익계산서, 증권 - 연결	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ReversalAllowanceAccountForCreditLossesOfFinancialAssets	      신용손실충당금환입액	9,532,369,941		
+ 포괄손익계산서, 증권 - 연결	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      판매비와관리비	105,826,046,998		
+ 포괄손익계산서, 증권 - 연결	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_GainLossFromFinancialInstrumentsAtAmortisedCost	      상각후원가측정금융상품관련순손익	-275,000,000		
+ 포괄손익계산서, 증권 - 연결	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      대손준비금 반영후 조정이익	594,264,000,000		
+ 포괄손익계산서, 증권 - 연결	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_AdjustmentsForForeignExchangeGainLoss	      외환거래손익	87,203,000,000		
+ 포괄손익계산서, 증권 - 연결	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	      기타포괄손익-공정가치측정금융상품관련순손익	7,944,000,000		
+ 포괄손익계산서, 증권 - 연결	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      당기손익-공정가치측정금융상품관련순손익	16,989,000,000		
+ 포괄손익계산서, 증권 - 연결	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_NonOperatingExpense	      영업외비용	66,858,000,000		
+ 포괄손익계산서, 증권 - 연결	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_NonOperatingIncome	      영업외수익	98,050,000,000		
+ 포괄손익계산서, 증권 - 연결	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      신용손실충당금전입(환입)액	33,317,000,000		
+ 포괄손익계산서, 증권 - 연결	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncome	      분기총포괄이익	616,095,000,000		
+ 포괄손익계산서, 증권 - 연결	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests	         비지배지분포괄이익(손실)	27,000,000		
+ 포괄손익계산서, 증권 - 연결	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배주주지분포괄이익	616,068,000,000		
+ 포괄손익계산서, 증권 - 연결	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_BasicEarningsLossPerSharePreferredStock	         기본우선주당순이익	1,703		
+ 포괄손익계산서, 증권 - 연결	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         기본보통주당순이익	1,653		
+ 포괄손익계산서, 증권 - 연결	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShare	         희석보통주당순이익	1,653		
+ 포괄손익계산서, 증권 - 연결	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionIncomeExpense	      순수수료손익	703,883,000,000		
+ 포괄손익계산서, 증권 - 연결	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	         수수료비용	170,066,000,000		
+ 포괄손익계산서, 증권 - 연결	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	         수수료수익	873,949,000,000		
+ 포괄손익계산서, 증권 - 연결	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	188,453,000,000		
+ 포괄손익계산서, 증권 - 연결	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestRevenueExpense	      순이자손익	598,063,000,000		
+ 포괄손익계산서, 증권 - 연결	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestExpense	         이자비용	679,423,000,000		
+ 포괄손익계산서, 증권 - 연결	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_RevenueFromInterest	         이자수익	1,277,486,000,000		
+ 포괄손익계산서, 증권 - 연결	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정금융상품	453,266,000,000		
+ 포괄손익계산서, 증권 - 연결	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	            유효이자율적용이자수익	824,220,000,000		
+ 포괄손익계산서, 증권 - 연결	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	39,459,000,000		
+ 포괄손익계산서, 증권 - 연결	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정채무상품평가손익	18,668,000,000		
+ 포괄손익계산서, 증권 - 연결	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00120182_GainscumulativeeffectforeigncurrencytranslationbeforeallocationtononcontrollinginterestsOfComponentsOfOtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTaxAbstract	            해외사업환산손익	22,636,000,000		
+ 포괄손익계산서, 증권 - 연결	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00120182_OtherComprehensiveIncomeAttributableToNoncontrollingInterestsOfComponentsOfOtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTaxAbstract	            비지배지분기타포괄손익	19,000,000		
+ 포괄손익계산서, 증권 - 연결	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges	            위험회피파생상품평가손익			
+ 포괄손익계산서, 증권 - 연결	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	            당기손익-공정가치측정지정금융부채신용위험조정	2,034,000,000		
+ 포괄손익계산서, 증권 - 연결	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정지분증권평가손익	-3,898,000,000		
+ 포괄손익계산서, 증권 - 연결	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherOperatingIncomeExpense	      기타의영업손익	178,526,000,000		
+ 포괄손익계산서, 증권 - 연결	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLoss	      분기순이익	576,636,000,000		
+ 포괄손익계산서, 증권 - 연결	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToNoncontrollingInterests	      비지배지분순이익(손실)	8,000,000		
+ 포괄손익계산서, 증권 - 연결	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	      지배주주지분순이익	576,628,000,000		
+ 포괄손익계산서, 증권 - 연결	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세차감전순이익	765,089,000,000		
+ 포괄손익계산서, 증권 - 연결	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익	733,897,000,000		
+ 포괄손익계산서, 증권 - 연결	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      판매비와관리비	825,119,000,000		
+ 포괄손익계산서, 증권 - 연결	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_GainLossFromFinancialInstruments	      금융상품관련순손익	-17,175,838,701		
+ 포괄손익계산서, 증권 - 연결	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_GainFromFinancialInstruments	         금융상품관련수익	439,449,439,477		
+ 포괄손익계산서, 증권 - 연결	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtAmortisedCost	            상각후원가측정금융상품관련이익	857,870,274		
+ 포괄손익계산서, 증권 - 연결	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정금융상품관련이익	438,591,569,203		
+ 포괄손익계산서, 증권 - 연결	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_LossFromFinancialInstruments	         금융상품관련비용	456,625,278,178		
+ 포괄손익계산서, 증권 - 연결	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtAmortisedCost	            상각후원가측정금융상품관련손실	5,804,287,654		
+ 포괄손익계산서, 증권 - 연결	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정금융상품관련손실	450,820,990,524		
+ 포괄손익계산서, 증권 - 연결	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_NonOperatingExpense	      영업외비용	11,014,717,155		
+ 포괄손익계산서, 증권 - 연결	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_NonOperatingIncome	      영업외수익	20,094,795,858		
+ 포괄손익계산서, 증권 - 연결	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00131850_NetProfitLossOfStatementOfComprehensiveIncomeAbstract	      순영업손익	113,146,746,319		
+ 포괄손익계산서, 증권 - 연결	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      신용손실충당금 전입액	53,280,600,854		
+ 포괄손익계산서, 증권 - 연결	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncome	      총포괄손익	-59,186,084,165		
+ 포괄손익계산서, 증권 - 연결	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests	         비지배지분총포괄이익	-757,491,491		
+ 포괄손익계산서, 증권 - 연결	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배기업소유지분총포괄이익	-58,428,592,674		
+ 포괄손익계산서, 증권 - 연결	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         기본주당이익(손실)	-125		
+ 포괄손익계산서, 증권 - 연결	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShare	         희석주당이익(손실)	-125		
+ 포괄손익계산서, 증권 - 연결	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionIncomeExpense	      순수수료손익	117,058,138,380		
+ 포괄손익계산서, 증권 - 연결	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	         수수료비용	6,506,887,442		
+ 포괄손익계산서, 증권 - 연결	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	         수수료수익	123,565,025,822		
+ 포괄손익계산서, 증권 - 연결	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용(수익)	-14,788,698,166		
+ 포괄손익계산서, 증권 - 연결	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestRevenueExpense	      순이자손익	41,796,687,253		
+ 포괄손익계산서, 증권 - 연결	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestExpense	         이자비용	118,773,617,844		
+ 포괄손익계산서, 증권 - 연결	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_RevenueFromInterest	         이자수익	160,570,305,097		
+ 포괄손익계산서, 증권 - 연결	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정 금융자산 이자수익	73,578,206,550		
+ 포괄손익계산서, 증권 - 연결	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	            유효이자율적용이자수익	86,992,098,547		
+ 포괄손익계산서, 증권 - 연결	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	-6,644,503,235		
+ 포괄손익계산서, 증권 - 연결	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	            해외사업환산손익	-246,650,994		
+ 포괄손익계산서, 증권 - 연결	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax	            지분법자본변동	-126,728,938		
+ 포괄손익계산서, 증권 - 연결	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	            당기손익-공정가치측정지정금융부채 신용위험변동	177,373,263		
+ 포괄손익계산서, 증권 - 연결	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정지분상품평가손익	-5,354,452,895		
+ 포괄손익계산서, 증권 - 연결	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            확정급여제도의재측정요소	-1,094,043,671		
+ 포괄손익계산서, 증권 - 연결	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherOperatingIncomeExpense	      기타영업손익	8,515,612,238		
+ 포괄손익계산서, 증권 - 연결	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherOperatingExpense	         기타영업비용	11,802,628,011		
+ 포괄손익계산서, 증권 - 연결	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeLoss	            외화거래손실	10,508,820,240		
+ 포괄손익계산서, 증권 - 연결	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_MiscellaneousOtherOperatingExpense	            기타영업비용	1,293,807,771		
+ 포괄손익계산서, 증권 - 연결	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherOperatingIncome	         기타영업수익	20,318,240,249		
+ 포괄손익계산서, 증권 - 연결	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeGain	            외화거래이익	11,289,142,991		
+ 포괄손익계산서, 증권 - 연결	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_MiscellaneousOtherOperatingIncome	            기타영업수익	9,029,097,258		
+ 포괄손익계산서, 증권 - 연결	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLoss	      당기순이익(손실)	-52,541,580,930		
+ 포괄손익계산서, 증권 - 연결	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToNoncontrollingInterests	      비지배지분에 귀속되는 당기순이익(손실)	-757,491,491		
+ 포괄손익계산서, 증권 - 연결	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	      지배기업의 소유주에게 귀속되는 당기순이익(손실)	-51,784,089,439		
+ 포괄손익계산서, 증권 - 연결	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세차감전순이익	-67,330,279,096		
+ 포괄손익계산서, 증권 - 연결	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익(손실)	-76,410,357,799		
+ 포괄손익계산서, 증권 - 연결	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_RevenueFromDividends	      배당수익	16,232,748,003		
+ 포괄손익계산서, 증권 - 연결	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ReversalAllowanceAccountForCreditLossesOfFinancialAssets	      신용손실충당금 환입액	0		
+ 포괄손익계산서, 증권 - 연결	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      판매비와관리비	189,557,104,118		
+ 포괄손익계산서, 증권 - 연결	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_NonOperatingExpense	      V.영업외비용	6,613,644,085		
+ 포괄손익계산서, 증권 - 연결	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_NonOperatingIncome	      IV.영업외수익	33,131,440,260		
+ 포괄손익계산서, 증권 - 연결	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherOperatingExpense	      기타영업비용	14,259,148		
+ 포괄손익계산서, 증권 - 연결	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherOperatingIncome	      기타의영업수익	15,903,200,910		
+ 포괄손익계산서, 증권 - 연결	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00113359_LossFromFinancialInstrumentsAtAmortisedCostOfStatementOfComprehensiveIncomeAbstract	      상각후원가측정대출채권평가및처분손실	28,471,998,267		
+ 포괄손익계산서, 증권 - 연결	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00113359_udf_IS_2024312133416806OfStatementOfComprehensiveIncomeAbstract	      기타포괄손익-공정가치측정금융상품관련이익	9,890,836,907		
+ 포괄손익계산서, 증권 - 연결	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00113359_udf_IS_202431213345256OfStatementOfComprehensiveIncomeAbstract	      당기손익-공정가치측정금융상품관련이익	1,396,287,117,864		
+ 포괄손익계산서, 증권 - 연결	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00113359_udf_IS_2024312133645410OfStatementOfComprehensiveIncomeAbstract	      외환거래이익	113,292,316,637		
+ 포괄손익계산서, 증권 - 연결	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00113359_udf_IS_2024312133715149OfStatementOfComprehensiveIncomeAbstract	      당기손익-공정가치측정금융상품관련손실	1,417,546,970,543		
+ 포괄손익계산서, 증권 - 연결	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00113359_udf_IS_2024312133940724OfStatementOfComprehensiveIncomeAbstract	      외환거래손실	114,090,942,881		
+ 포괄손익계산서, 증권 - 연결	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncome	      X.총포괄손익	126,396,527,492		
+ 포괄손익계산서, 증권 - 연결	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests	         비지배지분에 귀속되는 총포괄손익	0		
+ 포괄손익계산서, 증권 - 연결	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배기업의 소유주에게 귀속되는 총포괄손익	126,396,527,492		
+ 포괄손익계산서, 증권 - 연결	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         보통주기본주당이익(손실)	1,178		
+ 포괄손익계산서, 증권 - 연결	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	      수수료비용	36,945,332,952		
+ 포괄손익계산서, 증권 - 연결	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	      수수료수익	191,525,401,308		
+ 포괄손익계산서, 증권 - 연결	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      VII.법인세비용	49,142,946,986		
+ 포괄손익계산서, 증권 - 연결	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestExpense	      이자비용	170,462,707,267		
+ 포괄손익계산서, 증권 - 연결	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OperatingExpense	      II.영업비용	1,952,785,983,889		
+ 포괄손익계산서, 증권 - 연결	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      IX.기타포괄손익	-6,573,001,800		
+ 포괄손익계산서, 증권 - 연결	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정채무상품평가손익	508,697,609		
+ 포괄손익계산서, 증권 - 연결	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax	            지분법자본변동 - 후속적으로 재분류 되는 항목	13,995,864		
+ 포괄손익계산서, 증권 - 연결	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00113359_udf_IS_202481155825204OfComponentsOfOtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTaxAbstract	            재평가잉여금	0		
+ 포괄손익계산서, 증권 - 연결	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	            당기손익-공정가치측정지정금융부채평가손익	-1,195,169,350		
+ 포괄손익계산서, 증권 - 연결	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정지분상품평가손익	-5,900,525,923		
+ 포괄손익계산서, 증권 - 연결	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            확정급여제도의재측정요소	0		
+ 포괄손익계산서, 증권 - 연결	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLoss	      VIII.당기순이익(손실)	132,969,529,292		
+ 포괄손익계산서, 증권 - 연결	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToNoncontrollingInterests	      비지배지분에 귀속되는 당기순이익(손실)	0		
+ 포괄손익계산서, 증권 - 연결	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	      지배기업의 소유주에게 귀속되는 당기순이익(손실)	132,969,529,292		
+ 포괄손익계산서, 증권 - 연결	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      VI.법인세차감전순이익	182,112,476,278		
+ 포괄손익계산서, 증권 - 연결	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      III.영업이익(손실)	155,594,680,103		
+ 포괄손익계산서, 증권 - 연결	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_Revenue	      I.영업수익	2,108,380,663,992		
+ 포괄손익계산서, 증권 - 연결	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_RevenueFromInterest	      이자수익	381,481,790,366		
+ 포괄손익계산서, 증권 - 연결	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      판매비와관리비	185,253,772,831		
+ 포괄손익계산서, 증권 - 연결	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_GainFromFinancialInstruments	      금융상품관련수익	384,449,963,877		
+ 포괄손익계산서, 증권 - 연결	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtAmortisedCost	         상각후원가측정금융상품관련이익	12,838,905,120		
+ 포괄손익계산서, 증권 - 연결	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융상품관련이익	371,611,058,757		
+ 포괄손익계산서, 증권 - 연결	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_LossFromFinancialInstruments	      금융상품관련비용	481,870,013,006		
+ 포괄손익계산서, 증권 - 연결	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtAmortisedCost	         상각후원가측정금융상품관련손실	130,558,125,460		
+ 포괄손익계산서, 증권 - 연결	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정금융상품관련손실	77,060,070		
+ 포괄손익계산서, 증권 - 연결	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융상품관련손실	351,311,887,546		
+ 포괄손익계산서, 증권 - 연결	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_NonOperatingProfitLoss	      IV. 영업외손익	11,535,836,954		
+ 포괄손익계산서, 증권 - 연결	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherOperatingExpense	      기타영업비용	42,124,895,794		
+ 포괄손익계산서, 증권 - 연결	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherOperatingIncome	      기타영업수익	40,298,095,032		
+ 포괄손익계산서, 증권 - 연결	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00156859_ComprehensiveIncomeAttributableToOfStatementOfComprehensiveIncomeAbstract	      XI. 분기총포괄이익(손실)의 귀속	-14,776,987,656		
+ 포괄손익계산서, 증권 - 연결	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00156859_ProfitLossAttributableToOfStatementOfComprehensiveIncomeAbstract	      X. 분기순이익(손실)의 귀속	-17,108,761,837		
+ 포괄손익계산서, 증권 - 연결	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncome	      IX. 분기총포괄이익(손실)	-14,776,987,656		
+ 포괄손익계산서, 증권 - 연결	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests	      비지배지분	4,466,204,594		
+ 포괄손익계산서, 증권 - 연결	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	      지배기업의 소유주	-19,243,192,250		
+ 포괄손익계산서, 증권 - 연결	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         기본주당이익(손실)	-394		
+ 포괄손익계산서, 증권 - 연결	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShare	         희석주당이익(손실)	-394		
+ 포괄손익계산서, 증권 - 연결	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	      수수료비용	26,380,106,059		
+ 포괄손익계산서, 증권 - 연결	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	      수수료수익	96,029,750,175		
+ 포괄손익계산서, 증권 - 연결	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      VI. 법인세비용(수익)	-1,314,126,715		
+ 포괄손익계산서, 증권 - 연결	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestExpense	      이자비용	235,338,010,679		
+ 포괄손익계산서, 증권 - 연결	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OperatingExpense	      II. 영업비용	976,211,208,463		
+ 포괄손익계산서, 증권 - 연결	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      VIII. 기타포괄손익	2,331,774,181		
+ 포괄손익계산서, 증권 - 연결	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	            해외사업장환산차이 변동	1,884,038,296		
+ 포괄손익계산서, 증권 - 연결	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정채무상품 관련손익	312,030,319		
+ 포괄손익계산서, 증권 - 연결	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax	            지분법자본변동	-18,977,546		
+ 포괄손익계산서, 증권 - 연결	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	            당기손익-공정가치측정지정금융부채의 신용위험변동	2,560,859		
+ 포괄손익계산서, 증권 - 연결	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정지분상품 관련손익	-25,978,795		
+ 포괄손익계산서, 증권 - 연결	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            확정급여제도 재측정요소	178,101,048		
+ 포괄손익계산서, 증권 - 연결	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLoss	      VII. 분기순이익(손실)	-17,108,761,837		
+ 포괄손익계산서, 증권 - 연결	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToNoncontrollingInterests	      비지배지분	4,375,352,437		
+ 포괄손익계산서, 증권 - 연결	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	      지배기업의 소유주	-21,484,114,274		
+ 포괄손익계산서, 증권 - 연결	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      V. 법인세비용차감전순이익(손실)	-18,422,888,552		
+ 포괄손익계산서, 증권 - 연결	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossFromContinuingOperations	      계속영업이익(손실)	-17,108,761,837		
+ 포괄손익계산서, 증권 - 연결	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossFromDiscontinuedOperations	      중단영업이익	0		
+ 포괄손익계산서, 증권 - 연결	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      III. 영업이익(손실)	-29,958,725,506		
+ 포괄손익계산서, 증권 - 연결	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_Revenue	      I. 영업수익	946,252,482,957		
+ 포괄손익계산서, 증권 - 연결	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_RevenueFromDividends	      배당금수익	7,588,245,224		
+ 포괄손익계산서, 증권 - 연결	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_RevenueFromInterest	      이자수익	417,886,428,649		
+ 포괄손익계산서, 증권 - 연결	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      판매비와관리비	190,421,122,855		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_NonOperatingProfitLoss	      영업외손익	31,335,294,000		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_NonOperatingExpense	         영업외손실	28,608,253,000		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_NonOperatingIncome	         영업외이익	59,943,547,000		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00110893_AttributionOfOfStatementOfComprehensiveIncomeAbstract	      분기연결순손익의 귀속	108,384,008,000		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToNoncontrollingInterests	         비재배지분순손익	73,490,000		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	         지배기업주주지분순손익	108,310,518,000		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00110893_ComprehensiveIncomeOfStatementOfComprehensiveIncomeAbstract	      분기연결총포괄손익의 귀속	116,106,275,000		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests	         비지배지분총포괄손익	-2,274,753,000		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배기업주주지분총포괄손익	118,381,028,000		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncome	      분기총포괄이익	116,106,275,000		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_BasicEarningsLossPerSharePreferredStock	         우선주기본주당순이익	1,511		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_DilutedEarningsLossPerSharePreferredStock	         우선주희석주당순이익	1,511		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00110893_udf_IS_20231110144031185OfEarningsPerShareAbstract	         2우선주기본주당순이익	1,474		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00110893_udf_IS_20231110144048907OfEarningsPerShareAbstract	         2우선주희석주당순이익	1,474		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         보통주기본주당순이익	1,475		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShare	         보통주희석주당순이익	1,327		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	35,851,449,000		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OperatingExpense	      영업비용	2,892,898,527,000		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_AdditionalImpairmentLossesOfFinancialAssets	         신용손실충당금전입액	104,505,046,000		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_CostOfSalesFromSaleOfGoodsRealEstate	         분양비용	22,605,979,000		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융상품관련손실	1,513,077,515,000		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_MiscellaneousExpenses	         기타판매비와관리비	131,745,161,000		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherOperatingExpense	         기타영업비용	27,113,943,000		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_PersonalExpense	         인건비	218,347,431,000		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_RentalPropertyAdministrationExpenseSellingGeneralAdministrativeExpenses	         임대비용	35,831,700,000		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00110893_udf_IS_20248814039527OfOperatingExpense	         당기손익-공정가치측정지정금융상품관련손실	99,667,460,000		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_DepreciationAndAmortisationExpense	         감가상각비 및 상각비	27,609,404,000		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	         수수료비용	36,028,340,000		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestExpense	         이자비용	510,338,619,000		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_NetForeignExchangeLoss	         외환거래손실	166,027,929,000		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      분기기타포괄손익	7,722,267,000		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax	         후속적으로 당기손익으로 재분류되는 항목	14,236,028,000		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_AdjustmentsForIncreaseDecreaseInCumulativeEffectForeignCurrencyTranslation	            해외사업환산손익	14,493,770,000		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00110893_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeOfOtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax	            기타포괄손익-공정가치측정채무증권 평가손익	414,318,000		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ShareOfProfitLossOfAssociatesAndJointVenturesAccountedForUsingEquityMethod	            관계기업투자 지분법평가	-672,060,000		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax	         후속적으로 당기손익으로 재분류되지 않는 항목	-6,513,761,000		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_AdjustmentsForGainsOnRevaluationOfPropertyPlantAndEquipment	            유형자산재평가차익	273,201,000		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정지분증권평가손익	-6,717,628,000		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	            당기손익-공정가치측정지정금융부채의 자기신용위험조정	13,779,000		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            확정급여제도의재측정요소	-83,113,000		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLoss	      분기순이익	108,384,008,000		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세비용차감전연결순손익	144,235,457,000		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익	112,900,163,000		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_Revenue	      영업수익	3,005,798,690,000		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융상품관련이익	1,768,107,247,000		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherOperatingIncome	         기타의영업수익	63,498,995,000		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_RevenueFromRenderingOfServicesRental	         임대수익	55,902,628,000		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_RevenueFromSaleOfGoodsRealEstate	         분양수익	24,046,909,000		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00110893_udf_IS_202488135030224OfRevenue	         당기손익-공정가치측정지정금융상품관련이익	17,854,751,000		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	         수수료수익	327,584,146,000		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_NetForeignExchangeGain	         외환거래이익	192,126,383,000		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_RevenueFromInterest	         이자수익	528,050,576,000		
+ 포괄손익계산서, 증권 - 연결	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ReversalAllowanceAccountForCreditLossesOfFinancialAssets	         신용손실충당금환입액	28,627,055,000		
+ 포괄손익계산서, 증권 - 연결	[null]	리딩투자증권	기타법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	dart_NonOperatingExpense	      영업외비용	1,393,362,154		
+ 포괄손익계산서, 증권 - 연결	[null]	리딩투자증권	기타법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	dart_NonOperatingIncome	      영업외수익	2,807,842,352		
+ 포괄손익계산서, 증권 - 연결	[null]	리딩투자증권	기타법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	ifrs-full_ComprehensiveIncome	      총포괄손익	15,633,744,232		
+ 포괄손익계산서, 증권 - 연결	[null]	리딩투자증권	기타법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests	         비지배지분	2,341,183,573		
+ 포괄손익계산서, 증권 - 연결	[null]	리딩투자증권	기타법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배기업의 소유주 지분	13,292,560,659		
+ 포괄손익계산서, 증권 - 연결	[null]	리딩투자증권	기타법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	4,231,690,699		
+ 포괄손익계산서, 증권 - 연결	[null]	리딩투자증권	기타법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	ifrs-full_OperatingExpense	      영업비용	253,786,471,928		
+ 포괄손익계산서, 증권 - 연결	[null]	리딩투자증권	기타법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융상품관련손실	164,067,434,634		
+ 포괄손익계산서, 증권 - 연결	[null]	리딩투자증권	기타법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	         신용손실충당금 전입액	2,684,488,530		
+ 포괄손익계산서, 증권 - 연결	[null]	리딩투자증권	기타법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	         수수료비용	3,883,444,501		
+ 포괄손익계산서, 증권 - 연결	[null]	리딩투자증권	기타법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	ifrs-full_ForeignExchangeLoss	         외환거래손실	88,788,967		
+ 포괄손익계산서, 증권 - 연결	[null]	리딩투자증권	기타법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	ifrs-full_InterestExpense	         이자비용	36,100,495,387		
+ 포괄손익계산서, 증권 - 연결	[null]	리딩투자증권	기타법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	ifrs-full_MiscellaneousOtherOperatingExpense	         기타비용	1,140,760,013		
+ 포괄손익계산서, 증권 - 연결	[null]	리딩투자증권	기타법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	         판매비와관리비	45,821,059,896		
+ 포괄손익계산서, 증권 - 연결	[null]	리딩투자증권	기타법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	1,195,205,345		
+ 포괄손익계산서, 증권 - 연결	[null]	리딩투자증권	기타법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정채무상품평가손익	1,212,732,957		
+ 포괄손익계산서, 증권 - 연결	[null]	리딩투자증권	기타법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	            해외사업환산손익	-17,527,612		
+ 포괄손익계산서, 증권 - 연결	[null]	리딩투자증권	기타법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	ifrs-full_ProfitLoss	      당기순이익(손실)	14,438,538,887		
+ 포괄손익계산서, 증권 - 연결	[null]	리딩투자증권	기타법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToNoncontrollingInterests	         비지배지분순이익	2,341,183,573		
+ 포괄손익계산서, 증권 - 연결	[null]	리딩투자증권	기타법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	         지배기업소유주지분순이익	12,097,355,314		
+ 포괄손익계산서, 증권 - 연결	[null]	리딩투자증권	기타법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	            대손준비금 반영후 조정이익	12,029,723,371		
+ 포괄손익계산서, 증권 - 연결	[null]	리딩투자증권	기타법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세차감전순이익	18,670,229,586		
+ 포괄손익계산서, 증권 - 연결	[null]	리딩투자증권	기타법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익(손실)	17,255,749,388		
+ 포괄손익계산서, 증권 - 연결	[null]	리딩투자증권	기타법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	ifrs-full_Revenue	      영업수익	271,042,221,316		
+ 포괄손익계산서, 증권 - 연결	[null]	리딩투자증권	기타법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융상품관련이익	179,351,565,186		
+ 포괄손익계산서, 증권 - 연결	[null]	리딩투자증권	기타법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	         수수료수익	36,995,795,701		
+ 포괄손익계산서, 증권 - 연결	[null]	리딩투자증권	기타법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	ifrs-full_ForeignExchangeGain	         외환거래이익	118,413,046		
+ 포괄손익계산서, 증권 - 연결	[null]	리딩투자증권	기타법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	ifrs-full_MiscellaneousOtherOperatingIncome	         기타수익	2,723,911,253		
+ 포괄손익계산서, 증권 - 연결	[null]	리딩투자증권	기타법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	ifrs-full_RevenueFromInterest	         이자수익	51,852,536,130		
+ 포괄손익계산서, 증권 - 연결	[008560]	메리츠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_NonOperatingExpense	      영업외비용	143,697,509,395		
+ 포괄손익계산서, 증권 - 연결	[008560]	메리츠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_NonOperatingIncome	      영업외수익	124,749,034,416		
+ 포괄손익계산서, 증권 - 연결	[008560]	메리츠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncome	      총포괄손익	520,765,950,789		
+ 포괄손익계산서, 증권 - 연결	[008560]	메리츠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests	         비지배주주지분총포괄손익	5,358,653,846		
+ 포괄손익계산서, 증권 - 연결	[008560]	메리츠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배주주지분총포괄손익	515,407,296,943		
+ 포괄손익계산서, 증권 - 연결	[008560]	메리츠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         기본주당이익(손실)	845		
+ 포괄손익계산서, 증권 - 연결	[008560]	메리츠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShare	         희석주당이익(손실)	845		
+ 포괄손익계산서, 증권 - 연결	[008560]	메리츠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	180,619,825,638		
+ 포괄손익계산서, 증권 - 연결	[008560]	메리츠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OperatingExpense	      영업비용	25,267,959,536,633		
+ 포괄손익계산서, 증권 - 연결	[008560]	메리츠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	-24,405,573,835		
+ 포괄손익계산서, 증권 - 연결	[008560]	메리츠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정채무증권평가손익	-10,827,850,663		
+ 포괄손익계산서, 증권 - 연결	[008560]	메리츠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	            해외사업환산손익	3,039,035,864		
+ 포괄손익계산서, 증권 - 연결	[008560]	메리츠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax	            지분법자본변동	458,285,777		
+ 포괄손익계산서, 증권 - 연결	[008560]	메리츠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	            당기손익-공정가치측정지정금융부채평가손익	-5,044,155,573		
+ 포괄손익계산서, 증권 - 연결	[008560]	메리츠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정지분증권관련손익	-11,640,012,745		
+ 포괄손익계산서, 증권 - 연결	[008560]	메리츠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            순확정급여부채 재측정요소	-390,876,495		
+ 포괄손익계산서, 증권 - 연결	[008560]	메리츠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLoss	      당기순이익(손실)	545,171,524,624		
+ 포괄손익계산서, 증권 - 연결	[008560]	메리츠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToNoncontrollingInterests	      비지배주주분당기순이익(손실)	5,358,653,846		
+ 포괄손익계산서, 증권 - 연결	[008560]	메리츠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	      지배기업주주지분당기순이익(손실)	539,812,870,778		
+ 포괄손익계산서, 증권 - 연결	[008560]	메리츠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세비용차감전순이익	725,791,350,262		
+ 포괄손익계산서, 증권 - 연결	[008560]	메리츠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익(손실)	744,739,825,241		
+ 포괄손익계산서, 증권 - 연결	[008560]	메리츠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_Revenue	      영업수익	26,012,699,361,874		
+ 포괄손익계산서, 증권 - 연결	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	      기타포괄손익-공정가치측정금융상품관련이익	39,122,997,381		
+ 포괄손익계산서, 증권 - 연결	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      당기손익-공정가치측정금융상품관련이익	9,007,396,003,020		
+ 포괄손익계산서, 증권 - 연결	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	      기타포괄손익-공정가치측정금융상품관련손실	1,959,282,322		
+ 포괄손익계산서, 증권 - 연결	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      당기손익-공정가치측정금융상품관련손실	8,599,442,896,357		
+ 포괄손익계산서, 증권 - 연결	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_NonOperatingProfitLoss	      영업외손익	-48,739,494,137		
+ 포괄손익계산서, 증권 - 연결	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_NonOperatingExpense	         영업외비용	109,320,598,324		
+ 포괄손익계산서, 증권 - 연결	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_NonOperatingIncome	         영업외수익	60,581,104,187		
+ 포괄손익계산서, 증권 - 연결	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherOperatingExpense	      기타의영업비용	202,044,037,043		
+ 포괄손익계산서, 증권 - 연결	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherOperatingIncome	      기타의영업수익	683,676,955,375		
+ 포괄손익계산서, 증권 - 연결	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_PersonalExpense	      인건비	676,227,531,935		
+ 포괄손익계산서, 증권 - 연결	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      신용손실충당금전입액	36,745,310,634		
+ 포괄손익계산서, 증권 - 연결	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncome	      분기총포괄손익	441,277,920,501		
+ 포괄손익계산서, 증권 - 연결	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests	         비지배지분	7,293,361,514		
+ 포괄손익계산서, 증권 - 연결	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배기업의 소유주지분	433,984,558,987		
+ 포괄손익계산서, 증권 - 연결	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_BasicEarningsLossPerSharePreferredStock	         기본 주당이익(우선주)	1,092		
+ 포괄손익계산서, 증권 - 연결	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_DilutedEarningsLossPerSharePreferredStock	         희석 주당이익(우선주)	1,092		
+ 포괄손익계산서, 증권 - 연결	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         기본 주당이익(보통주)	1,092		
+ 포괄손익계산서, 증권 - 연결	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShare	         희석 주당이익(보통주)	1,092		
+ 포괄손익계산서, 증권 - 연결	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	      수수료비용	201,027,640,528		
+ 포괄손익계산서, 증권 - 연결	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	      수수료수익	977,651,182,108		
+ 포괄손익계산서, 증권 - 연결	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeGain	      외환거래이익	1,381,064,946,844		
+ 포괄손익계산서, 증권 - 연결	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeLoss	      외환거래손실	1,216,325,568,558		
+ 포괄손익계산서, 증권 - 연결	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용(수익)	203,986,656,172		
+ 포괄손익계산서, 증권 - 연결	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestExpense	      이자비용	4,053,763,943,861		
+ 포괄손익계산서, 증권 - 연결	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OperatingExpense	      영업비용	15,538,017,530,447		
+ 포괄손익계산서, 증권 - 연결	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	-220,521,260,466		
+ 포괄손익계산서, 증권 - 연결	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산평가손익	66,450,750,555		
+ 포괄손익계산서, 증권 - 연결	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	            해외사업환산손익	-30,345,913,931		
+ 포괄손익계산서, 증권 - 연결	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations	            해외사업장순투자에 대한 위험회피	18,075,198,500		
+ 포괄손익계산서, 증권 - 연결	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax	            관계기업투자자산평가손익	-143,727,296,079		
+ 포괄손익계산서, 증권 - 연결	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	            당기손익-공정가치측정지정금융부채의 신용위험 변동	892,861,068		
+ 포괄손익계산서, 증권 - 연결	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정지정금융자산 평가손익	-130,222,129,128		
+ 포괄손익계산서, 증권 - 연결	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            확정급여부채의 재측정요소	-1,644,731,451		
+ 포괄손익계산서, 증권 - 연결	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLoss	      분기순이익(손실)	661,799,180,967		
+ 포괄손익계산서, 증권 - 연결	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToNoncontrollingInterests	      비지배지분	7,200,309,581		
+ 포괄손익계산서, 증권 - 연결	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	      지배기업의 소유주지분	654,598,871,386		
+ 포괄손익계산서, 증권 - 연결	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세비용차감전순이익	865,785,837,139		
+ 포괄손익계산서, 증권 - 연결	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익	914,525,331,276		
+ 포괄손익계산서, 증권 - 연결	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_Revenue	      영업수익	16,452,542,861,723		
+ 포괄손익계산서, 증권 - 연결	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_RevenueFromInterest	      이자수익	4,347,692,757,971		
+ 포괄손익계산서, 증권 - 연결	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestIncomeForFinancialAssetsMeasuredAtAmortisedCost	         상각후원가측정금융자산관련이자수익	3,366,145,916,790		
+ 포괄손익계산서, 증권 - 연결	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융자산관련이자수익	583,217,472,093		
+ 포괄손익계산서, 증권 - 연결	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestRevenueForFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정금융자산관련이자수익	398,329,369,088		
+ 포괄손익계산서, 증권 - 연결	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ReversalAllowanceAccountForCreditLossesOfFinancialAssets	      신용손실충당금환입액	15,938,019,024		
+ 포괄손익계산서, 증권 - 연결	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      판매관리비	550,481,319,209		
+ 포괄손익계산서, 증권 - 연결	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_GainFromFinancialInstruments	      2. 금융상품관련수익	189,758,667,311		
+ 포괄손익계산서, 증권 - 연결	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_GainsOnTransactionOfDerivativeFinancialInstrument	      3. 파생상품거래이익	200,732,498,063		
+ 포괄손익계산서, 증권 - 연결	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_LossFromFinancialInstruments	      2. 금융상품평가및처분손실	180,741,040,575		
+ 포괄손익계산서, 증권 - 연결	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_LossesOnTransactionOfDerivativeFinancialInstrument	      3. 파생상품거래손실	162,497,096,722		
+ 포괄손익계산서, 증권 - 연결	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_NonOperatingExpense	      V. 영업외비용	491,057,212		
+ 포괄손익계산서, 증권 - 연결	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_NonOperatingIncome	      IV. 영업외수익	4,795,549,193		
+ 포괄손익계산서, 증권 - 연결	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherOperatingExpense	      8. 기타영업비용	3,687,393,181		
+ 포괄손익계산서, 증권 - 연결	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherOperatingIncome	      7. 기타영업수익	9,596,210,967		
+ 포괄손익계산서, 증권 - 연결	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00123772_GainOnValuationOfLoansOfStatementOfComprehensiveIncomeAbstract	      5. 대출채권평가및처분이익	15,420,000		
+ 포괄손익계산서, 증권 - 연결	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00123772_LossValuationOfLoansOfStatementOfComprehensiveIncomeAbstract	      5. 대출채권평가및처분손실	27,681,584,275		
+ 포괄손익계산서, 증권 - 연결	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncome	      X. 총포괄이익(손실)	26,527,079,110		
+ 포괄손익계산서, 증권 - 연결	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeFromContinuingOperationsAttributableToNoncontrollingInterests	         2. 비지배지분에 귀속되는 계속영업포괄손익	6,396,621		
+ 포괄손익계산서, 증권 - 연결	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeFromContinuingOperationsAttributableToOwnersOfParent	         1. 지배기업의 소유주에게 귀속되는 계속영업포괄손익	26,520,682,489		
+ 포괄손익계산서, 증권 - 연결	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_BasicEarningsLossPerSharePreferredStock	         1. 구형우선주 기본주당이익	3,666		
+ 포괄손익계산서, 증권 - 연결	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_DilutedEarningsLossPerSharePreferredStock	         2. 구형우선주 희석주당이익	3,666		
+ 포괄손익계산서, 증권 - 연결	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         3. 보통주 기본주당이익	3,628		
+ 포괄손익계산서, 증권 - 연결	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShare	         4. 보통주 희석주당이익	3,628		
+ 포괄손익계산서, 증권 - 연결	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	      1. 수수료비용	6,837,992,612		
+ 포괄손익계산서, 증권 - 연결	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	      1. 수수료수익	61,125,271,634		
+ 포괄손익계산서, 증권 - 연결	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_IncomeFromContinuingOperationsAttributableToOwnersOfParent	      1. 지배기업의 소유주에게 귀속될 계속영업손익	32,412,038,466		
+ 포괄손익계산서, 증권 - 연결	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      VII. 법인세비용	10,051,415,166		
+ 포괄손익계산서, 증권 - 연결	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestExpense	      4. 이자비용	75,778,732,877		
+ 포괄손익계산서, 증권 - 연결	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_NetForeignExchangeGain	      6. 외환거래이익	0		
+ 포괄손익계산서, 증권 - 연결	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_NetForeignExchangeLoss	      6. 외환거래손실	0		
+ 포괄손익계산서, 증권 - 연결	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OperatingExpense	      II. 영업비용	518,946,923,563		
+ 포괄손익계산서, 증권 - 연결	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      IX. 기타포괄손익	-5,891,355,977		
+ 포괄손익계산서, 증권 - 연결	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            (1) 기타포괄손익-공정가치측정금융자산 평가이익	-5,891,355,977		
+ 포괄손익계산서, 증권 - 연결	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_RevaluationSurplus	            (2) 재평가잉여금	0		
+ 포괄손익계산서, 증권 - 연결	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLoss	      VIII. 당기순이익	32,418,435,087		
+ 포괄손익계산서, 증권 - 연결	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      VI. 법인세차감전순이익	42,469,850,253		
+ 포괄손익계산서, 증권 - 연결	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossFromContinuingOperationsAttributableToNoncontrollingInterests	      2. 비지배지분에 귀속될 계속영업손익	6,396,621		
+ 포괄손익계산서, 증권 - 연결	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      III. 영업이익	38,165,358,272		
+ 포괄손익계산서, 증권 - 연결	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_Revenue	      I. 영업수익	557,112,281,835		
+ 포괄손익계산서, 증권 - 연결	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_RevenueFromInterest	      4. 이자수익	95,884,213,860		
+ 포괄손익계산서, 증권 - 연결	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	         (2) 당기손익-공정가치측정금융자산 관련 이자수익	67,862,573,538		
+ 포괄손익계산서, 증권 - 연결	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	         (1) 유효이자율법을 사용하여 계산한 이자수익	28,021,640,322		
+ 포괄손익계산서, 증권 - 연결	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestIncomeForFinancialAssetsMeasuredAtAmortisedCost	            상각후원가측정금융자산 관련 이자수익	28,021,640,322		
+ 포괄손익계산서, 증권 - 연결	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      7. 판매비와관리비	61,723,083,321		
+ 포괄손익계산서, 증권 - 연결	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      당기손익-공정가치측정금융상품순손익	299,423,361,759		
+ 포괄손익계산서, 증권 - 연결	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융상품관련이익	5,935,115,472,941		
+ 포괄손익계산서, 증권 - 연결	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융상품관련손실	5,355,463,553,876		
+ 포괄손익계산서, 증권 - 연결	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00104856_GainFromFinancialInstrumentsDesignatedAtFairValueThroughProfitOrLossOfudf_IS_2024311184816792OfStatementOfComprehensiveIncomeAbstract	         당기손익-공정가치측정지정금융상품관련이익	177,024,000,027		
+ 포괄손익계산서, 증권 - 연결	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00104856_GainOnExchangeRateFluctuationsOfudf_IS_2024311184816792OfStatementOfComprehensiveIncomeAbstract	         환율변동이익	107,121,589,559		
+ 포괄손익계산서, 증권 - 연결	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00104856_LossFromFinancialInstrumentsDesignatedAtFairValueThroughProfitOrLossOfudf_IS_2024311184816792OfStatementOfComprehensiveIncomeAbstract	         당기손익-공정가치측정지정금융상품관련손실	481,187,706,741		
+ 포괄손익계산서, 증권 - 연결	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00104856_LossOnExchangeRateFluctuationsOfudf_IS_2024311184816792OfStatementOfComprehensiveIncomeAbstract	         환율변동손실	83,186,440,151		
+ 포괄손익계산서, 증권 - 연결	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_NonOperatingExpense	      영업외비용	7,687,374,408		
+ 포괄손익계산서, 증권 - 연결	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_NonOperatingIncome	      영업외수익	16,303,580,741		
+ 포괄손익계산서, 증권 - 연결	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_PersonalExpense	      인건비	440,664,178,230		
+ 포괄손익계산서, 증권 - 연결	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00104856_NetOperaingIncomeBeforeEmployeeCompensationAndBenefitsAndSellingAndAdministrativeExpensesOfStatementOfComprehensiveIncomeAbstract	      순영업손익	1,761,985,074,108		
+ 포괄손익계산서, 증권 - 연결	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncome	      총포괄손익	733,976,808,573		
+ 포괄손익계산서, 증권 - 연결	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests	         비지배지분에 귀속되는 총포괄손익	0		
+ 포괄손익계산서, 증권 - 연결	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배기업의 소유주에게 귀속되는 총포괄손익	733,976,808,573		
+ 포괄손익계산서, 증권 - 연결	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         기본주당순이익	8,413		
+ 포괄손익계산서, 증권 - 연결	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShare	         희석주당순이익	8,413		
+ 포괄손익계산서, 증권 - 연결	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionIncomeExpense	      순수수료손익	722,651,967,657		
+ 포괄손익계산서, 증권 - 연결	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	         수수료비용	136,854,289,855		
+ 포괄손익계산서, 증권 - 연결	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	         수수료수익	859,506,257,512		
+ 포괄손익계산서, 증권 - 연결	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	252,212,491,563		
+ 포괄손익계산서, 증권 - 연결	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestRevenueExpense	      순이자손익	506,972,477,463		
+ 포괄손익계산서, 증권 - 연결	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestExpense	         이자비용	768,745,531,609		
+ 포괄손익계산서, 증권 - 연결	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_RevenueFromInterest	         이자수익	1,275,718,009,072		
+ 포괄손익계산서, 증권 - 연결	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestIncomeForFinancialAssetsMeasuredAtAmortisedCost	            상각후원가측정금융자산관련이자수익	693,970,346,509		
+ 포괄손익계산서, 증권 - 연결	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestIncomeOnCashAndCashEquivalents	            현금및현금성자산이자수익	46,047,875,248		
+ 포괄손익계산서, 증권 - 연결	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정금융자산이자수익	476,637,888,668		
+ 포괄손익계산서, 증권 - 연결	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestRevenueForFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산이자수익	59,061,898,647		
+ 포괄손익계산서, 증권 - 연결	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	-17,348,113,438		
+ 포괄손익계산서, 증권 - 연결	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정채무상품 관련손익	7,875,826,768		
+ 포괄손익계산서, 증권 - 연결	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	            해외사업환산손익	4,877,602,260		
+ 포괄손익계산서, 증권 - 연결	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax	            지분법자본변동	-2,074,093,789		
+ 포괄손익계산서, 증권 - 연결	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	            당기손익-공정가치측정지정금융부채 신용위험변동	-2,108,039,844		
+ 포괄손익계산서, 증권 - 연결	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정지분상품 관련손익	-24,794,395,837		
+ 포괄손익계산서, 증권 - 연결	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            확정급여제도의재측정요소	-1,125,012,996		
+ 포괄손익계산서, 증권 - 연결	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherOperatingIncomeExpense	      기타영업손익	232,937,267,229		
+ 포괄손익계산서, 증권 - 연결	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정금융자산관련수익	743,466,943		
+ 포괄손익계산서, 증권 - 연결	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정금융자산관련비용	1,979,600		
+ 포괄손익계산서, 증권 - 연결	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherOperatingExpense	         기타영업비용	944,120,129,645		
+ 포괄손익계산서, 증권 - 연결	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherOperatingIncome	         기타영업수익	1,157,823,226,832		
+ 포괄손익계산서, 증권 - 연결	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	         금융자산신용손실	29,954,483,160		
+ 포괄손익계산서, 증권 - 연결	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ReversalAllowanceAccountForCreditLossesOfFinancialAssets	         금융자산신용손실환입	48,447,165,859		
+ 포괄손익계산서, 증권 - 연결	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLoss	      당기순이익	751,324,922,011		
+ 포괄손익계산서, 증권 - 연결	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToNoncontrollingInterests	      비지배지분순이익	0		
+ 포괄손익계산서, 증권 - 연결	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	      지배기업소유주지분순이익	751,324,922,011		
+ 포괄손익계산서, 증권 - 연결	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세비용차감전순이익	1,003,537,413,574		
+ 포괄손익계산서, 증권 - 연결	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익	994,921,207,241		
+ 포괄손익계산서, 증권 - 연결	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      판매비와관리비	326,399,688,637		
+ 포괄손익계산서, 증권 - 연결	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      당기손익-공정가치측정금융상품관련이익 (주32)	187,505,823,626		
+ 포괄손익계산서, 증권 - 연결	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      당기손익-공정가치측정금융상품관련손실 (주32)	173,555,265,618		
+ 포괄손익계산서, 증권 - 연결	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_NonOperatingExpense	      V.영업외비용 (주36,42)	229,675,117		
+ 포괄손익계산서, 증권 - 연결	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_NonOperatingIncome	      IV.영업외수익 (주36,42)	983,522,144		
+ 포괄손익계산서, 증권 - 연결	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherOperatingExpense	      기타영업비용 (주35)	3,754,331,021		
+ 포괄손익계산서, 증권 - 연결	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherOperatingIncome	      기타영업수익 (주35)	822,769,169		
+ 포괄손익계산서, 증권 - 연결	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      대출채권 평가 및 처분손실 (주33)	16,715,744,246		
+ 포괄손익계산서, 증권 - 연결	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncome	      Ⅹ.총포괄손익	-38,588,037,878		
+ 포괄손익계산서, 증권 - 연결	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests	         비지배지분에 귀속되는 총포괄손익	0		
+ 포괄손익계산서, 증권 - 연결	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배기업의 소유주에게 귀속되는 총포괄손익	-38,588,037,878		
+ 포괄손익계산서, 증권 - 연결	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         기본주당이익 (주37)	-303		
+ 포괄손익계산서, 증권 - 연결	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShare	         희석주당이익 (주37)	-303		
+ 포괄손익계산서, 증권 - 연결	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	      수수료비용 (주31)	4,244,887,959		
+ 포괄손익계산서, 증권 - 연결	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	      수수료수익 (주31)	29,333,551,135		
+ 포괄손익계산서, 증권 - 연결	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      VII.법인세비용(수익) (주26,42)	-2,717,335,978		
+ 포괄손익계산서, 증권 - 연결	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestExpense	      이자비용 (주6)	40,156,631,517		
+ 포괄손익계산서, 증권 - 연결	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OperatingExpense	      II.영업비용 (주41.42)	297,918,902,000		
+ 포괄손익계산서, 증권 - 연결	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      Ⅸ.기타포괄손익	-6,404,956,708		
+ 포괄손익계산서, 증권 - 연결	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정지분상품평가손익 (주5,9)	-6,404,956,708		
+ 포괄손익계산서, 증권 - 연결	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLoss	      당기순이익	-32,183,081,170		
+ 포괄손익계산서, 증권 - 연결	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToNoncontrollingInterests	      비지배지분순이익	0		
+ 포괄손익계산서, 증권 - 연결	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	      지배기업소유주지분순이익	-32,183,081,170		
+ 포괄손익계산서, 증권 - 연결	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      VI.법인세차감전순이익	-34,900,417,148		
+ 포괄손익계산서, 증권 - 연결	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      III.영업이익(손실)	-35,654,264,175		
+ 포괄손익계산서, 증권 - 연결	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_Revenue	      I.영업수익 (주41,42)	262,264,637,825		
+ 포괄손익계산서, 증권 - 연결	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_RevenueFromDividends	      배당수익 (주5)	6,389,301,835		
+ 포괄손익계산서, 증권 - 연결	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_RevenueFromInterest	      이자수익 (주6)	38,005,725,281		
+ 포괄손익계산서, 증권 - 연결	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	         (2) 당기손익-공정가치로 측정하는 금융자산의 이자수익	26,285,110,261		
+ 포괄손익계산서, 증권 - 연결	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	         (1) 유효이자율적용이자수익	11,720,615,020		
+ 포괄손익계산서, 증권 - 연결	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ReversalAllowanceAccountForCreditLossesOfFinancialAssets	      대출채권평가 및 처분이익 (주33)	207,466,779		
+ 포괄손익계산서, 증권 - 연결	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      판매비와관리비 (주34)	59,492,041,639		
+ 포괄손익계산서, 증권 - 연결	[001720]	신영증권	유가증권시장상장법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	dart_NonOperatingExpense	      V. 영업외비용	7,257,506,044		
+ 포괄손익계산서, 증권 - 연결	[001720]	신영증권	유가증권시장상장법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	dart_NonOperatingIncome	      IV. 영업외수익	11,769,492,200		
+ 포괄손익계산서, 증권 - 연결	[001720]	신영증권	유가증권시장상장법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	dart_OtherOperatingExpense	      7. 기타영업비용	3,414,469,678		
+ 포괄손익계산서, 증권 - 연결	[001720]	신영증권	유가증권시장상장법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	dart_OtherOperatingIncome	      6. 기타의영업수익	24,393,705,324		
+ 포괄손익계산서, 증권 - 연결	[001720]	신영증권	유가증권시장상장법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	entity00136721_GainFromFinancialInsOfStatementOfComprehensiveIncomeAbstract	      2. 금융상품평가및처분이익	360,359,656,373		
+ 포괄손익계산서, 증권 - 연결	[001720]	신영증권	유가증권시장상장법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	entity00136721_udf_IS_20231211162010896OfStatementOfComprehensiveIncomeAbstract	      3. 파생상품평가및거래이익	1,039,248,628,742		
+ 포괄손익계산서, 증권 - 연결	[001720]	신영증권	유가증권시장상장법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	entity00136721_udf_IS_20231211163038232OfStatementOfComprehensiveIncomeAbstract	      5. 외환거래이익	293,747,537,751		
+ 포괄손익계산서, 증권 - 연결	[001720]	신영증권	유가증권시장상장법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	entity00136721_udf_IS_2023121116368131OfStatementOfComprehensiveIncomeAbstract	      2. 금융상품평가및처분손실	530,732,582,558		
+ 포괄손익계산서, 증권 - 연결	[001720]	신영증권	유가증권시장상장법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	entity00136721_udf_IS_20231211164056943OfStatementOfComprehensiveIncomeAbstract	      3. 파생상품평가및거래손실	797,531,011,583		
+ 포괄손익계산서, 증권 - 연결	[001720]	신영증권	유가증권시장상장법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	entity00136721_udf_IS_2023121116554344OfStatementOfComprehensiveIncomeAbstract	      5. 외환거래손실	310,557,986,838		
+ 포괄손익계산서, 증권 - 연결	[001720]	신영증권	유가증권시장상장법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	ifrs-full_ComprehensiveIncome	      X. 총포괄손익	146,579,486,224		
+ 포괄손익계산서, 증권 - 연결	[001720]	신영증권	유가증권시장상장법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests	         2. 비지배지분	3,574,394,668		
+ 포괄손익계산서, 증권 - 연결	[001720]	신영증권	유가증권시장상장법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         1. 지배기업소유지분	143,005,091,556		
+ 포괄손익계산서, 증권 - 연결	[001720]	신영증권	유가증권시장상장법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	dart_BasicEarningsLossPerSharePreferredStock	         2. 우선주기본및희석주당이익	0		
+ 포괄손익계산서, 증권 - 연결	[001720]	신영증권	유가증권시장상장법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         1. 보통주기본및희석주당이익	9,864		
+ 포괄손익계산서, 증권 - 연결	[001720]	신영증권	유가증권시장상장법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	      1. 수수료비용	4,458,243,304		
+ 포괄손익계산서, 증권 - 연결	[001720]	신영증권	유가증권시장상장법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	      1. 수수료수익	114,972,427,021		
+ 포괄손익계산서, 증권 - 연결	[001720]	신영증권	유가증권시장상장법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      VII. 법인세비용	36,859,882,427		
+ 포괄손익계산서, 증권 - 연결	[001720]	신영증권	유가증권시장상장법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	ifrs-full_InterestExpense	      4. 이자비용	164,685,192,934		
+ 포괄손익계산서, 증권 - 연결	[001720]	신영증권	유가증권시장상장법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	ifrs-full_OperatingExpense	      II. 영업비용	1,957,390,259,521		
+ 포괄손익계산서, 증권 - 연결	[001720]	신영증권	유가증권시장상장법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      IX. 기타포괄손익	63,989,414,431		
+ 포괄손익계산서, 증권 - 연결	[001720]	신영증권	유가증권시장상장법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            1. 기타포괄손익-공정가치측정채무상품관련손익	-452,223,327		
+ 포괄손익계산서, 증권 - 연결	[001720]	신영증권	유가증권시장상장법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	            2. 해외사업환산손익	4,442,872,253		
+ 포괄손익계산서, 증권 - 연결	[001720]	신영증권	유가증권시장상장법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	            2. 당기손익-공정가치측정지정금융부채관련손익	-45,894,309		
+ 포괄손익계산서, 증권 - 연결	[001720]	신영증권	유가증권시장상장법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            1. 기타포괄손익-공정가치측정지분상품관련손익	60,101,224,961		
+ 포괄손익계산서, 증권 - 연결	[001720]	신영증권	유가증권시장상장법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            3. 확정급여제도의 재측정요소	-56,565,147		
+ 포괄손익계산서, 증권 - 연결	[001720]	신영증권	유가증권시장상장법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	ifrs-full_ProfitLoss	      VIII. 분기순이익	82,590,071,793		
+ 포괄손익계산서, 증권 - 연결	[001720]	신영증권	유가증권시장상장법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToNoncontrollingInterests	      2. 비지배지분	3,578,576,666		
+ 포괄손익계산서, 증권 - 연결	[001720]	신영증권	유가증권시장상장법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	      1. 지배기업소유지분	79,011,495,127		
+ 포괄손익계산서, 증권 - 연결	[001720]	신영증권	유가증권시장상장법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      VI. 법인세비용차감전순이익	119,449,954,220		
+ 포괄손익계산서, 증권 - 연결	[001720]	신영증권	유가증권시장상장법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      III. 영업이익	114,937,968,064		
+ 포괄손익계산서, 증권 - 연결	[001720]	신영증권	유가증권시장상장법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	ifrs-full_Revenue	      I. 영업수익	2,072,328,227,585		
+ 포괄손익계산서, 증권 - 연결	[001720]	신영증권	유가증권시장상장법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	ifrs-full_RevenueFromInterest	      4. 이자수익	239,606,272,374		
+ 포괄손익계산서, 증권 - 연결	[001720]	신영증권	유가증권시장상장법인	661	금융 지원 서비스업	03	2024-12-31	3분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      6. 판매비와관리비	146,010,772,626		
+ 포괄손익계산서, 증권 - 연결	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_NonOperatingExpense	      영업외비용	91,216,000,000		
+ 포괄손익계산서, 증권 - 연결	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_NonOperatingIncome	      영업외수익	38,668,000,000		
+ 포괄손익계산서, 증권 - 연결	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherOperatingExpense	      기타의영업비용	12,614,000,000		
+ 포괄손익계산서, 증권 - 연결	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherOperatingIncome	      기타의영업수익	90,780,000,000		
+ 포괄손익계산서, 증권 - 연결	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00138321_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLossOfStatementOfComprehensiveIncomeAbstract	      기타포괄손익-공정가치측정금융상품관련이익	21,678,000,000		
+ 포괄손익계산서, 증권 - 연결	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00138321_GainOnFinancialInstrumentsAtFairValueThroughProfitOrLossOfStatementOfComprehensiveIncomeAbstract	      당기손익-공정가치측정금융상품관련이익	5,928,109,000,000		
+ 포괄손익계산서, 증권 - 연결	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00138321_LossOnFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncomeOfStatementOfComprehensiveIncomeAbstract	      기타포괄손익-공정가치측정금융상품관련손실	2,017,000,000		
+ 포괄손익계산서, 증권 - 연결	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00138321_LossOnFinancialInstrumentsAtFairValueThroughProfitOrLossOfStatementOfComprehensiveIncomeAbstract	      당기손익-공정가치측정금융상품관련손실	5,819,091,000,000		
+ 포괄손익계산서, 증권 - 연결	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      신용손실충당금전입액	62,582,000,000		
+ 포괄손익계산서, 증권 - 연결	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncome	      분기총포괄이익	245,546,000,000		
+ 포괄손익계산서, 증권 - 연결	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests	         비지배기업소유지분총포괄이익	5,000,000		
+ 포괄손익계산서, 증권 - 연결	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배기업소유지분총포괄이익	245,541,000,000		
+ 포괄손익계산서, 증권 - 연결	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	      수수료비용	106,050,000,000		
+ 포괄손익계산서, 증권 - 연결	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	      수수료수익	547,114,000,000		
+ 포괄손익계산서, 증권 - 연결	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeGain	      외환거래이익	745,240,000,000		
+ 포괄손익계산서, 증권 - 연결	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeLoss	      외환거래손실	777,921,000,000		
+ 포괄손익계산서, 증권 - 연결	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	73,199,000,000		
+ 포괄손익계산서, 증권 - 연결	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestExpense	      이자비용	733,197,000,000		
+ 포괄손익계산서, 증권 - 연결	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OperatingExpense	      영업비용	8,115,940,000,000		
+ 포괄손익계산서, 증권 - 연결	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	-3,292,000,000		
+ 포괄손익계산서, 증권 - 연결	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_IncomeTaxRelatingToComponentsOfOtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLoss	            법인세효과	1,554,000,000		
+ 포괄손익계산서, 증권 - 연결	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeBeforeTaxExchangeDifferencesOnTranslation	            해외사업환산손익	8,868,000,000		
+ 포괄손익계산서, 증권 - 연결	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeBeforeTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융상품평가손익	-8,840,000,000		
+ 포괄손익계산서, 증권 - 연결	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossBeforeTax	            지분법자본변동	0		
+ 포괄손익계산서, 증권 - 연결	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_IncomeTaxRelatingToComponentsOfOtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLoss	            법인세효과	1,749,000,000		
+ 포괄손익계산서, 증권 - 연결	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeBeforeTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	            당기손익-공정가치측정지정금융부채의 자기신용위험 조정	-6,513,000,000		
+ 포괄손익계산서, 증권 - 연결	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeBeforeTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정금융상품평가손익	-110,000,000		
+ 포괄손익계산서, 증권 - 연결	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeBeforeTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            퇴직급여부채의 보험수리적손익	0		
+ 포괄손익계산서, 증권 - 연결	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLoss	      분기순이익	248,838,000,000		
+ 포괄손익계산서, 증권 - 연결	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToNoncontrollingInterests	      비지배기업소유지분순이익	5,000,000		
+ 포괄손익계산서, 증권 - 연결	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	      지배기업소유주지분순이익	248,833,000,000		
+ 포괄손익계산서, 증권 - 연결	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세비용차감전순이익	322,037,000,000		
+ 포괄손익계산서, 증권 - 연결	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익	374,585,000,000		
+ 포괄손익계산서, 증권 - 연결	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_Revenue	      영업수익	8,490,525,000,000		
+ 포괄손익계산서, 증권 - 연결	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_RevenueFromInterest	      이자수익	1,148,860,000,000		
+ 포괄손익계산서, 증권 - 연결	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융상품이자수익	708,373,000,000		
+ 포괄손익계산서, 증권 - 연결	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	         유효이자율적용이자수익	440,487,000,000		
+ 포괄손익계산서, 증권 - 연결	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ReversalAllowanceAccountForCreditLossesOfFinancialAssets	      신용손실충당금환입액	8,744,000,000		
+ 포괄손익계산서, 증권 - 연결	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      판매비와관리비	602,468,000,000		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      대손준비금 반영후 조정이익	47,688,882,592		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_Donations	      기부금	333,220,527		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_GainsOnChangeInFairValueAndOnDisposalOfFinancialInstruments	      증권평가및처분이익	328,578,075,427		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_GainsOnDisposalsOfIntangibleAssets	      무형자산처분이익	2,886,953		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_GainsOnSaleOfInvestmentAccountedForUsingEquityMethod	      관계기업투자주식처분이익	828,116,675		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_GainsOnSaleOfInvestmentsInSubsidiaries	      종속기업투자주식처분이익	919,738,440		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_LossesOfAssociatesAndJointVenturesAccountedForUsingEquityMethod	      지분법손실	919,584,978		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_LossesOnChangeInFairValueAndOnDisposalOfFinancialInstruments	      증권평가및처분손실	259,025,576,002		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_LossesOnDisposalOfIntangibleAssets	      무형자산처분손실	3,641,000		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_LossesOnSaleOfInvestmentAccountedForUsingEquityMethod	      관계기업투자주식처분손실	4,566,072		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_LossesOnSaleOfInvestmentsInSubsidiaries	      종속기업투자주식처분손실	1,144,565,120		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_MiscellaneousIncome	      잡수익	105,322,278		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_MiscellaneousLosses	      잡손실	42,213,454,494		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_NonOperatingExpense	      영업외비용	44,854,087,937		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_NonOperatingIncome	      영업외수익	3,119,156,847		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherOperatingExpense	      기타의영업비용	1,361,252,906		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherOperatingIncome	      기타의영업수익	5,228,722,098		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_ProfitsOfAssociatesAndJointVenturesAccountedForUsingEquityMethod	      지분법이익	1,253,188,029		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00684918_GainsFromCancellationOfLeaseContractOfStatementOfComprehensiveIncomeAbstract	      리스해지이익	48,425		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00684918_GainsOnChangeInFairValueAndOnDisposalOfLoansOfStatementOfComprehensiveIncomeAbstract	      대출채권평가및처분이익	0		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00684918_GainsOnTradeAndOnChangeInFairValueOfDerivativesOfStatementOfComprehensiveIncomeAbstract	      파생상품거래및평가이익	1,277,548,406,175		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00684918_LossFromInvestmentPropertyOfStatementOfComprehensiveIncomeAbstract	      투자부동산관련비용	233,342,157		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00684918_LossesFromCancellationOfLeaseContractOfStatementOfComprehensiveIncomeAbstract	      리스해지손실	202,678		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00684918_LossesOnChangeInFairValueAndOnDisposalOfLoansOfStatementOfComprehensiveIncomeAbstract	      대출채권평가및처분손실	2,387,682,964		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00684918_LossesOnTradeAndOnChangeInFairValueOfDerivativesOfStatementOfComprehensiveIncomeAbstract	      파생상품거래및평가손실	1,321,789,744,341		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncome	      분기총포괄이익	38,347,118,880		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests	         비지배지분총포괄손익	0		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배주주지분총포괄이익	38,347,118,880		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         기본주당이익(손실)	294		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	      수수료비용	11,305,553,172		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	      수수료수익	102,868,437,082		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeGain	      외환거래이익	29,548,067,514		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_GainsOnDisposalsOfPropertyPlantAndEquipment	      유형자산처분이익	9,856,047		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	4,630,975,764		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestExpense	      이자비용	155,677,870,002		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_LossesOnDisposalsOfPropertyPlantAndEquipment	      유형자산처분손실	1,510,911		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_NetForeignExchangeLoss	      외환거래손실	27,347,304,760		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OperatingExpense	      영업비용	1,899,442,309,273		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      분기기타포괄손익	-45,047,433		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산 평가손익	-525,923		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	            신용위험조정변동	-44,521,510		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            순확정급여자산의 재측정요소	0		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLoss	      분기순이익	38,392,166,313		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToNoncontrollingInterests	      비지배지분순이익	0		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	      지배주주지분순이익	38,392,166,313		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세비용차감전순이익	43,023,142,077		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익	84,758,073,167		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_Revenue	      영업수익	1,984,200,382,440		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_RevenueFromDividends	      배당금수익	431,192,067		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_RevenueFromInterest	      이자수익	239,997,482,077		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestIncomeForFinancialAssetsMeasuredAtAmortisedCost	         상각후원가측정금융상품 이자수익	57,924,034,376		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융상품 이자수익	171,731,564,101		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestRevenueForFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정금융상품 이자수익	10,341,883,600		
+ 포괄손익계산서, 증권 - 연결	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      판매비와관리비	120,547,325,126		
+ 포괄손익계산서, 증권 - 연결	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_GainFromFinancialInstruments	      금융상품관련수익	517,640,284,530		
+ 포괄손익계산서, 증권 - 연결	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtAmortisedCost	         상각후원가측정금융상품관련이익	35,238,580,232		
+ 포괄손익계산서, 증권 - 연결	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정금융상품관련이익	1,812,003,716		
+ 포괄손익계산서, 증권 - 연결	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융상품관련이익	480,589,700,582		
+ 포괄손익계산서, 증권 - 연결	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_LossFromFinancialInstruments	      금융상품관련비용	881,689,252,815		
+ 포괄손익계산서, 증권 - 연결	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtAmortisedCost	         상각후원가측정금융상품관련손실	304,771,435,463		
+ 포괄손익계산서, 증권 - 연결	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정금융상품관련손실	351,914,275		
+ 포괄손익계산서, 증권 - 연결	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융상품관련손실	576,565,903,077		
+ 포괄손익계산서, 증권 - 연결	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_NonOperatingExpense	      영업외비용	2,299,920,289		
+ 포괄손익계산서, 증권 - 연결	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_NonOperatingIncome	      영업외수익	12,706,416,365		
+ 포괄손익계산서, 증권 - 연결	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherOperatingExpense	      기타영업비용	1,673,056,375		
+ 포괄손익계산서, 증권 - 연결	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_MiscellaneousOtherOperatingExpense	         그밖의 기타영업비용	903,576,194		
+ 포괄손익계산서, 증권 - 연결	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_NetForeignExchangeLoss	         외환거래손실	769,480,181		
+ 포괄손익계산서, 증권 - 연결	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherOperatingIncome	      기타영업수익	44,590,217,094		
+ 포괄손익계산서, 증권 - 연결	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_MiscellaneousOtherOperatingIncome	         그밖의 기타영업이익	36,470,170,007		
+ 포괄손익계산서, 증권 - 연결	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_NetForeignExchangeGain	         외환거래이익	8,120,047,087		
+ 포괄손익계산서, 증권 - 연결	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00148665_GainOnDeriOfStatementOfComprehensiveIncomeAbstract	      파생상품관련이익	654,029,543,664		
+ 포괄손익계산서, 증권 - 연결	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00148665_LossFromDerivativeInstrumentsOfStatementOfComprehensiveIncomeAbstract	      파생상품관련손실	505,762,428,169		
+ 포괄손익계산서, 증권 - 연결	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncome	      분기연결총포괄손익	-115,614,410,030		
+ 포괄손익계산서, 증권 - 연결	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests	         비지배지분에 귀속되는 총포괄손익	0		
+ 포괄손익계산서, 증권 - 연결	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배기업의 소유주에게 귀속되는 총포괄손익	-115,614,410,030		
+ 포괄손익계산서, 증권 - 연결	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	      수수료비용	22,875,492,159		
+ 포괄손익계산서, 증권 - 연결	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	      수수료수익	95,910,619,860		
+ 포괄손익계산서, 증권 - 연결	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용(수익)	-37,156,679,904		
+ 포괄손익계산서, 증권 - 연결	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestExpense	      이자비용	238,578,527,550		
+ 포괄손익계산서, 증권 - 연결	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OperatingExpense	      영업비용	1,767,361,891,484		
+ 포괄손익계산서, 증권 - 연결	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      분기연결기타포괄손익	398,777,533		
+ 포괄손익계산서, 증권 - 연결	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정채무상품평가손익	676,001,904		
+ 포괄손익계산서, 증권 - 연결	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정지분상품평가손익	161,745,355		
+ 포괄손익계산서, 증권 - 연결	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            확정급여제도의재측정요소	-438,969,726		
+ 포괄손익계산서, 증권 - 연결	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLoss	      분기순이익(손실)	-116,013,187,563		
+ 포괄손익계산서, 증권 - 연결	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToNoncontrollingInterests	      비지배지분에 귀속되는 당기순이익(손실)	0		
+ 포괄손익계산서, 증권 - 연결	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	      지배기업의 소유주에게 귀속되는 분기순이익(손실)	-116,013,187,563		
+ 포괄손익계산서, 증권 - 연결	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세비용차감전순이익(손실)	-153,169,867,467		
+ 포괄손익계산서, 증권 - 연결	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익(손실)	-163,576,363,543		
+ 포괄손익계산서, 증권 - 연결	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_Revenue	      영업수익	1,603,785,527,941		
+ 포괄손익계산서, 증권 - 연결	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_RevenueFromInterest	      이자수익	291,614,862,793		
+ 포괄손익계산서, 증권 - 연결	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	         당기손익-공정가치로 측정하는 금융자산의 이자수익	158,431,902,760		
+ 포괄손익계산서, 증권 - 연결	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	         유효이자율적용이자수익	133,182,960,033		
+ 포괄손익계산서, 증권 - 연결	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      판매 및 일반관리비	116,783,134,416		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_GainFromFinancialInstruments	      금융상품평가및처분이익	1,193,441,109,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_GainsOnChangeInFairValueOfFinancialLiabilitiesDesignatedAtFairValueThroughProfitOrLoss	         당기손익인식지정금융부채평가이익	20,926,849,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_GainsOnDisposalsOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정채무증권처분이익	2,087,446,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_GainsOnTransactionOfDerivativeFinancialInstrument	         파생상품거래이익	788,374,563,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_ReversalOfImpairmentLossOfFinancialAssetsAtAmortisedCost	         상각후원가채무상품손상차손환입	1,044,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_ReversalOfImpairmentLossOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정증권손상차손환입	0		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00117601_GainsOnDisposalOfComplexFinancialAssetsAtFairValueThroughProfitOrLossOfGainFromFinancialInstruments	         당기손익-공정가치측정복합금융자산처분이익	3,408,829,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00117601_GainsOnDisposalOfFinancialAssetsAtFairValueThroughProfitOrLossExcludingComplexInstrumentsOfGainFromFinancialInstruments	         당기손익-공정가치측정금융자산처분이익	127,642,012,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00117601_GainsOnRedemptionOfFinancialLiabilitiesAtFairValueThroughProfitOrLossDesignatedUponInitialRecognitionOrSubsequentlyOfGainFromFinancialInstruments	         당기손익인식지정금융부채상환이익	1,991,585,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00117601_GainsOnRedemptionOfFinancialLiabilitiesAtFairValueThroughProfitOrLossThatMeetDefinitionOfHeldForTradingOfGainFromFinancialInstruments	         단기매매금융부채상환이익	13,422,028,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00117601_GainsOnValuationOfComplexFinancialAssetsAtFairValueThroughProfitOrLossOfGainFromFinancialInstruments	         당기손익-공정가치측정복합금융자산평가이익	6,016,428,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00117601_GainsOnValuationOfFinancialAssetsAtFairValueThroughProfitOrLossExcludingComplexInstrumentsOfGainFromFinancialInstruments	         당기손익-공정가치측정금융자산평가이익	109,878,311,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00117601_GainsOnValuationOfFinancialLiabilitiesAtFairValueThroughProfitOrLossThatMeetDefinitionOfHeldForTradingOfGainFromFinancialInstruments	         단기매매금융부채평가이익	10,609,169,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00117601_GainsOnValuationOfOtherFinancialAssetsAtFairValueThroughProfitOrLossOfGainFromFinancialInstruments	         기타당기손익-공정가치측정금융자산평가이익	3,367,561,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00117601_udf_IS_20242513424536OfGainFromFinancialInstruments	         기타당기손익-공정가치측정금융자산처분이익	269,491,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_GainsOnChangeInFairValueOfDerivatives	         파생상품평가이익	105,445,793,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_LossFromFinancialInstruments	      금융상품평가및처분손실	1,153,726,614,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_ImpairmentLossOfFinancialAssetsAtAmortisedCost	         상각후원가측정증권손상차손	0		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_ImpairmentLossOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정증권손상차손	14,850,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_LossesOnChangeInFairValueOfFinancialLiabilitiesDesignatedAtFairValueThroughProfitOrLoss	         당기손익인식지정금융부채평가손실	69,039,076,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_LossesOnDisposalsOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정채무증권처분손실	14,641,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_LossesOnTransactionOfDerivativeFinancialInstrument	         파생상품거래손실	734,975,725,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00117601_LossesOnDisposalOfComplexFinancialAssetsAtFairValueThroughProfitOrLossOfLossFromFinancialInstruments	         당기손익-공정가치측정복합금융자산처분손실	501,570,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00117601_LossesOnDisposalOfFinancialAssetsAtFairValueThroughProfitOrLossExcludingComplexInstrumentsOfLossFromFinancialInstruments	         당기손익-공정가치측정금융자산처분손실	95,097,360,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00117601_LossesOnRedemptionOfFinancialLiabilitiesAtFairValueThroughProfitOrLossDesignatedUponInitialRecognitionOrSubsequentlyOfLossFromFinancialInstruments	         당기손익인식지정금융부채상환손실	71,311,202,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00117601_LossesOnRedemptionOfFinancialLiabilitiesAtFairValueThroughProfitOrLossThatMeetDefinitionOfHeldForTradingOfLossFromFinancialInstruments	         단기매매금융부채상환손실	22,922,239,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00117601_LossesOnValuationOfComplexFinancialAssetsAtFairValueThroughProfitOrLossOfLossFromFinancialInstruments	         당기손익-공정가치측정복합금융자산평가손실	1,300,987,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00117601_LossesOnValuationOfFinancialAssetsAtFairValueThroughProfitOrLossExcludingComplexInstrumentsOfLossFromFinancialInstruments	         당기손익-공정가치측정금융자산평가손실	15,944,704,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00117601_LossesOnValuationOfOtherFinancialAssetsAtFairValueThroughProfitOrLossOfLossFromFinancialInstruments	         기타당기손익-공정가치측정금융자산평가손실	1,441,689,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00117601_udf_IS_20242149472072OfLossFromFinancialInstruments	         기타당기손익-공정가치측정금융자산처분손실	632,405,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00117601_udf_IS_202438112250111OfLossFromFinancialInstruments	         단기매매금융부채평가손실	13,607,166,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_LossesOnChangeInFairValueOfDerivatives	         파생상품평가손실	126,923,000,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_NonOperatingExpense	      V. 영업외비용	13,547,477,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_LossesOfAssociatesAndJointVenturesAccountedForUsingEquityMethod	         지분법손실	4,270,660,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_MiscellaneousLosses	         기타영업외비용	8,248,472,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00117601_udf_IS_202310109186395OfNonOperatingExpense	         자산처분손실	1,028,345,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_NonOperatingIncome	      IV. 영업외수익	22,552,438,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_MiscellaneousIncome	         기타영업외수익	7,226,262,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_ProfitsOfAssociatesAndJointVenturesAccountedForUsingEquityMethod	         지분법이익	1,233,685,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00117601_GainsOnDisposalOfAssetsOfNonOperatingIncome	         자산처분이익	14,092,491,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherOperatingExpense	      기타영업비용	44,570,090,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_AllowanceForOtherDoubtfulAccounts	         기타대손상각비	0		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00117601_udf_IS_20242131125564OfOtherOperatingExpense	         충당부채전입액	384,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_MiscellaneousOtherOperatingExpense	         기타의영업비용	44,569,706,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherOperatingIncome	      기타영업수익	81,748,880,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_ReversalsOfAllowanceForOtherDoubtfulAccounts	         기타대손충당금환입	439,166,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00117601_DistributionIncomeOfOtherOperatingIncome	         분배금수익	2,927,093,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00117601_udf_IS_20242131140111OfOtherOperatingIncome	         충당부채환입액	1,058,590,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_MiscellaneousOtherOperatingIncome	         기타의영업수익	64,780,264,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_RevenueFromDividends	         배당금수익	12,543,767,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00117601_udf_IS_20231010988234OfStatementOfComprehensiveIncomeAbstract	      대출채권평가및처분손실	15,378,615,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_BadDebtExpenses	         대손상각비	15,378,615,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00117601_LossOnDisposalOfLoanReceivablesOfudf_IS_20231010988234OfStatementOfComprehensiveIncomeAbstract	         대출채권처분손실	0		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00117601_udf_IS_2023102711346863OfStatementOfComprehensiveIncomeAbstract	      대출채권평가및처분이익	682,876,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00117601_GainsOnDisposalOfLoansOfudf_IS_2023102711346863OfStatementOfComprehensiveIncomeAbstract	         대출채권처분이익	682,876,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00117601_OtherProfitFromDisposalOfOtherLoansOfudf_IS_2023102711346863OfStatementOfComprehensiveIncomeAbstract	         기타대출채권처분이익	0		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00117601_ReversalOfAllowancesForCreditLossOfudf_IS_2023102711346863OfStatementOfComprehensiveIncomeAbstract	         대손충당금환입	0		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncome	      X. 분기총포괄이익	40,973,737,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests	         비지배지분총포괄손익	0		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배기업주주지분총포괄손익	40,973,737,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToNoncontrollingInterests	         비지배지분순손익	0		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	         지배기업주주지분순손익	61,921,774,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_BasicEarningsLossPerSharePreferredStock	         기본우선주당순이익(손실)	301		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         기본보통주당순이익(손실)	301		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	      수수료비용	20,225,777,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	      수수료수익	232,301,245,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeGain	      외환거래이익	145,494,251,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeLoss	      외환거래손실	144,186,522,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      VII. 법인세비용(수익)	19,211,506,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestExpense	      이자비용	230,833,643,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OperatingExpense	      Ⅱ. 영업비용	1,933,587,078,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      IX. 세후기타포괄손익	-20,948,037,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정채무증권평가손익	-272,483,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	            해외사업환산손익	288,848,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax	            지분법자본변동	-200,238,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilitiesDesignatedAtFairValueThroughProfitOrLoss	            당기손익-공정가치 지정금융부채 자기신용위험 변동손익	-47,967,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정지분증권평가손익	-9,400,294,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxDisposalOfFinancialLiabilitiesDesignatedAtFairValueThroughProfitOrLoss	            당기손익-공정가치 지정금융부채 자기신용위험 처분손익	47,967,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxDisposalOfInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정지분증권처분손익	64,879,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            순확정급여제도의재측정요소	-11,428,749,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLoss	      VIII. 분기순이익(손실)	61,921,774,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      VI. 법인세비용차감전순손익	81,133,280,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      III. 영업이익(손실)	72,128,319,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_Revenue	      I. 영업수익	2,005,715,397,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_RevenueFromInterest	      이자수익	352,047,036,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융상품이자수익	173,231,318,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	         상각후원가측정 및 기타포괄손익 공정가치측정금융자산 관련 이자수익	178,815,718,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      판매비와관리비	324,665,817,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_AdvertisingExpensesSellingGeneralAdministrativeExpenses	         광고선전비	3,751,927,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_AmortisationExpenseSellingGeneralAdministrativeExpenses	         무형자산상각비	4,141,266,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_CommissionsSellingGeneralAdministrativeExpenses	         지급수수료	21,858,177,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_DepreciationExpenseSellingGeneralAdministrativeExpenses	         감가상각비	21,495,106,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_ElectronicFacilitiesExpensesSellingGeneralAdministrativeExpenses	         전산운용비	15,931,791,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_EmployeeBenefitsSellingGeneralAdministrativeExpenses	         복리후생비	23,199,418,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_EntertainmentExpensesSellingGeneralAdministrativeExpenses	         접대비	4,739,652,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_MiscellaneousExpenses	         기타	13,996,167,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_ProvisionForSeveranceIndemnities	         퇴직급여	20,155,426,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_RentalExpensesSellingGeneralAdministrativeExpenses	         임차료	6,299,882,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_ResearchExpenseSellingGeneralAdministrativeExpenses	         조사연구비	16,101,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_SalariesWages	         급여	176,154,962,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_TaxesDuesSellingGeneralAdministrativeExpenses	         세금과공과금	12,721,793,000		
+ 포괄손익계산서, 증권 - 연결	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_TrainingExpensesSellingGeneralAdministrativeExpenses	         연수비	204,149,000		
+ 포괄손익계산서, 증권 - 연결	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      당기손익-공정가치측정금융상품관련이익	362,950,410,462		
+ 포괄손익계산서, 증권 - 연결	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_GainsOnTransactionOfDerivativeFinancialInstrumentsFinancialIncome	      파생상품거래이익	387,427,363,297		
+ 포괄손익계산서, 증권 - 연결	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtAmortisedCost	      상각후원가측정금융상품관련손실	247,656,431		
+ 포괄손익계산서, 증권 - 연결	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      당기손익-공정가치측정금융상품관련손실	362,373,894,969		
+ 포괄손익계산서, 증권 - 연결	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_LossesOnTransactionOfDerivativeFinancialInstrumentsFinancialExpense	      파생상품거래손실	355,420,180,081		
+ 포괄손익계산서, 증권 - 연결	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_NonOperatingExpense	      영업외비용	877,012,038		
+ 포괄손익계산서, 증권 - 연결	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_NonOperatingIncome	      영업외수익	4,565,159,038		
+ 포괄손익계산서, 증권 - 연결	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherOperatingExpense	      기타영업비용	485,659,325		
+ 포괄손익계산서, 증권 - 연결	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherOperatingIncome	      기타영업수익	23,125,382,331		
+ 포괄손익계산서, 증권 - 연결	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncome	      총포괄이익(손실)	39,344,497,136		
+ 포괄손익계산서, 증권 - 연결	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests	         비지배지분총포괄손익	0		
+ 포괄손익계산서, 증권 - 연결	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배기업지분총포괄손익	39,344,497,136		
+ 포괄손익계산서, 증권 - 연결	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         기본주당이익(손실)	473		
+ 포괄손익계산서, 증권 - 연결	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShare	         희석주당이익(손실)	473		
+ 포괄손익계산서, 증권 - 연결	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	      수수료비용	20,551,492,504		
+ 포괄손익계산서, 증권 - 연결	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	      수수료수익	137,245,032,357		
+ 포괄손익계산서, 증권 - 연결	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeGain	      외환거래이익	23,652,247,189		
+ 포괄손익계산서, 증권 - 연결	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeLoss	      외환거래손실	19,961,987,540		
+ 포괄손익계산서, 증권 - 연결	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용(수익)	10,509,700,677		
+ 포괄손익계산서, 증권 - 연결	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestExpense	      이자비용	141,913,718,537		
+ 포괄손익계산서, 증권 - 연결	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OperatingExpense	      영업비용	1,085,705,582,357		
+ 포괄손익계산서, 증권 - 연결	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	-4,140,948,609		
+ 포괄손익계산서, 증권 - 연결	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax	            지분법자본변동	205,304,368		
+ 포괄손익계산서, 증권 - 연결	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	            당기손익-공정가치인식지정금융부채 신용위험변동손익	2,892,661,490		
+ 포괄손익계산서, 증권 - 연결	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정금융상품평가손익	-7,237,019,305		
+ 포괄손익계산서, 증권 - 연결	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax	            지분법자본변동	-1,895,162		
+ 포괄손익계산서, 증권 - 연결	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLoss	      분기순이익(손실)	43,485,445,745		
+ 포괄손익계산서, 증권 - 연결	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToNoncontrollingInterests	      비지배지분순이익	0		
+ 포괄손익계산서, 증권 - 연결	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	      지배기업지분순이익	43,485,445,745		
+ 포괄손익계산서, 증권 - 연결	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세비용차감전순이익(손실)	53,995,146,422		
+ 포괄손익계산서, 증권 - 연결	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익(손실)	50,306,999,422		
+ 포괄손익계산서, 증권 - 연결	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_Revenue	      영업수익	1,136,012,581,779		
+ 포괄손익계산서, 증권 - 연결	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_RevenueFromInterest	      이자수익	201,612,146,143		
+ 포괄손익계산서, 증권 - 연결	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융자산이자수익	126,956,277,953		
+ 포괄손익계산서, 증권 - 연결	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	         유효이자율적용이자수익	74,655,868,190		
+ 포괄손익계산서, 증권 - 연결	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      판매비와관리비	184,750,992,970		
+ 포괄손익계산서, 증권 - 연결	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtAmortisedCost	      상각후원가측정금융자산평가및처분이익	86,202,015,971		
+ 포괄손익계산서, 증권 - 연결	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_GainsOnChangeInFairValueAndOnDisposalOfFinancialInstruments	      금융상품평가및처분이익	5,176,804,122,372		
+ 포괄손익계산서, 증권 - 연결	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtAmortisedCost	      상각후원가측정금융자산평가및처분손실	89,028,756,526		
+ 포괄손익계산서, 증권 - 연결	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_LossesOnChangeInFairValueAndOnDisposalOfFinancialInstruments	      금융상품평가및처분손실	4,881,367,757,481		
+ 포괄손익계산서, 증권 - 연결	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_NonOperatingExpense	      영업외비용	69,887,255,870		
+ 포괄손익계산서, 증권 - 연결	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_NonOperatingIncome	      영업외수익	44,710,022,385		
+ 포괄손익계산서, 증권 - 연결	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherOperatingExpense	      기타의영업비용	32,940,041,847		
+ 포괄손익계산서, 증권 - 연결	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherOperatingIncome	      기타의영업수익	174,360,674,843		
+ 포괄손익계산서, 증권 - 연결	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncome	      분기총포괄이익	563,718,747,782		
+ 포괄손익계산서, 증권 - 연결	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests	         비지배지분	2,856,574,230		
+ 포괄손익계산서, 증권 - 연결	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배기업소유주지분	560,862,173,552		
+ 포괄손익계산서, 증권 - 연결	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	      수수료비용	171,938,559,559		
+ 포괄손익계산서, 증권 - 연결	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	      수수료수익	710,571,966,386		
+ 포괄손익계산서, 증권 - 연결	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeGain	      외환거래이익	597,985,406,893		
+ 포괄손익계산서, 증권 - 연결	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeLoss	      외환거래손실	554,321,703,764		
+ 포괄손익계산서, 증권 - 연결	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	157,681,111,278		
+ 포괄손익계산서, 증권 - 연결	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestExpense	      이자비용	878,923,206,168		
+ 포괄손익계산서, 증권 - 연결	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OperatingExpense	      영업비용	7,339,108,420,990		
+ 포괄손익계산서, 증권 - 연결	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      세후기타포괄손익	11,102,619,712		
+ 포괄손익계산서, 증권 - 연결	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정채무상품평가손익	13,139,864,663		
+ 포괄손익계산서, 증권 - 연결	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	            해외사업환산손익	9,909,998,534		
+ 포괄손익계산서, 증권 - 연결	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations	            해외사업장순투자에 대한 위험회피	-2,414,094,720		
+ 포괄손익계산서, 증권 - 연결	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax	            관계기업 기타포괄손익 중 지분해당액	3,691,896,243		
+ 포괄손익계산서, 증권 - 연결	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	            당기손익-공정가치지정금융부채 신용위험변동손익	-8,318,339,298		
+ 포괄손익계산서, 증권 - 연결	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정지분상품평가손익	-4,881,630,744		
+ 포괄손익계산서, 증권 - 연결	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            순확정급여부채의 재측정요소	-25,074,966		
+ 포괄손익계산서, 증권 - 연결	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation	            유형자산재평가손익	0		
+ 포괄손익계산서, 증권 - 연결	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLoss	      분기순이익	552,616,128,070		
+ 포괄손익계산서, 증권 - 연결	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToNoncontrollingInterests	      비지배지분	1,722,608,205		
+ 포괄손익계산서, 증권 - 연결	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	      지배기업소유주지분	550,893,519,865		
+ 포괄손익계산서, 증권 - 연결	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세비용차감전순이익	710,297,239,348		
+ 포괄손익계산서, 증권 - 연결	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익	735,474,472,833		
+ 포괄손익계산서, 증권 - 연결	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_Revenue	      영업수익	8,074,582,893,823		
+ 포괄손익계산서, 증권 - 연결	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_RevenueFromInterest	      이자수익	1,328,658,707,358		
+ 포괄손익계산서, 증권 - 연결	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융상품이자수익	628,920,411,623		
+ 포괄손익계산서, 증권 - 연결	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	         유효이자율적용이자수익	699,738,295,735		
+ 포괄손익계산서, 증권 - 연결	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      판매관리비	730,588,395,645		
+ 포괄손익계산서, 증권 - 연결	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_NonOperatingExpense	      영 업 외 비 용	97,946,396,763		
+ 포괄손익계산서, 증권 - 연결	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00296290_NonOperatingExpenseAttributableToOtherOfNonOperatingExpense	         2. 기타	56,002,820,260		
+ 포괄손익계산서, 증권 - 연결	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00296290_NonOperatingIncomeAttributableToOtherOfNonOperatingExpense	         1. 지분법손실	41,943,576,503		
+ 포괄손익계산서, 증권 - 연결	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_NonOperatingIncome	      영 업 외 수 익	97,551,999,983		
+ 포괄손익계산서, 증권 - 연결	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00296290_NonOperatingIncomeAttributableToAccountedForUsingEquityMethodOfNonOperatingIncome	         1. 지분법이익	36,011,073,471		
+ 포괄손익계산서, 증권 - 연결	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00296290_NonOperatingIncomeAttributableToOtherOfNonOperatingIncome	         2. 기타	61,540,926,512		
+ 포괄손익계산서, 증권 - 연결	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherOperatingExpense	      9. 기타의영업비용	109,361,904,612		
+ 포괄손익계산서, 증권 - 연결	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherOperatingIncome	      8. 기타의영업수익	11,525,166,611		
+ 포괄손익계산서, 증권 - 연결	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00296290_ForeignExchangeGainOfStatementOfComprehensiveIncomeAbstract	      7. 외환거래이익	885,190,862,503		
+ 포괄손익계산서, 증권 - 연결	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00296290_ForeignExchangeLossOfStatementOfComprehensiveIncomeAbstract	      7. 외환거래손실	911,307,040,563		
+ 포괄손익계산서, 증권 - 연결	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00296290_GainFromDerivativesOfStatementOfComprehensiveIncomeAbstract	      3. 파생상품 관련이익	3,222,900,028,810		
+ 포괄손익계산서, 증권 - 연결	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00296290_GainFromFinancialInstrumentsAtAmortisedCostOfStatementOfComprehensiveIncomeAbstract	      5. 상각후원가 측정 금융상품 관련이익	35,022,275,157		
+ 포괄손익계산서, 증권 - 연결	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00296290_GainFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncomeOfStatementOfComprehensiveIncomeAbstract	      4. 기타포괄손익-공정가치 측정 금융상품 관련이익	23,101,934,650		
+ 포괄손익계산서, 증권 - 연결	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00296290_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLossOfStatementOfComprehensiveIncomeAbstract	      2. 당기손익-공정가치 측정 금융상품 관련이익	1,429,466,722,094		
+ 포괄손익계산서, 증권 - 연결	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00296290_LossFromDerivativesOfStatementOfComprehensiveIncomeAbstract	      3. 파생상품 관련손실	2,932,012,837,636		
+ 포괄손익계산서, 증권 - 연결	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00296290_LossFromFinancialInstrumentsAtAmortisedCostOfStatementOfComprehensiveIncomeAbstract	      5. 상각후원가 측정 금융상품 관련손실	133,256,645,391		
+ 포괄손익계산서, 증권 - 연결	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00296290_LossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncomeOfStatementOfComprehensiveIncomeAbstract	      4. 기타포괄손익-공정가치 측정 금융상품 관련손실	0		
+ 포괄손익계산서, 증권 - 연결	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00296290_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLossOfStatementOfComprehensiveIncomeAbstract	      2. 당기손익-공정가치 측정 금융상품 관련손실	1,117,572,562,902		
+ 포괄손익계산서, 증권 - 연결	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncome	      총포괄손익	742,212,097,340		
+ 포괄손익계산서, 증권 - 연결	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests	         비지배주주지분	-306,423,288		
+ 포괄손익계산서, 증권 - 연결	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배주주지분	742,518,520,628		
+ 포괄손익계산서, 증권 - 연결	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_BasicEarningsLossPerSharePreferredStock	         우선주기본주당이익	27,356		
+ 포괄손익계산서, 증권 - 연결	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_DilutedEarningsLossPerSharePreferredStock	         우선주희석주당이익	27,356		
+ 포괄손익계산서, 증권 - 연결	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         보통주기본주당이익	25,334		
+ 포괄손익계산서, 증권 - 연결	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShare	         보통주희석주당이익	23,097		
+ 포괄손익계산서, 증권 - 연결	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	      1. 수수료비용	187,907,873,838		
+ 포괄손익계산서, 증권 - 연결	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	      1. 수수료수익	779,541,022,053		
+ 포괄손익계산서, 증권 - 연결	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법 인 세 비 용	228,988,734,791		
+ 포괄손익계산서, 증권 - 연결	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestExpense	      6. 이자비용	804,774,036,426		
+ 포괄손익계산서, 증권 - 연결	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OperatingExpense	      영  업  비  용	6,720,708,420,900		
+ 포괄손익계산서, 증권 - 연결	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기 타 포 괄 손 익	53,595,478,949		
+ 포괄손익계산서, 증권 - 연결	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정 금융자산 평가(채무상품)	372,257,755		
+ 포괄손익계산서, 증권 - 연결	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges	            현금흐름위험회피순손익	-248,962,867		
+ 포괄손익계산서, 증권 - 연결	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	            해외사업환산손익	1,813,499,344		
+ 포괄손익계산서, 증권 - 연결	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax	            관계기업투자자본변동	650,181,478		
+ 포괄손익계산서, 증권 - 연결	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	            당기손익-공정가치 측정 금융부채 평가손익(신용위험조정)	2,280,032,915		
+ 포괄손익계산서, 증권 - 연결	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치 측정 금융자산 평가손익(지분상품)	48,690,457,446		
+ 포괄손익계산서, 증권 - 연결	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            확정급여제도의 재측정요소	38,012,878		
+ 포괄손익계산서, 증권 - 연결	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLoss	      분 기 순 이 익	688,616,618,391		
+ 포괄손익계산서, 증권 - 연결	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToNoncontrollingInterests	      비지배주주지분	-313,642,966		
+ 포괄손익계산서, 증권 - 연결	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	      지배주주지분	688,930,261,357		
+ 포괄손익계산서, 증권 - 연결	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세비용차감전순이익	917,605,353,182		
+ 포괄손익계산서, 증권 - 연결	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영  업  이  익	917,999,749,962		
+ 포괄손익계산서, 증권 - 연결	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_Revenue	      영  업  수  익	7,638,708,170,862		
+ 포괄손익계산서, 증권 - 연결	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_RevenueFromInterest	      6. 이자수익	1,251,960,158,984		
+ 포괄손익계산서, 증권 - 연결	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	         당기손익-공정가치 측정 금융상품 이자수익	327,357,709,281		
+ 포괄손익계산서, 증권 - 연결	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	         유효이자율 적용 이자수익	924,602,449,703		
+ 포괄손익계산서, 증권 - 연결	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      8. 판매비와관리비	524,515,519,532		
+ 포괄손익계산서, 증권 - 연결	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_NonOperatingProfitLoss	      영업외손익	66,570,633,591		
+ 포괄손익계산서, 증권 - 연결	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_AdjustmentsForOtherExpenseByFunction	         기타비용	41,437,082,950		
+ 포괄손익계산서, 증권 - 연결	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_AdjustmentsForOtherRevenue	         기타수익	70,213,560,050		
+ 포괄손익계산서, 증권 - 연결	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_AdjustmentsForUndistributedProfitsOfInvestmentsAccountedForUsingEquityMethod	         지분법손익	37,794,156,491		
+ 포괄손익계산서, 증권 - 연결	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OperatingIncomeLoss	      영업이익	195,760,073,187		
+ 포괄손익계산서, 증권 - 연결	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncome	      총포괄이익(손실)	211,922,149,030		
+ 포괄손익계산서, 증권 - 연결	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests	         비지배지분총포괄손익	2,295,247,942		
+ 포괄손익계산서, 증권 - 연결	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배기업소유주지분총포괄이익(손실)	209,626,901,088		
+ 포괄손익계산서, 증권 - 연결	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         지배기업소유주 기본 및 희석주당이익(손실)	2,260		
+ 포괄손익계산서, 증권 - 연결	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용(수익)	79,059,030,052		
+ 포괄손익계산서, 증권 - 연결	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OperatingExpense	      영업비용	8,424,985,971,735		
+ 포괄손익계산서, 증권 - 연결	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정금융상품관련손실	3,695,578,779		
+ 포괄손익계산서, 증권 - 연결	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융상품관련손실	6,064,629,382,989		
+ 포괄손익계산서, 증권 - 연결	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherOperatingExpense	         기타영업비용	41,644,110,735		
+ 포괄손익계산서, 증권 - 연결	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_PersonalExpense	         인건비	231,359,820,678		
+ 포괄손익계산서, 증권 - 연결	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	         수수료비용	80,877,866,745		
+ 포괄손익계산서, 증권 - 연결	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeLoss	         외환거래손실	901,116,333,348		
+ 포괄손익계산서, 증권 - 연결	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_GeneralAndAdministrativeExpense	         일반관리비	231,197,651,873		
+ 포괄손익계산서, 증권 - 연결	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ImpairmentLossRecognisedInProfitOrLoss	         금융자산손상차손	55,868,101,924		
+ 포괄손익계산서, 증권 - 연결	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestExpense	         이자비용	814,597,124,664		
+ 포괄손익계산서, 증권 - 연결	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	28,650,472,304		
+ 포괄손익계산서, 증권 - 연결	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax	         후속적으로 당기손익으로 재분류될 수 있는 항목	30,110,968,474		
+ 포괄손익계산서, 증권 - 연결	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정채무증권평가손익	25,010,744,839		
+ 포괄손익계산서, 증권 - 연결	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	            해외사업장환산외환차이	2,971,674,191		
+ 포괄손익계산서, 증권 - 연결	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax	            지분법자본변동	2,128,549,444		
+ 포괄손익계산서, 증권 - 연결	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax	         후속적으로 당기손익으로 재분류되지 않는 항목	-1,460,496,170		
+ 포괄손익계산서, 증권 - 연결	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilitiesDesignatedAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정지정금융부채 신용위험변동효과	4,226,956,565		
+ 포괄손익계산서, 증권 - 연결	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정지분증권평가손익	-6,060,000,636		
+ 포괄손익계산서, 증권 - 연결	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            확정급여제도의 재측정요소	-77,754,699		
+ 포괄손익계산서, 증권 - 연결	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax	            지분법자본변동	450,302,600		
+ 포괄손익계산서, 증권 - 연결	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLoss	      분기순이익(손실)	183,271,676,726		
+ 포괄손익계산서, 증권 - 연결	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToNoncontrollingInterests	         비지배지분순이익(손실)	1,477,432,633		
+ 포괄손익계산서, 증권 - 연결	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	         지배기업소유주지분순이익(손실)	181,794,244,093		
+ 포괄손익계산서, 증권 - 연결	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세비용차감전순이익(손실)	262,330,706,778		
+ 포괄손익계산서, 증권 - 연결	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_Revenue	      영업수익	8,620,746,044,922		
+ 포괄손익계산서, 증권 - 연결	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정금융상품관련이익	32,625,503,986		
+ 포괄손익계산서, 증권 - 연결	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융상품관련이익	6,148,960,881,265		
+ 포괄손익계산서, 증권 - 연결	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherOperatingIncome	         기타영업수익	53,989,657,659		
+ 포괄손익계산서, 증권 - 연결	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	         수수료수익	327,828,192,503		
+ 포괄손익계산서, 증권 - 연결	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeGain	         외환거래이익	946,813,609,540		
+ 포괄손익계산서, 증권 - 연결	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_RevenueFromInterest	         이자수익	1,096,017,355,032		
+ 포괄손익계산서, 증권 - 연결	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_InterestRevenueOnFinancialAssetsAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정 금융상품 이자수익	575,927,944,693		
+ 포괄손익계산서, 증권 - 연결	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestIncomeForFinancialAssetsNotAtFairValueThroughProfitOrLoss	            기타포괄손익-공정가치측정 및 상각후원가측정 금융상품 이자수익	520,089,410,339		
+ 포괄손익계산서, 증권 - 연결	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ReversalOfImpairmentLossRecognisedInProfitOrLoss	         금융자산손상차손환입	14,510,844,937		
+ 포괄손익계산서, 증권 - 연결	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_GainFromFinancialInstruments	      금융자산(부채)평가및처분이익	8,750,436,476,455		
+ 포괄손익계산서, 증권 - 연결	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_LossFromFinancialInstruments	      금융자산(부채)평가및처분손실	8,210,589,586,178		
+ 포괄손익계산서, 증권 - 연결	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_NonOperatingExpense	      영업외비용	62,321,115,543		
+ 포괄손익계산서, 증권 - 연결	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_NonOperatingIncome	      영업외수익	264,752,176,208		
+ 포괄손익계산서, 증권 - 연결	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherOperatingExpense	      기타영업비용	40,455,291,805		
+ 포괄손익계산서, 증권 - 연결	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherOperatingIncome	      기타영업수익	117,967,992,020		
+ 포괄손익계산서, 증권 - 연결	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00160144_ComprehensiveIncomeOfStatementOfComprehensiveIncomeAbstract	      총포괄손익	1,172,283,171,680		
+ 포괄손익계산서, 증권 - 연결	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00160144_ProfitLossOfStatementOfComprehensiveIncomeAbstract	      당기순이익의 귀속	1,041,577,623,379		
+ 포괄손익계산서, 증권 - 연결	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToNoncontrollingInterests	         비지배지분순이익(손실)	3,268,956,913		
+ 포괄손익계산서, 증권 - 연결	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	         지배기업주주지분순이익	1,038,308,666,466		
+ 포괄손익계산서, 증권 - 연결	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      신용손실충당금 전입액	14,752,875,203		
+ 포괄손익계산서, 증권 - 연결	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncome	      총포괄손익의 귀속	1,172,283,171,680		
+ 포괄손익계산서, 증권 - 연결	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests	         비지배지분총포괄이익(손실)	4,199,174,772		
+ 포괄손익계산서, 증권 - 연결	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배기업주주지분총포괄손익	1,168,083,996,908		
+ 포괄손익계산서, 증권 - 연결	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	      수수료비용	170,703,256,074		
+ 포괄손익계산서, 증권 - 연결	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	      수수료수익	991,185,342,001		
+ 포괄손익계산서, 증권 - 연결	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeGain	      외환거래이익	3,241,999,083,532		
+ 포괄손익계산서, 증권 - 연결	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeLoss	      외환거래손실	3,379,122,377,832		
+ 포괄손익계산서, 증권 - 연결	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	319,554,534,666		
+ 포괄손익계산서, 증권 - 연결	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestExpense	      이자비용	1,418,629,279,081		
+ 포괄손익계산서, 증권 - 연결	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OperatingExpense	      영업비용	14,097,060,636,799		
+ 포괄손익계산서, 증권 - 연결	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	130,705,548,301		
+ 포괄손익계산서, 증권 - 연결	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치로 측정하는 채무상품-공정가치 변동	-2,335,472,905		
+ 포괄손익계산서, 증권 - 연결	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00160144_One11OfComponentsOfOtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTaxAbstract	            기타포괄손익-공정가치로 측정하는 채무상품-신용위험 변동	-207,378,962		
+ 포괄손익계산서, 증권 - 연결	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	            외환차이	49,086,961,894		
+ 포괄손익계산서, 증권 - 연결	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax	            지분법자본변동	16,116,373,614		
+ 포괄손익계산서, 증권 - 연결	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxDisposalOfInvestmentsInEquityInstruments	            기타포괄손익-공정가치로 측정하는 지분상품-처분손익			
+ 포괄손익계산서, 증권 - 연결	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	            당기손익-공정가치측정지정금융부채의 신용위험변동	-137,417,821		
+ 포괄손익계산서, 증권 - 연결	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치로 측정하는 지분상품-공정가치 변동	67,543,601,841		
+ 포괄손익계산서, 증권 - 연결	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            확정급여부채 재측정요소	638,880,640		
+ 포괄손익계산서, 증권 - 연결	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLoss	      당기순이익(손실)	1,041,577,623,379		
+ 포괄손익계산서, 증권 - 연결	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세차감전순이익	1,361,132,158,045		
+ 포괄손익계산서, 증권 - 연결	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익(손실)	1,158,701,097,380		
+ 포괄손익계산서, 증권 - 연결	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_Revenue	      영업수익	15,255,761,734,179		
+ 포괄손익계산서, 증권 - 연결	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_RevenueFromDividends	      배당금수익	89,025,862,890		
+ 포괄손익계산서, 증권 - 연결	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_RevenueFromInterest	      이자수익	1,999,351,675,177		
+ 포괄손익계산서, 증권 - 연결	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융자산 관련 이자수익	1,153,211,966,762		
+ 포괄손익계산서, 증권 - 연결	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	         상각후원가측정 및 기타포괄손익-공정가치측정금융자산 관련 이자수익	846,139,708,415		
+ 포괄손익계산서, 증권 - 연결	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ReversalAllowanceAccountForCreditLossesOfFinancialAssets	      신용손실충당금 환입액	65,795,302,104		
+ 포괄손익계산서, 증권 - 연결	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      판매비와관리비	862,807,970,626		
+ 포괄손익계산서, 증권 - 연결	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_NonOperatingExpense	      영업외비용	14,843,337,761		
+ 포괄손익계산서, 증권 - 연결	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_NonOperatingIncome	      영업외수익	87,406,000,157		
+ 포괄손익계산서, 증권 - 연결	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00148610_AdjustedProfitLossNetOfRegulartoryReserveForCreditLossOfStatementOfComprehensiveIncomeAbstract	      대손준비금 반영후 조정손익	63,391,810,263		
+ 포괄손익계산서, 증권 - 연결	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00148610_GainsOnChangeInFairValueAndOnDisposalOfDerivativesOfStatementOfComprehensiveIncomeAbstract	      파생상품평가및거래이익	790,537,925,610		
+ 포괄손익계산서, 증권 - 연결	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00148610_GainsOnChangeInFairValueAndOnDisposalOfSecuritiesOfStatementOfComprehensiveIncomeAbstract	      유가증권평가및처분이익	260,969,988,501		
+ 포괄손익계산서, 증권 - 연결	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00148610_LossesFromDerivativesOfStatementOfComprehensiveIncomeAbstract	      파생상품평가및거래손실	663,464,162,442		
+ 포괄손익계산서, 증권 - 연결	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00148610_LossesOnChangeInFairValueAndOnDisposalOfSecuritiesOfStatementOfComprehensiveIncomeAbstract	      유가증권평가및처분손실	371,416,525,549		
+ 포괄손익계산서, 증권 - 연결	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      신용손실충당금 전입액	49,715,908,270		
+ 포괄손익계산서, 증권 - 연결	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncome	      분기총포괄손익	81,412,250,839		
+ 포괄손익계산서, 증권 - 연결	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeFromContinuingOperationsAttributableToNoncontrollingInterests	         비지배지분에 귀속되는 총포괄손익	192,628		
+ 포괄손익계산서, 증권 - 연결	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeFromContinuingOperationsAttributableToOwnersOfParent	         지배기업의 소유주에게 귀속되는 총포괄손익	81,412,058,211		
+ 포괄손익계산서, 증권 - 연결	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_BasicEarningsLossPerSharePreferredStockFromContinuingOperations	         구형우선주 기본주당손익	327		
+ 포괄손익계산서, 증권 - 연결	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_DilutedEarningsLossPerSharePreferredStockFromContinuingOperations	         구형우선주 희석주당손익	327		
+ 포괄손익계산서, 증권 - 연결	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_BasicEarningsLossPerShareFromContinuingOperations	         보통주 기본주당손익	277		
+ 포괄손익계산서, 증권 - 연결	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShareFromContinuingOperations	         보통주 희석주당손익	277		
+ 포괄손익계산서, 증권 - 연결	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	      수수료비용	29,580,208,949		
+ 포괄손익계산서, 증권 - 연결	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	      수수료수익	152,594,989,319		
+ 포괄손익계산서, 증권 - 연결	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeGain	      외환거래이익	46,982,127,484		
+ 포괄손익계산서, 증권 - 연결	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeLoss	      외환거래손실	56,552,191,475		
+ 포괄손익계산서, 증권 - 연결	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_IncomeFromContinuingOperationsAttributableToOwnersOfParent	      지배기업의 소유주에게 귀속되는 분기순손익	60,705,528,902		
+ 포괄손익계산서, 증권 - 연결	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용(수익)	21,751,043,334		
+ 포괄손익계산서, 증권 - 연결	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestExpense	      이자비용	225,504,136,985		
+ 포괄손익계산서, 증권 - 연결	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_MiscellaneousOtherOperatingExpense	      기타비용	94,272,597		
+ 포괄손익계산서, 증권 - 연결	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_MiscellaneousOtherOperatingIncome	      기타수익	25,689,906,400		
+ 포괄손익계산서, 증권 - 연결	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OperatingExpense	      영업비용	1,601,565,058,300		
+ 포괄손익계산서, 증권 - 연결	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	20,706,571,823		
+ 포괄손익계산서, 증권 - 연결	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges	            현금흐름위험회피파생상품평가손익	10,098		
+ 포괄손익계산서, 증권 - 연결	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	            해외사업장환산외환차이	931,918,159		
+ 포괄손익계산서, 증권 - 연결	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax	            지분법자본변동	3,261,194,149		
+ 포괄손익계산서, 증권 - 연결	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	            당기손익-공정가치지정금융부채 신용위험변동손익	351,470,260		
+ 포괄손익계산서, 증권 - 연결	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정금융자산평가손익	16,161,979,157		
+ 포괄손익계산서, 증권 - 연결	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            순확정급여부채의 재측정요소	0		
+ 포괄손익계산서, 증권 - 연결	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLoss	      분기순손익	60,705,679,016		
+ 포괄손익계산서, 증권 - 연결	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세차감전순손익	82,456,722,350		
+ 포괄손익계산서, 증권 - 연결	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossFromContinuingOperationsAttributableToNoncontrollingInterests	      비지배지분에 귀속되는 분기순손익	150,114		
+ 포괄손익계산서, 증권 - 연결	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업손익	9,894,059,954		
+ 포괄손익계산서, 증권 - 연결	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_Revenue	      영업수익	1,611,459,118,254		
+ 포괄손익계산서, 증권 - 연결	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_RevenueFromDividends	      배당수익	28,573,405,990		
+ 포괄손익계산서, 증권 - 연결	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_RevenueFromInterest	      이자수익	305,211,416,843		
+ 포괄손익계산서, 증권 - 연결	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ReversalAllowanceAccountForCreditLossesOfFinancialAssets	      신용손실충당금 환입액	899,358,107		
+ 포괄손익계산서, 증권 - 연결	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      판매 및 일반관리비	205,237,652,033		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_GainFromDerivatives	      파생상품관련수익	342,704,000,000		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	      기타포괄손익-공정가치측정금융상품관련이익	77,000,000		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      당기손익-공정가치측정금융상품관련이익	235,913,000,000		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	      기타포괄손익-공정가치측정금융상품관련손실	433,000,000		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      당기손익-공정가치측정금융상품관련손실	257,889,000,000		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_LossesFromDerivatives	      파생상품관련비용	319,283,000,000		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_LossesOfAssociatesAndJointVenturesAccountedForUsingEquityMethod	      지분법손실	3,023,000,000		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_NonOperatingExpense	      영업외비용	218,000,000		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_Donations	         기부금	47,000,000		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_ImpairmentLossesOnIntangibleAssets	         무형자산손상차손	35,000,000		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_LossesOnDisposalOfIntangibleAssets	         무형자산처분손실	22,000,000		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_MiscellaneousLosses	         기타영업외비용	76,000,000		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_LossesOnDisposalsOfPropertyPlantAndEquipment	         유형자산처분손실	38,000,000		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_NonOperatingIncome	      영업외수익	150,000,000		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_GainsOnDisposalsOfIntangibleAssets	         무형자산처분이익	0		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_MiscellaneousIncome	         기타영업외수익	133,000,000		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_ReversalOfImpairmentLossesOnIntangibleAssets	         무형자산감액손실환입	0		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00137997_GainOnRecoveryOfBadDebtsOfNonOperatingIncome	         상각채권추심이익	0		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_GainsOnDisposalsOfPropertyPlantAndEquipment	         유형자산처분이익	17,000,000		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherOperatingExpense	      기타비용	60,000,000		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherOperatingIncome	      기타수익	75,000,000		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_ProfitsOfAssociatesAndJointVenturesAccountedForUsingEquityMethod	      지분법이익	6,049,000,000		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncome	      총포괄손익	37,277,000,000		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배기업의 소유주에게 귀속되는 총포괄손익	37,277,000,000		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         기본주당이익(손실)	1,060		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShare	         희석주당이익(손실)	924		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	      수수료비용	16,059,000,000		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	      수수료수익	123,779,000,000		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeGain	      외환거래수익	12,094,000,000		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ForeignExchangeLoss	      외환거래비용	9,084,000,000		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	11,264,000,000		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestExpense	      이자비용	332,535,000,000		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OperatingExpense	      영업비용	1,114,354,000,000		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	1,469,000,000		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정채무증권관련손익	6,900,000,000		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정지분증권관련손익	-5,369,000,000		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            종업원급여재측정요소	-62,000,000		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherFinanceCost	      금융상품 관련 기타비용	20,747,000,000		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00137997_MiscellaneousOtherExpenseOfudf_IS_202435185453842OfStatementOfComprehensiveIncomeAbstract	         기타	0		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	         신용손실충당금 전입액	20,747,000,000		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_OtherFinanceIncome	      금융상품 관련 기타수익	23,993,000,000		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	entity00137997_MiscellaneousOtherIncomeOfudf_IS_20243518341333OfStatementOfComprehensiveIncomeAbstract	         기타	22,509,000,000		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ReversalAllowanceAccountForCreditLossesOfFinancialAssets	         신용손실충당금 환입액	1,484,000,000		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLoss	      당기순이익(손실)	35,808,000,000		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	      지배기업소유주지분순이익	35,808,000,000		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세차감전순이익	47,072,000,000		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익(손실)	47,140,000,000		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_Revenue	      영업수익	1,161,494,000,000		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_RevenueFromInterest	      이자수익	416,810,000,000		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	         당기손익-공정가치로 측정하는 금융자산의 이자수익	294,548,000,000		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	         유효이자율적용 이자수익	122,262,000,000		
+ 포괄손익계산서, 증권 - 연결	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2024-09-30	3분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      판매 및 일반관리비	155,241,000,000		

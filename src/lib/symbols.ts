@@ -20,14 +20,14 @@ export function cleanStockName(name: string) {
 
 export const fallbackSymbolDirectory: SymbolEntry[] = [
   {
-    name: "삼성전자",
-    ticker: "005930.KS",
-    searchNames: ["삼성전자", "삼전", "삼성", "samsung"],
-  },
-  {
     name: "SK하이닉스",
     ticker: "000660.KS",
     searchNames: ["sk하이닉스", "하이닉스", "닉스", "hynix"],
+  },
+  {
+    name: "삼성전자",
+    ticker: "005930.KS",
+    searchNames: ["삼성전자", "삼전", "삼성", "samsung"],
   },
   {
     name: "LG에너지솔루션",

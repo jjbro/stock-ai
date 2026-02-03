@@ -56,10 +56,10 @@ export default function SideReportSection({
         </div>
       ) : revenueReport ? (
         <div className="rounded-xl border border-zinc-800 bg-zinc-950/60 p-4 text-sm text-zinc-300">
-          <p className="font-semibold text-zinc-100">매출 비교</p>
+          <p className="font-semibold text-zinc-100">영업이익 비교</p>
           {revenueReport.revenueSeries.currentYear.points.length === 0 ? (
             <p className="mt-4 text-amber-500/80">
-              {revenueError || "매출이 확인되지 않습니다."}
+              {revenueError || "영업이익이 확인되지 않습니다."}
             </p>
           ) : (
             <RevenueLineChart

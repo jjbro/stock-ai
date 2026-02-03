@@ -3,7 +3,7 @@ import { getAiReport } from "@/lib/report-server";
 
 export async function GET(request: Request) {
   const { searchParams } = new URL(request.url);
-  const rawSymbol = searchParams.get("symbol")?.trim() || "삼성전자";
+  const rawSymbol = searchParams.get("symbol")?.trim() || "하이닉스";
 
   try {
     const result = await getAiReport(rawSymbol);

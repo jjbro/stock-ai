@@ -1,0 +1,481 @@
+재무제표종류	종목코드	회사명	시장구분	업종	업종명	결산월	결산기준일	보고서종류	통화	항목코드	항목명	당기 1분기말	전기말	전전기말	
+ 포괄손익계산서, 은행 - 연결	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      대손준비금 반영후 조정이익(손실)	35,513,980,178		
+ 포괄손익계산서, 은행 - 연결	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_GainLossFromDerivativesHeldForHedging	      파생상품관련손익	446,712,238		
+ 포괄손익계산서, 은행 - 연결	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	      기타포괄손익-공정가치금융자산 관련손익	24,206,184,796		
+ 포괄손익계산서, 은행 - 연결	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      당기손익-공정가치금융자산 관련손익	16,800,132,544		
+ 포괄손익계산서, 은행 - 연결	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingProfitLoss	      영업외손익	8,469,795,961		
+ 포괄손익계산서, 은행 - 연결	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity01030132_GainOnTheSaleOfLoanReceivablesOfStatementOfComprehensiveIncomeAbstract	      대출채권매각손익	-2,963,929,637		
+ 포괄손익계산서, 은행 - 연결	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      신용손실에 대한 손상차손	-63,333,189,992		
+ 포괄손익계산서, 은행 - 연결	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	      총포괄손익	50,076,339,946		
+ 포괄손익계산서, 은행 - 연결	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests	         비지배지분에 귀속되는 총포괄손익	0		
+ 포괄손익계산서, 은행 - 연결	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배기업의 소유주에게 귀속되는 총포괄손익	50,076,339,946		
+ 포괄손익계산서, 은행 - 연결	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         보통주기본주당이익(손실)	772		
+ 포괄손익계산서, 은행 - 연결	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShare	         희석주당이익(손실)	772		
+ 포괄손익계산서, 은행 - 연결	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncomeExpense	      순수수료이익	11,860,834,562		
+ 포괄손익계산서, 은행 - 연결	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	         수수료비용	-12,031,377,551		
+ 포괄손익계산서, 은행 - 연결	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	         수수료수익	23,892,212,113		
+ 포괄손익계산서, 은행 - 연결	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용(수익)	-20,196,893,932		
+ 포괄손익계산서, 은행 - 연결	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestRevenueExpense	      순이자이익	254,578,519,801		
+ 포괄손익계산서, 은행 - 연결	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestExpense	         이자비용	-300,845,062,259		
+ 포괄손익계산서, 은행 - 연결	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromInterest	         이자수익	555,423,582,060		
+ 포괄손익계산서, 은행 - 연결	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity01030132_udf_IS_2023829133754143OfRevenueFromInterest	            기타의 이자수익	3,729,131,867		
+ 포괄손익계산서, 은행 - 연결	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_InterestRevenueOnFinancialAssetsAtFairValueThroughProfitOrLoss	               당기손익-공정가치금융자산 이자수익	255,503,216		
+ 포괄손익계산서, 은행 - 연결	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity01030132_OtherInterestIncomeOfudf_IS_2023829133754143OfRevenueFromInterest	               기타이자	3,473,628,651		
+ 포괄손익계산서, 은행 - 연결	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	            유효이자율법에 따른 이자수익	551,694,450,193		
+ 포괄손익계산서, 은행 - 연결	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestIncomeForFinancialAssetsMeasuredAtAmortisedCost	               상각후원가금융자산 이자수익	531,924,312,655		
+ 포괄손익계산서, 은행 - 연결	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestRevenueForFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	               기타포괄손익-공정가치금융자산 이자수익	19,770,137,538		
+ 포괄손익계산서, 은행 - 연결	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	-19,277,640,232		
+ 포괄손익계산서, 은행 - 연결	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity01030132_udf_IS_2023829134414772OfComponentsOfOtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTaxAbstract	            기타포괄손익인식채무증권대손상각비(환입)	-65,142,437		
+ 포괄손익계산서, 은행 - 연결	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치 측정 채무상품 평가손익	-7,906,630,056		
+ 포괄손익계산서, 은행 - 연결	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations	            해외영업순투자위험회피평가손익	2,906,144,000		
+ 포괄손익계산서, 은행 - 연결	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax	            지분법자본변동	-3,231,489,362		
+ 포괄손익계산서, 은행 - 연결	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치지분상품평가손익	-539,600,350		
+ 포괄손익계산서, 은행 - 연결	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            확정급여제도의재측정요소	-10,440,922,027		
+ 포괄손익계산서, 은행 - 연결	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherOperatingIncomeExpense	      기타영업손익	-32,420,464,761		
+ 포괄손익계산서, 은행 - 연결	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	      분기순이익(손실)	69,353,980,178		
+ 포괄손익계산서, 은행 - 연결	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossAttributableToNoncontrollingInterests	         비지배지분에 귀속되는 분기순이익(손실)	0		
+ 포괄손익계산서, 은행 - 연결	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	         지배기업의 소유주에게 귀속되는 분기순이익(손실)	69,353,980,178		
+ 포괄손익계산서, 은행 - 연결	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세차감전순이익	89,550,874,110		
+ 포괄손익계산서, 은행 - 연결	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익(손실)	81,081,078,149		
+ 포괄손익계산서, 은행 - 연결	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      일반관리비	-128,093,721,402		
+ 포괄손익계산서, 은행 - 연결	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      대손준비금 반영후 조정이익(손실)	54,370,809,051		
+ 포괄손익계산서, 은행 - 연결	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	      기타포괄손익-공정가치측정금융상품관련손익	11,096,383,792		
+ 포괄손익계산서, 은행 - 연결	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      당기손익-공정가치측정금융상품관련손익	9,364,382,755		
+ 포괄손익계산서, 은행 - 연결	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingProfitLoss	      영업외손익	980,821,894		
+ 포괄손익계산서, 은행 - 연결	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      신용손실충당금 전입액	-38,621,740,321		
+ 포괄손익계산서, 은행 - 연결	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	      총포괄손익	67,371,605,734		
+ 포괄손익계산서, 은행 - 연결	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests	         비지배지분에 귀속되는 총포괄손익	0		
+ 포괄손익계산서, 은행 - 연결	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배기업의 소유주에게 귀속되는 총포괄손익	67,371,605,734		
+ 포괄손익계산서, 은행 - 연결	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         기본주당이익	1,305		
+ 포괄손익계산서, 은행 - 연결	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShare	         희석주당이익	1,305		
+ 포괄손익계산서, 은행 - 연결	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncomeExpense	      순수수료이익	4,796,191,583		
+ 포괄손익계산서, 은행 - 연결	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	         수수료비용	17,114,409,411		
+ 포괄손익계산서, 은행 - 연결	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	         수수료수익	21,910,600,994		
+ 포괄손익계산서, 은행 - 연결	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	20,793,268,150		
+ 포괄손익계산서, 은행 - 연결	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestRevenueExpense	      순이자이익	201,775,164,571		
+ 포괄손익계산서, 은행 - 연결	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestExpense	         이자비용	159,712,020,007		
+ 포괄손익계산서, 은행 - 연결	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromInterest	         이자수익	361,487,184,578		
+ 포괄손익계산서, 은행 - 연결	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestIncomeOnOtherFinancialAssets	            기타 이자수익	632,670,092		
+ 포괄손익계산서, 은행 - 연결	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	            유효이자율적용이자수익	360,854,514,486		
+ 포괄손익계산서, 은행 - 연결	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	413,866,167		
+ 포괄손익계산서, 은행 - 연결	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	            해외사업환산손익	-294,270,494		
+ 포괄손익계산서, 은행 - 연결	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치 측정 채무증권 평가손익	1,187,373,572		
+ 포괄손익계산서, 은행 - 연결	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax	            관계기업지분법자본조정	-47,334,661		
+ 포괄손익계산서, 은행 - 연결	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치 측정 지분상품 평가손익	76,558,745		
+ 포괄손익계산서, 은행 - 연결	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            확정급여제도의재측정요소	-508,460,995		
+ 포괄손익계산서, 은행 - 연결	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherOperatingIncomeExpense	      기타영업손익	-5,785,911,736		
+ 포괄손익계산서, 은행 - 연결	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	      당기순이익	66,957,739,567		
+ 포괄손익계산서, 은행 - 연결	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossAttributableToNoncontrollingInterests	         비지배지분에 귀속되는 당기순이익(손실)	0		
+ 포괄손익계산서, 은행 - 연결	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	         지배기업의 소유주에게 귀속되는 당기순이익(손실)	66,957,739,567		
+ 포괄손익계산서, 은행 - 연결	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세차감전순이익	87,751,007,717		
+ 포괄손익계산서, 은행 - 연결	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익	86,770,185,823		
+ 포괄손익계산서, 은행 - 연결	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromDividends	      배당수익	711,880,533		
+ 포괄손익계산서, 은행 - 연결	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      일반관리비	-96,566,165,354		
+ 포괄손익계산서, 은행 - 연결	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      대손준비금 반영후 조정이익	974,293,000,000		
+ 포괄손익계산서, 은행 - 연결	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      당기손익-공정가치측정 금융상품 순손익	195,786,000,000		
+ 포괄손익계산서, 은행 - 연결	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingProfitLoss	      영업외손익	-14,884,000,000		
+ 포괄손익계산서, 은행 - 연결	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00386937_NetOtherNonOperatingIncomeExpensesOfNonOperatingProfitLoss	         기타영업외손익	-8,843,000,000		
+ 포괄손익계산서, 은행 - 연결	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ShareOfProfitLossOfAssociatesAndJointVenturesAccountedForUsingEquityMethod	         관계기업투자손익	-6,041,000,000		
+ 포괄손익계산서, 은행 - 연결	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00386937_udf_IS_2024219101326859OfStatementOfComprehensiveIncomeAbstract	      신용손실충당금 반영전 영업이익	1,674,896,000,000		
+ 포괄손익계산서, 은행 - 연결	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      신용손실충당금 전입액	285,987,000,000		
+ 포괄손익계산서, 은행 - 연결	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	      분기총포괄이익	1,029,377,000,000		
+ 포괄손익계산서, 은행 - 연결	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests	         비지배지분총포괄이익	-11,477,000,000		
+ 포괄손익계산서, 은행 - 연결	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배기업주주지분총포괄이익(손실)	1,040,854,000,000		
+ 포괄손익계산서, 은행 - 연결	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncomeExpense	      순수수료이익	270,196,000,000		
+ 포괄손익계산서, 은행 - 연결	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	         수수료비용	105,906,000,000		
+ 포괄손익계산서, 은행 - 연결	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	         수수료수익	376,102,000,000		
+ 포괄손익계산서, 은행 - 연결	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	356,250,000,000		
+ 포괄손익계산서, 은행 - 연결	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestRevenueExpense	      순이자이익	2,596,682,000,000		
+ 포괄손익계산서, 은행 - 연결	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestExpense	         이자비용	3,007,111,000,000		
+ 포괄손익계산서, 은행 - 연결	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromInterest	         이자수익	5,603,793,000,000		
+ 포괄손익계산서, 은행 - 연결	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정 금융상품 이자수익	112,250,000,000		
+ 포괄손익계산서, 은행 - 연결	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	            상각후원가측정 및 기타포괄손익-공정가치측정 금융상품 이자수익	5,491,543,000,000		
+ 포괄손익계산서, 은행 - 연결	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      법인세비용차감후 분기기타포괄손익	11,602,000,000		
+ 포괄손익계산서, 은행 - 연결	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges	            현금흐름위험회피수단의 손익	-14,287,000,000		
+ 포괄손익계산서, 은행 - 연결	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	            외환차이	-4,401,000,000		
+ 포괄손익계산서, 은행 - 연결	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정 채무상품 관련손익	-1,089,000,000		
+ 포괄손익계산서, 은행 - 연결	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations	            해외사업장순투자위험회피수단의 손익	2,232,000,000		
+ 포괄손익계산서, 은행 - 연결	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax	            관계기업 기타포괄손익지분	-204,000,000		
+ 포괄손익계산서, 은행 - 연결	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치 측정 지분상품 관련손익	36,003,000,000		
+ 포괄손익계산서, 은행 - 연결	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            순확정급여부채 재측정요소	-6,652,000,000		
+ 포괄손익계산서, 은행 - 연결	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherOperatingIncomeExpense	      기타영업손익	-324,577,000,000		
+ 포괄손익계산서, 은행 - 연결	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	      분기순이익	1,017,775,000,000		
+ 포괄손익계산서, 은행 - 연결	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossAttributableToNoncontrollingInterests	         비지배지분순이익	-8,657,000,000		
+ 포괄손익계산서, 은행 - 연결	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	         지배기업주주지분순이익	1,026,432,000,000		
+ 포괄손익계산서, 은행 - 연결	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세비용차감전순이익	1,374,025,000,000		
+ 포괄손익계산서, 은행 - 연결	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익	1,388,909,000,000		
+ 포괄손익계산서, 은행 - 연결	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      일반관리비	1,063,191,000,000		
+ 포괄손익계산서, 은행 - 연결	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      대손준비금 반영후 조정이익	722,235,000,000		
+ 포괄손익계산서, 은행 - 연결	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_GainLossFromDerivativesHeldForHedging	      위험회피회계 관련 순손익	3,393,000,000		
+ 포괄손익계산서, 은행 - 연결	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	      기타포괄손익금융자산 관련 순손익	81,198,000,000		
+ 포괄손익계산서, 은행 - 연결	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      당기손익금융상품 관련 순손익	300,980,000,000		
+ 포괄손익계산서, 은행 - 연결	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_InsuranceRevenueExpense	      보험손익	10,000,000,000		
+ 포괄손익계산서, 은행 - 연결	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_InsuranceRevenue	         보험수익	26,498,000,000		
+ 포괄손익계산서, 은행 - 연결	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_InsuranceServiceExpensesFromInsuranceContractsIssued	         보험비용	16,498,000,000		
+ 포괄손익계산서, 은행 - 연결	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingProfitLoss	      영업외손익	25,073,000,000		
+ 포괄손익계산서, 은행 - 연결	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingExpense	      기타영업비용	329,166,000,000		
+ 포괄손익계산서, 은행 - 연결	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingIncome	      기타영업수익	84,963,000,000		
+ 포괄손익계산서, 은행 - 연결	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00149646_NetOperatingIncomeLossOfStatementOfComprehensiveIncomeAbstract	      순영업이익	2,015,939,000,000		
+ 포괄손익계산서, 은행 - 연결	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00149646_TotalOperatingIncomeLossOfStatementOfComprehensiveIncomeAbstract	      총영업이익	2,335,212,000,000		
+ 포괄손익계산서, 은행 - 연결	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00149646_udf_IS_202434204128176OfStatementOfComprehensiveIncomeAbstract	      당기손익인식지정금융상품 관련 순손익	-30,184,000,000		
+ 포괄손익계산서, 은행 - 연결	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	      분기연결총포괄이익	789,179,000,000		
+ 포괄손익계산서, 은행 - 연결	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests	         비지배지분 총포괄이익	4,220,000,000		
+ 포괄손익계산서, 은행 - 연결	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배기업 주주지분 총포괄이익	784,959,000,000		
+ 포괄손익계산서, 은행 - 연결	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         기본주당이익	961		
+ 포괄손익계산서, 은행 - 연결	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShare	         희석주당이익	961		
+ 포괄손익계산서, 은행 - 연결	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncomeExpense	      순수수료손익	93,709,000,000		
+ 포괄손익계산서, 은행 - 연결	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	         수수료비용	108,081,000,000		
+ 포괄손익계산서, 은행 - 연결	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	         수수료수익	201,790,000,000		
+ 포괄손익계산서, 은행 - 연결	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_GainLossArisingFromDerecognitionOfFinancialAssetsMeasuredAtAmortisedCost	      상각후원가금융자산 처분손익	21,637,000,000		
+ 포괄손익계산서, 은행 - 연결	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationRecognisedInProfitOrLoss	      외환거래손익	-66,393,000,000		
+ 포괄손익계산서, 은행 - 연결	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ImpairmentLossImpairmentGainAndReversalOfImpairmentLossDeterminedInAccordanceWithIFRS9	      금융자산 손상차손	319,273,000,000		
+ 포괄손익계산서, 은행 - 연결	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	234,925,000,000		
+ 포괄손익계산서, 은행 - 연결	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestRevenueExpense	      순이자손익	1,920,872,000,000		
+ 포괄손익계산서, 은행 - 연결	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestExpense	         이자비용	2,623,423,000,000		
+ 포괄손익계산서, 은행 - 연결	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_InsuranceFinanceExpensesFromInsuranceContractsIssuedRecognisedInProfitOrLoss	            보험이자비용	71,820,000,000		
+ 포괄손익계산서, 은행 - 연결	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_InterestExpenseFinanceExpense	            금융상품 이자비용	2,551,603,000,000		
+ 포괄손익계산서, 은행 - 연결	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromInterest	         이자수익	4,544,295,000,000		
+ 포괄손익계산서, 은행 - 연결	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_InsuranceFinanceIncomeFromInsuranceContractsIssuedRecognisedInProfitOrLoss	            보험이자수익	13,000,000		
+ 포괄손익계산서, 은행 - 연결	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	            당기손익금융자산 이자수익	98,521,000,000		
+ 포괄손익계산서, 은행 - 연결	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	            기타포괄손익과 상각후원가금융자산 이자수익	4,445,761,000,000		
+ 포괄손익계산서, 은행 - 연결	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      법인세비용차감후 분기연결기타포괄손익	-24,996,000,000		
+ 포괄손익계산서, 은행 - 연결	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges	            현금흐름위험회피 평가손익변동	-354,000,000		
+ 포괄손익계산서, 은행 - 연결	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	            외환차이	-16,268,000,000		
+ 포괄손익계산서, 은행 - 연결	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익채무증권 평가손익변동	63,935,000,000		
+ 포괄손익계산서, 은행 - 연결	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations	            해외사업장순투자위험회피 평가손익변동	1,024,000,000		
+ 포괄손익계산서, 은행 - 연결	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxInsuranceFinanceIncomeExpensesFromInsuranceContractsIssuedExcludedFromProfitOrLossThatWillBeReclassifiedToProfitOrLoss	            보험금융손익	-45,784,000,000		
+ 포괄손익계산서, 은행 - 연결	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	            당기손익지정금융부채 평가손익변동	1,000,000		
+ 포괄손익계산서, 은행 - 연결	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익지분증권 평가손익변동	-27,494,000,000		
+ 포괄손익계산서, 은행 - 연결	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            순확정급여부채(자산)의 재측정요소	-56,000,000		
+ 포괄손익계산서, 은행 - 연결	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	      분기연결순이익	814,175,000,000		
+ 포괄손익계산서, 은행 - 연결	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossAttributableToNoncontrollingInterests	         비지배지분 분기순이익	5,589,000,000		
+ 포괄손익계산서, 은행 - 연결	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	         지배기업 주주지분 분기순이익	808,586,000,000		
+ 포괄손익계산서, 은행 - 연결	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세차감전순이익	1,049,100,000,000		
+ 포괄손익계산서, 은행 - 연결	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익	1,024,027,000,000		
+ 포괄손익계산서, 은행 - 연결	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      일반관리비	747,709,000,000		
+ 포괄손익계산서, 은행 - 연결	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      대손준비금 반영후 조정이익(손실)	56,624,289,816		
+ 포괄손익계산서, 은행 - 연결	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingProfitLoss	      영업외손익	14,858,527,820		
+ 포괄손익계산서, 은행 - 연결	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00124106_NetGainFromInvestmentsInAssociatesOfNonOperatingProfitLoss	         관계기업투자손익	13,838,832,307		
+ 포괄손익계산서, 은행 - 연결	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00124106_OtherIncomeAndExpensesOfNonOperatingProfitLoss	         기타영업외손익	1,019,695,513		
+ 포괄손익계산서, 은행 - 연결	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00124106_NetGainLossOnInvestmentFinancialAssetsOfStatementOfComprehensiveIncomeAbstract	      투자금융자산순손익	46,536,932,180		
+ 포괄손익계산서, 은행 - 연결	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_GainLossFromFinancialInstrumentsAtAmortisedCost	         상각후원가측정금융상품관련손익	0		
+ 포괄손익계산서, 은행 - 연결	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정금융상품관련손익	34,168,136,626		
+ 포괄손익계산서, 은행 - 연결	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융상품관련손익	12,368,795,554		
+ 포괄손익계산서, 은행 - 연결	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      신용손실충당금 전입액	-132,947,756,133		
+ 포괄손익계산서, 은행 - 연결	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00124106_AdditionalProvisionsAndOthersOfAdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	         충당금 전입액 등	-138,491,115,020		
+ 포괄손익계산서, 은행 - 연결	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00124106_NetGainOnDisposalOfLoansOfAdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	         대출채권매각손익	5,543,358,887		
+ 포괄손익계산서, 은행 - 연결	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	      총포괄손익	56,985,498,034		
+ 포괄손익계산서, 은행 - 연결	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests	         비지배지분에 귀속되는 총포괄손익	0		
+ 포괄손익계산서, 은행 - 연결	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배기업의 소유주에게 귀속되는 총포괄손익	56,985,498,034		
+ 포괄손익계산서, 은행 - 연결	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         보통주기본주당이익(손실)	424		
+ 포괄손익계산서, 은행 - 연결	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShare	         보통주희석주당이익(손실)	424		
+ 포괄손익계산서, 은행 - 연결	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncomeExpense	      순수수료이익	10,192,735,886		
+ 포괄손익계산서, 은행 - 연결	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	         수수료비용	-21,310,158,139		
+ 포괄손익계산서, 은행 - 연결	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	         수수료수익	31,502,894,025		
+ 포괄손익계산서, 은행 - 연결	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용(수익)	-25,935,307,623		
+ 포괄손익계산서, 은행 - 연결	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestRevenueExpense	      순이자손익	379,714,666,025		
+ 포괄손익계산서, 은행 - 연결	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestExpense	         이자비용	-463,644,271,855		
+ 포괄손익계산서, 은행 - 연결	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromInterest	         이자수익	843,358,937,880		
+ 포괄손익계산서, 은행 - 연결	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00124106_udf_IS_2024220105010932OfRevenueFromInterest	            기타포괄손익-공정가치금융자산 및 상각후원가금융자산 이자수익	837,674,983,548		
+ 포괄손익계산서, 은행 - 연결	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	            당기손익인식금융자산으로부터의 이자수익	5,683,954,332		
+ 포괄손익계산서, 은행 - 연결	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	-28,628,791,782		
+ 포괄손익계산서, 은행 - 연결	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00124106_ReversalImpairmentLossForDebtSecuritiesAtFairValueOfComponentsOfOtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTaxAbstract	            기타포괄손익-공정가치채무증권 대손상각비	-200,613,507		
+ 포괄손익계산서, 은행 - 연결	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	            해외사업환산손익	-516,323,045		
+ 포괄손익계산서, 은행 - 연결	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치채무증권 평가손익	-8,142,917,434		
+ 포괄손익계산서, 은행 - 연결	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations	            해외영업순투자위험회피평가손익	11,188,014,951		
+ 포괄손익계산서, 은행 - 연결	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax	            지분법자본변동 - 후속적으로 재분류 되는 항목	-11,524,955,583		
+ 포괄손익계산서, 은행 - 연결	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치지분증권 관련손익	1,000,472,530		
+ 포괄손익계산서, 은행 - 연결	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            확정급여제도의재측정요소	-20,432,469,694		
+ 포괄손익계산서, 은행 - 연결	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherOperatingIncomeExpense	      기타영업손익	-206,805,508,339		
+ 포괄손익계산서, 은행 - 연결	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_GainFromDerivatives	         파생상품관련순손익	1,880,432,993		
+ 포괄손익계산서, 은행 - 연결	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingExpense	         기타영업비용	-53,358,686,635		
+ 포괄손익계산서, 은행 - 연결	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingIncome	         기타영업수익	4,290,109,098		
+ 포괄손익계산서, 은행 - 연결	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationRecognisedInProfitOrLoss	         외환거래순손익	9,330,888,913		
+ 포괄손익계산서, 은행 - 연결	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_GeneralAndAdministrativeExpense	         일반관리비	-168,948,252,708		
+ 포괄손익계산서, 은행 - 연결	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	      당기순이익(손실)	85,614,289,816		
+ 포괄손익계산서, 은행 - 연결	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossAttributableToNoncontrollingInterests	         비지배지분에 귀속되는 당기순이익(손실)	0		
+ 포괄손익계산서, 은행 - 연결	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	         지배기업의 소유주에게 귀속되는 당기순이익(손실)	85,614,289,816		
+ 포괄손익계산서, 은행 - 연결	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세차감전순이익	111,549,597,439		
+ 포괄손익계산서, 은행 - 연결	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익(손실)	96,691,069,619		
+ 포괄손익계산서, 은행 - 연결	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      대손준비금 반영후 조정이익	1,075,033,000,000		
+ 포괄손익계산서, 은행 - 연결	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	      기타포괄손익-공정가치측정유가증권처분손익	47,294,000,000		
+ 포괄손익계산서, 은행 - 연결	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      당기손익-공정가치측정금융상품관련손익	287,206,000,000		
+ 포괄손익계산서, 은행 - 연결	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingProfitLoss	      영업외손익	23,145,000,000		
+ 포괄손익계산서, 은행 - 연결	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00149293_NetForeignCurrenciesTransactionGainOfStatementOfComprehensiveIncomeAbstract	      외환거래손익	-12,908,000,000		
+ 포괄손익계산서, 은행 - 연결	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00149293_NetLossOnFinancialInstrumentsDesignatedAtFairValueThroughProfitOrLossOfStatementOfComprehensiveIncomeAbstract	      당기손익-공정가치측정지정금융상품관련손익	-864,000,000		
+ 포괄손익계산서, 은행 - 연결	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      신용손실충당금전입	113,096,000,000		
+ 포괄손익계산서, 은행 - 연결	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	      총포괄손익	1,252,683,000,000		
+ 포괄손익계산서, 은행 - 연결	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests	         비지배지분	73,000,000		
+ 포괄손익계산서, 은행 - 연결	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배기업소유지분	1,252,610,000,000		
+ 포괄손익계산서, 은행 - 연결	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         기본주당이익	698		
+ 포괄손익계산서, 은행 - 연결	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShare	         희석주당이익	698		
+ 포괄손익계산서, 은행 - 연결	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncomeExpense	      순수수료손익	281,465,000,000		
+ 포괄손익계산서, 은행 - 연결	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	         수수료비용	78,875,000,000		
+ 포괄손익계산서, 은행 - 연결	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	         수수료수익	360,340,000,000		
+ 포괄손익계산서, 은행 - 연결	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_GainLossArisingFromDerecognitionOfFinancialAssetsMeasuredAtAmortisedCost	      상각후원가측정유가증권처분손익	-27,000,000		
+ 포괄손익계산서, 은행 - 연결	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	350,272,000,000		
+ 포괄손익계산서, 은행 - 연결	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestRevenueExpense	      순이자손익	2,230,112,000,000		
+ 포괄손익계산서, 은행 - 연결	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestExpense	         이자비용	3,036,254,000,000		
+ 포괄손익계산서, 은행 - 연결	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromInterest	         이자수익	5,266,366,000,000		
+ 포괄손익계산서, 은행 - 연결	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정금융상품이자수익	163,042,000,000		
+ 포괄손익계산서, 은행 - 연결	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	            기타포괄손익-공정가치측정 및 상각후원가측정 금융상품이자수익	5,103,324,000,000		
+ 포괄손익계산서, 은행 - 연결	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	124,399,000,000		
+ 포괄손익계산서, 은행 - 연결	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	            해외사업환산손익	9,591,000,000		
+ 포괄손익계산서, 은행 - 연결	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정유가증권평가손익	58,057,000,000		
+ 포괄손익계산서, 은행 - 연결	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax	            관계기업의기타포괄손익에대한지분	-5,181,000,000		
+ 포괄손익계산서, 은행 - 연결	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정유가증권평가손익	61,911,000,000		
+ 포괄손익계산서, 은행 - 연결	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            확정급여제도의재측정요소	21,000,000		
+ 포괄손익계산서, 은행 - 연결	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherOperatingIncomeExpense	      기타영업손익	-387,699,000,000		
+ 포괄손익계산서, 은행 - 연결	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	      당기순이익	1,128,284,000,000		
+ 포괄손익계산서, 은행 - 연결	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossAttributableToNoncontrollingInterests	         비지배지분	211,000,000		
+ 포괄손익계산서, 은행 - 연결	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	         지배기업소유지분	1,128,073,000,000		
+ 포괄손익계산서, 은행 - 연결	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세차감전순이익	1,478,556,000,000		
+ 포괄손익계산서, 은행 - 연결	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익	1,460,133,000,000		
+ 포괄손익계산서, 은행 - 연결	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromDividends	      배당수익	34,476,000,000		
+ 포괄손익계산서, 은행 - 연결	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      일반관리비	905,826,000,000		
+ 포괄손익계산서, 은행 - 연결	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ShareOfProfitLossOfAssociatesAndJointVenturesAccountedForUsingEquityMethod	      관계기업손익에대한지분	-4,722,000,000		
+ 포괄손익계산서, 은행 - 연결	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      대손준비금 반영후 조정이익(손실)	91,140,209,170		
+ 포괄손익계산서, 은행 - 연결	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	      기타포괄손익-공정가치측정금융상품관련손익	13,217,252,846		
+ 포괄손익계산서, 은행 - 연결	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      당기손익-공정가치측정금융상품관련손익	12,315,936,018		
+ 포괄손익계산서, 은행 - 연결	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingProfitLoss	      영업외손익	-3,052,451,820		
+ 포괄손익계산서, 은행 - 연결	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      신용손실충당금 순전입액	57,610,096,840		
+ 포괄손익계산서, 은행 - 연결	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	      연결분기총포괄손익	130,602,193,631		
+ 포괄손익계산서, 은행 - 연결	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배기업의 소유주에게 귀속되는 연결분기총포괄손익	130,602,193,631		
+ 포괄손익계산서, 은행 - 연결	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         보통주기본주당이익(손실)	860		
+ 포괄손익계산서, 은행 - 연결	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncomeExpense	      순수수료손익	20,936,407,734		
+ 포괄손익계산서, 은행 - 연결	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	         수수료비용	15,007,127,449		
+ 포괄손익계산서, 은행 - 연결	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	         수수료수익	35,943,535,183		
+ 포괄손익계산서, 은행 - 연결	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용(수익)	33,081,441,792		
+ 포괄손익계산서, 은행 - 연결	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestRevenueExpense	      순이자손익	365,303,572,030		
+ 포괄손익계산서, 은행 - 연결	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestExpense	         이자비용	409,176,194,893		
+ 포괄손익계산서, 은행 - 연결	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromInterest	         이자수익	774,479,766,923		
+ 포괄손익계산서, 은행 - 연결	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00109019_InterestIncomeOnFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncomeAndAmortizedCostOfRevenueFromInterest	            기타포괄손익-공정가치 측정 및 상각후원가 측정 금융상품 이자수익	773,627,425,211		
+ 포괄손익계산서, 은행 - 연결	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00109019_udf_IS_20231027111958867OfRevenueFromInterest	            당기손익-공정가치측정 금융상품 이자수익	852,341,712		
+ 포괄손익계산서, 은행 - 연결	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_NetForeignExchangeGain	      외환거래순손익	10,812,991,320		
+ 포괄손익계산서, 은행 - 연결	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      분기기타포괄손익	5,458,984,461		
+ 포괄손익계산서, 은행 - 연결	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00109019_ExpectedCreditLossOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncomeOfComponentsOfOtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTaxAbstract	            기타포괄손익-공정가치측정 금융자산의 기대신용손실	-4,573,218		
+ 포괄손익계산서, 은행 - 연결	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	            해외사업환산손익	-1,248,149,254		
+ 포괄손익계산서, 은행 - 연결	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정 채무상품 평가손익	5,910,458,040		
+ 포괄손익계산서, 은행 - 연결	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations	            해외사업장순투자 위험회피평가손익	968,111,416		
+ 포괄손익계산서, 은행 - 연결	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            확정급여제도의재측정요소	0		
+ 포괄손익계산서, 은행 - 연결	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정지분상품평가손익	-166,862,523		
+ 포괄손익계산서, 은행 - 연결	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherOperatingIncomeExpense	      기타영업순손익	-40,216,044,112		
+ 포괄손익계산서, 은행 - 연결	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	      연결분기순이익(손실)	125,143,209,170		
+ 포괄손익계산서, 은행 - 연결	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	         지배기업의 소유주에게 귀속되는 연결분기순이익(손실)	125,143,209,170		
+ 포괄손익계산서, 은행 - 연결	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세차감전순이익	158,224,650,962		
+ 포괄손익계산서, 은행 - 연결	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익(손실)	161,277,102,782		
+ 포괄손익계산서, 은행 - 연결	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      일반관리비	163,482,916,214		
+ 포괄손익계산서, 은행 - 연결	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AdditionReversalOfCreditLossFinancialAssets	      신용손실충당금전입액	-229,965,000,000		
+ 포괄손익계산서, 은행 - 연결	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      대손준비금 반영후 조정이익	594,160,000,000		
+ 포괄손익계산서, 은행 - 연결	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_GainLossFromFinancialInstrumentsAtAmortisedCost	      상각후원가측정금융자산관련손익	-11,093,000,000		
+ 포괄손익계산서, 은행 - 연결	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_GainLossArisingFromDerecognitionOfFinancialAssetsMeasuredAtAmortisedCost	         상각후원가측정대출채권및기타금융자산매매손익	-11,093,000,000		
+ 포괄손익계산서, 은행 - 연결	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	      기타포괄손익-공정가치측정금융자산관련손익	33,256,000,000		
+ 포괄손익계산서, 은행 - 연결	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      당기손익-공정가치측정금융상품관련손익	210,724,000,000		
+ 포괄손익계산서, 은행 - 연결	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingProfitLoss	      영업외손익	3,123,000,000		
+ 포괄손익계산서, 은행 - 연결	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00254045_NetOtherNonOperatingExpensesOfNonOperatingProfitLoss	         기타영업외손익	1,254,000,000		
+ 포괄손익계산서, 은행 - 연결	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ShareOfProfitLossOfAssociatesAndJointVenturesAccountedForUsingEquityMethod	         관계기업투자자산평가손익	1,869,000,000		
+ 포괄손익계산서, 은행 - 연결	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	      총포괄손익	604,948,000,000		
+ 포괄손익계산서, 은행 - 연결	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests	         비지배지분	-1,828,000,000		
+ 포괄손익계산서, 은행 - 연결	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배기업소유주지분	606,776,000,000		
+ 포괄손익계산서, 은행 - 연결	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_BasicEarningsLossPerShareFromContinuingOperations	         기본 및 희석주당이익	835		
+ 포괄손익계산서, 은행 - 연결	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncomeExpense	      순수수료이익	235,412,000,000		
+ 포괄손익계산서, 은행 - 연결	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	         수수료비용	48,202,000,000		
+ 포괄손익계산서, 은행 - 연결	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	         수수료수익	283,614,000,000		
+ 포괄손익계산서, 은행 - 연결	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	182,963,000,000		
+ 포괄손익계산서, 은행 - 연결	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestRevenueExpense	      순이자이익	1,918,154,000,000		
+ 포괄손익계산서, 은행 - 연결	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestExpense	         이자비용	2,765,840,000,000		
+ 포괄손익계산서, 은행 - 연결	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromInterest	         이자수익	4,683,994,000,000		
+ 포괄손익계산서, 은행 - 연결	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_InterestRevenueOnFinancialAssetsAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정금융자산이자수익	35,167,000,000		
+ 포괄손익계산서, 은행 - 연결	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestIncomeForFinancialAssetsMeasuredAtAmortisedCost	            상각후원가측정금융자산이자수익	4,299,870,000,000		
+ 포괄손익계산서, 은행 - 연결	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestRevenueForFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산이자수익	348,957,000,000		
+ 포괄손익계산서, 은행 - 연결	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	-30,270,000,000		
+ 포괄손익계산서, 은행 - 연결	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	            해외사업환산손익	-3,417,000,000		
+ 포괄손익계산서, 은행 - 연결	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정채무증권평가손익	49,333,000,000		
+ 포괄손익계산서, 은행 - 연결	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations	            해외사업장순투자위험회피평가손익	2,226,000,000		
+ 포괄손익계산서, 은행 - 연결	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax	            지분법자본변동	1,355,000,000		
+ 포괄손익계산서, 은행 - 연결	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	            당기손익-공정가치측정지정금융부채신용위험변동손익	26,000,000		
+ 포괄손익계산서, 은행 - 연결	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정지분증권평가손익	29,347,000,000		
+ 포괄손익계산서, 은행 - 연결	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            확정급여제도의 재측정요소	-108,030,000,000		
+ 포괄손익계산서, 은행 - 연결	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax	            지분법자본변동	-1,110,000,000		
+ 포괄손익계산서, 은행 - 연결	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherOperatingIncomeExpense	      기타영업손익	-301,084,000,000		
+ 포괄손익계산서, 은행 - 연결	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	      분기순이익	635,218,000,000		
+ 포괄손익계산서, 은행 - 연결	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossAttributableToNoncontrollingInterests	         비지배지분	1,106,000,000		
+ 포괄손익계산서, 은행 - 연결	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	         지배기업소유주지분	634,112,000,000		
+ 포괄손익계산서, 은행 - 연결	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세비용차감전순이익	818,181,000,000		
+ 포괄손익계산서, 은행 - 연결	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익	815,058,000,000		
+ 포괄손익계산서, 은행 - 연결	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromDividends	      배당수익	86,438,000,000		
+ 포괄손익계산서, 은행 - 연결	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      일반관리비	1,126,784,000,000		
+ 포괄손익계산서, 은행 - 연결	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      대손준비금 반영후 조정이익(손실)	35,929,000,000		
+ 포괄손익계산서, 은행 - 연결	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	      기타포괄손익-공정가치측정금융상품관련손익	7,878,000,000		
+ 포괄손익계산서, 은행 - 연결	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      당기손익-공정가치측정금융상품관련손익	9,404,000,000		
+ 포괄손익계산서, 은행 - 연결	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingProfitLoss	      영업외손익	423,000,000		
+ 포괄손익계산서, 은행 - 연결	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      신용손실충당금 전입액	47,151,000,000		
+ 포괄손익계산서, 은행 - 연결	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	      총포괄손익	53,031,000,000		
+ 포괄손익계산서, 은행 - 연결	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests	         비지배지분에 귀속되는 총포괄손익	4,779,000,000		
+ 포괄손익계산서, 은행 - 연결	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배기업의 소유주에게 귀속되는 총포괄손익	48,252,000,000		
+ 포괄손익계산서, 은행 - 연결	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         보통주기본주당이익(손실)	463		
+ 포괄손익계산서, 은행 - 연결	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShare	         보통주희석주당이익(손실)	463		
+ 포괄손익계산서, 은행 - 연결	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncomeExpense	      순수수료손익	154,000,000		
+ 포괄손익계산서, 은행 - 연결	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	         수수료비용	11,835,000,000		
+ 포괄손익계산서, 은행 - 연결	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	         수수료수익	11,989,000,000		
+ 포괄손익계산서, 은행 - 연결	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	15,684,000,000		
+ 포괄손익계산서, 은행 - 연결	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestRevenueExpense	      순이자손익	182,289,000,000		
+ 포괄손익계산서, 은행 - 연결	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestExpense	         이자비용	145,155,000,000		
+ 포괄손익계산서, 은행 - 연결	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromInterest	         이자수익	327,444,000,000		
+ 포괄손익계산서, 은행 - 연결	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	            당기손익-공정가치로 측정하는 금융자산의 이자수익			
+ 포괄손익계산서, 은행 - 연결	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	            유효이자율적용이자수익	327,444,000,000		
+ 포괄손익계산서, 은행 - 연결	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	1,546,000,000		
+ 포괄손익계산서, 은행 - 연결	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	            해외사업환산손익	-881,000,000		
+ 포괄손익계산서, 은행 - 연결	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산관련손익	2,878,000,000		
+ 포괄손익계산서, 은행 - 연결	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정지분상품평가손익	-114,000,000		
+ 포괄손익계산서, 은행 - 연결	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            확정급여제도의재측정요소	-337,000,000		
+ 포괄손익계산서, 은행 - 연결	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherOperatingIncomeExpense	      기타영업손익	-14,391,000,000		
+ 포괄손익계산서, 은행 - 연결	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	      당기순이익(손실)	51,485,000,000		
+ 포괄손익계산서, 은행 - 연결	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossAttributableToNoncontrollingInterests	         비지배지분에 귀속되는 당기순이익(손실)	5,150,000,000		
+ 포괄손익계산서, 은행 - 연결	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	         지배기업의 소유주에게 귀속되는 당기순이익(손실)	46,335,000,000		
+ 포괄손익계산서, 은행 - 연결	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세차감전순이익	67,169,000,000		
+ 포괄손익계산서, 은행 - 연결	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익(손실)	66,746,000,000		
+ 포괄손익계산서, 은행 - 연결	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ReversalAllowanceAccountForCreditLossesOfFinancialAssets	      신용손실충당금 환입액	103,000,000		
+ 포괄손익계산서, 은행 - 연결	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      판매비와관리비	71,540,000,000		
+ 포괄손익계산서, 은행 - 연결	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      대손준비금 반영후 조정이익(손실)	-199,000,000		
+ 포괄손익계산서, 은행 - 연결	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	      기타포괄손익-공정가치측정금융자산처분손익	1,654,000,000		
+ 포괄손익계산서, 은행 - 연결	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      당기손익-공정가치측정금융상품관련손익	62,000,000		
+ 포괄손익계산서, 은행 - 연결	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingProfitLoss	      영업외손익	1,965,000,000		
+ 포괄손익계산서, 은행 - 연결	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      신용손실충당금전입	-11,664,000,000		
+ 포괄손익계산서, 은행 - 연결	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	      총포괄손익	3,751,000,000		
+ 포괄손익계산서, 은행 - 연결	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests	         비지배지분	0		
+ 포괄손익계산서, 은행 - 연결	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배기업소유주지분	3,751,000,000		
+ 포괄손익계산서, 은행 - 연결	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         기본주당순이익	45		
+ 포괄손익계산서, 은행 - 연결	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShare	         희석주당순이익	45		
+ 포괄손익계산서, 은행 - 연결	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncomeExpense	      순수수료손익	3,065,000,000		
+ 포괄손익계산서, 은행 - 연결	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	         수수료비용	-2,011,000,000		
+ 포괄손익계산서, 은행 - 연결	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	         수수료수익	5,076,000,000		
+ 포괄손익계산서, 은행 - 연결	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_GainLossArisingFromDerecognitionOfFinancialAssetsMeasuredAtAmortisedCost	      상각후원가측정금융자산처분손익	302,000,000		
+ 포괄손익계산서, 은행 - 연결	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용(수익)	328,000,000		
+ 포괄손익계산서, 은행 - 연결	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestRevenueExpense	      순이자손익	38,515,000,000		
+ 포괄손익계산서, 은행 - 연결	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestExpense	         이자비용	-45,109,000,000		
+ 포괄손익계산서, 은행 - 연결	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromInterest	         이자수익	83,624,000,000		
+ 포괄손익계산서, 은행 - 연결	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_NetForeignExchangeGain	      외환거래손익	331,000,000		
+ 포괄손익계산서, 은행 - 연결	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	847,000,000		
+ 포괄손익계산서, 은행 - 연결	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정채무증권평가손익	729,000,000		
+ 포괄손익계산서, 은행 - 연결	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정지분증권평가손익	118,000,000		
+ 포괄손익계산서, 은행 - 연결	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            확정급여제도의재측정요소	0		
+ 포괄손익계산서, 은행 - 연결	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherOperatingIncomeExpense	      기타영업손익	-5,147,000,000		
+ 포괄손익계산서, 은행 - 연결	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	      분기순이익(손실)	2,904,000,000		
+ 포괄손익계산서, 은행 - 연결	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossAttributableToNoncontrollingInterests	         비지배지분	0		
+ 포괄손익계산서, 은행 - 연결	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	         지배기업소유주지분	2,904,000,000		
+ 포괄손익계산서, 은행 - 연결	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세비용차감전순이익	3,232,000,000		
+ 포괄손익계산서, 은행 - 연결	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업손익	1,267,000,000		
+ 포괄손익계산서, 은행 - 연결	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromDividends	      배당수익	0		
+ 포괄손익계산서, 은행 - 연결	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      일반관리비	-25,851,000,000		
+ 포괄손익계산서, 은행 - 연결	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_GainLossFromDerivativesHeldForHedging	      순헤지목적파생상품손익	32,508,000,000		
+ 포괄손익계산서, 은행 - 연결	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_GainLossFromFinancialInstrumentsAtAmortisedCost	      순상각후원가측정금융자산이익	0		
+ 포괄손익계산서, 은행 - 연결	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	      순기타포괄손익-공정가치측정금융자산이익	80,435,000,000		
+ 포괄손익계산서, 은행 - 연결	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      순당기손익-공정가치측정금융상품이익	349,928,000,000		
+ 포괄손익계산서, 은행 - 연결	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingProfitLoss	      영업외이익(손실)	52,857,000,000		
+ 포괄손익계산서, 은행 - 연결	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingExpense	         영업외비용	18,592,000,000		
+ 포괄손익계산서, 은행 - 연결	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_LossesOfAssociatesAndJointVenturesAccountedForUsingEquityMethod	            지분법손실	3,331,000,000		
+ 포괄손익계산서, 은행 - 연결	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherExpenseByNature	            기타비용	15,261,000,000		
+ 포괄손익계산서, 은행 - 연결	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingIncome	         영업외수익	71,449,000,000		
+ 포괄손익계산서, 은행 - 연결	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AdjustmentsForOtherRevenue	            기타수익	38,842,000,000		
+ 포괄손익계산서, 은행 - 연결	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_ProfitsOfAssociatesAndJointVenturesAccountedForUsingEquityMethod	            지분법이익	32,607,000,000		
+ 포괄손익계산서, 은행 - 연결	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingExpense	      기타영업비용	2,164,207,000,000		
+ 포괄손익계산서, 은행 - 연결	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingIncome	      기타영업수익	1,829,055,000,000		
+ 포괄손익계산서, 은행 - 연결	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      신용손실충당금전입액	121,859,000,000		
+ 포괄손익계산서, 은행 - 연결	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	      분기총포괄이익	1,033,865,000,000		
+ 포괄손익계산서, 은행 - 연결	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests	         비지배지분	-4,188,000,000		
+ 포괄손익계산서, 은행 - 연결	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배기업소유주	1,038,053,000,000		
+ 포괄손익계산서, 은행 - 연결	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         기본주당이익	926		
+ 포괄손익계산서, 은행 - 연결	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShare	         희석주당이익	926		
+ 포괄손익계산서, 은행 - 연결	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncomeExpense	      순수수료이익	200,261,000,000		
+ 포괄손익계산서, 은행 - 연결	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	         수수료비용	68,462,000,000		
+ 포괄손익계산서, 은행 - 연결	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	         수수료수익	268,723,000,000		
+ 포괄손익계산서, 은행 - 연결	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	332,090,000,000		
+ 포괄손익계산서, 은행 - 연결	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestRevenueExpense	      순이자이익	1,935,898,000,000		
+ 포괄손익계산서, 은행 - 연결	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestExpense	         이자비용	2,822,102,000,000		
+ 포괄손익계산서, 은행 - 연결	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromInterest	         이자수익	4,758,000,000,000		
+ 포괄손익계산서, 은행 - 연결	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정금융상품이자수익	74,579,000,000		
+ 포괄손익계산서, 은행 - 연결	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	            기타포괄손익-공정가치측정 및 상각후원가측정금융상품이자수익	4,683,421,000,000		
+ 포괄손익계산서, 은행 - 연결	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	36,838,000,000		
+ 포괄손익계산서, 은행 - 연결	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	            해외사업장환산손익	4,866,000,000		
+ 포괄손익계산서, 은행 - 연결	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정채무증권평가손익	59,224,000,000		
+ 포괄손익계산서, 은행 - 연결	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations	            해외사업장순투자위험회피평가손익	-6,451,000,000		
+ 포괄손익계산서, 은행 - 연결	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax	            관계기업투자주식자본변동	-24,343,000,000		
+ 포괄손익계산서, 은행 - 연결	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정지분증권평가손익	13,937,000,000		
+ 포괄손익계산서, 은행 - 연결	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            확정급여제도의 재측정요소	-734,000,000		
+ 포괄손익계산서, 은행 - 연결	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax	            관계기업투자주식자본변동	-9,661,000,000		
+ 포괄손익계산서, 은행 - 연결	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	      분기순이익	997,027,000,000		
+ 포괄손익계산서, 은행 - 연결	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	         대손준비금 반영후 조정이익	997,362,000,000		
+ 포괄손익계산서, 은행 - 연결	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossAttributableToNoncontrollingInterests	         비지배지분	4,133,000,000		
+ 포괄손익계산서, 은행 - 연결	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	         지배기업소유주	992,894,000,000		
+ 포괄손익계산서, 은행 - 연결	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세비용차감전순이익	1,329,117,000,000		
+ 포괄손익계산서, 은행 - 연결	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익	1,276,260,000,000		
+ 포괄손익계산서, 은행 - 연결	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      일반관리비	865,759,000,000		
+ 포괄손익계산서, 은행 - 연결	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      대손준비금 반영후 조정이익	86,642,000,000		
+ 포괄손익계산서, 은행 - 연결	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AdjustmentsForGainsLossesOnChangeInFairValueOfFinancialAssetsAtFairValueThroughProfitOrLossDesignatedAsUponInitialRecognition	      당기손익-공정가치측정지정금융상품 관련순손익	52,276,000,000		
+ 포괄손익계산서, 은행 - 연결	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      당기손익-공정가치측정금융상품관련순손익	-113,414,000,000		
+ 포괄손익계산서, 은행 - 연결	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingProfitLoss	      영업외손익	5,983,000,000		
+ 포괄손익계산서, 은행 - 연결	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingExpense	         영업외비용	171,000,000		
+ 포괄손익계산서, 은행 - 연결	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingIncome	         영업외수익	6,154,000,000		
+ 포괄손익계산서, 은행 - 연결	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00148504_GainLossOnHedgedItemsForFairValueHedgesOfStatementOfComprehensiveIncomeAbstract	      공정가치위험회피대상 관련순손익	512,000,000		
+ 포괄손익계산서, 은행 - 연결	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00148504_NetOtherGainLossOnFinancialInstrumentsOfStatementOfComprehensiveIncomeAbstract	      금융상품 관련기타순손익	-383,000,000		
+ 포괄손익계산서, 은행 - 연결	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00148504_ProvisionForOtherProvisionsOfStatementOfComprehensiveIncomeAbstract	      기타충당금 및 충당부채 순전입액	-455,000,000		
+ 포괄손익계산서, 은행 - 연결	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      신용손실충당금 순전입액	32,205,000,000		
+ 포괄손익계산서, 은행 - 연결	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	      총포괄손익	108,965,000,000		
+ 포괄손익계산서, 은행 - 연결	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         보통주기본주당이익(손실)	411		
+ 포괄손익계산서, 은행 - 연결	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncomeExpense	      순수수료손익	77,377,000,000		
+ 포괄손익계산서, 은행 - 연결	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	         수수료비용	28,760,000,000		
+ 포괄손익계산서, 은행 - 연결	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	         수수료수익	106,137,000,000		
+ 포괄손익계산서, 은행 - 연결	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_GainLossArisingFromDerecognitionOfFinancialAssetsMeasuredAtAmortisedCost	      상각후원가 측정 금융자산 제거 손익	732,000,000		
+ 포괄손익계산서, 은행 - 연결	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_GainsLossesOnHedgingInstrument	      위험회피파생상품 관련순손익	-398,000,000		
+ 포괄손익계산서, 은행 - 연결	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	30,648,000,000		
+ 포괄손익계산서, 은행 - 연결	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestRevenueExpense	      순이자손익	307,252,000,000		
+ 포괄손익계산서, 은행 - 연결	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestExpense	         이자비용	322,699,000,000		
+ 포괄손익계산서, 은행 - 연결	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromInterest	         이자수익	629,951,000,000		
+ 포괄손익계산서, 은행 - 연결	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	            당기손익-공정가치 측정 금융상품 이자수익	21,146,000,000		
+ 포괄손익계산서, 은행 - 연결	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	            상각후원가측정 및 기타포괄손익-공정가치 측정 금융상품 이자수익	608,805,000,000		
+ 포괄손익계산서, 은행 - 연결	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_NetForeignExchangeGain	      환율변동손익	198,898,000,000		
+ 포괄손익계산서, 은행 - 연결	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	-2,976,000,000		
+ 포괄손익계산서, 은행 - 연결	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산관련손익	-2,874,000,000		
+ 포괄손익계산서, 은행 - 연결	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	            당기손익-공정가치측정지정금융부채의 자기신용위험조정	-102,000,000		
+ 포괄손익계산서, 은행 - 연결	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherOperatingIncomeExpense	      기타영업손익	-23,013,000,000		
+ 포괄손익계산서, 은행 - 연결	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	      당기순이익(손실)	111,941,000,000		
+ 포괄손익계산서, 은행 - 연결	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세차감전순이익	142,589,000,000		
+ 포괄손익계산서, 은행 - 연결	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익(손실)	136,606,000,000		
+ 포괄손익계산서, 은행 - 연결	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      판매비와관리비	226,021,000,000		
+ 포괄손익계산서, 은행 - 연결	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      대손준비금 반영후 조정이익	101,613,000,000		
+ 포괄손익계산서, 은행 - 연결	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_GainLossFromDerivativesHeldForHedging	      파생상품관련순손익	-103,020,000,000		
+ 포괄손익계산서, 은행 - 연결	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_GainLossFromFinancialInstruments	      금융상품관련기타순손익	3,986,000,000		
+ 포괄손익계산서, 은행 - 연결	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_GainLossFromFinancialInstrumentsAtAmortisedCost	         상각후원가측정금융자산관련순손익	164,000,000		
+ 포괄손익계산서, 은행 - 연결	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	         기타금융상품관련기타순손익	3,822,000,000		
+ 포괄손익계산서, 은행 - 연결	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      당기손익-공정가치측정 금융상품관련순손익	138,898,000,000		
+ 포괄손익계산서, 은행 - 연결	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingExpense	      기타비용	-1,270,000,000		
+ 포괄손익계산서, 은행 - 연결	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingIncome	      기타수익	1,625,000,000		
+ 포괄손익계산서, 은행 - 연결	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OperatingIncomeLoss	      순영업이익	261,039,000,000		
+ 포괄손익계산서, 은행 - 연결	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingExpense	      기타영업비용	-11,839,000,000		
+ 포괄손익계산서, 은행 - 연결	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingIncome	      기타영업수익	8,490,000,000		
+ 포괄손익계산서, 은행 - 연결	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00161444_NoiBeforeCreditCostOfStatementOfComprehensiveIncomeAbstract	      신용손실반영전순영업이익	266,771,000,000		
+ 포괄손익계산서, 은행 - 연결	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      신용손실충당금전입액	-5,732,000,000		
+ 포괄손익계산서, 은행 - 연결	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	      분기총포괄이익	77,776,000,000		
+ 포괄손익계산서, 은행 - 연결	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests	         비지배지분	0		
+ 포괄손익계산서, 은행 - 연결	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent	         지배기업지분	77,776,000,000		
+ 포괄손익계산서, 은행 - 연결	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         기본및희석주당이익	259		
+ 포괄손익계산서, 은행 - 연결	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_EmployeeBenefitsExpense	      종업원급여	-65,588,000,000		
+ 포괄손익계산서, 은행 - 연결	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncomeExpense	      순수수료손익	9,121,000,000		
+ 포괄손익계산서, 은행 - 연결	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	         수수료비용	-20,836,000,000		
+ 포괄손익계산서, 은행 - 연결	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	         수수료수익	29,957,000,000		
+ 포괄손익계산서, 은행 - 연결	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	-24,744,000,000		
+ 포괄손익계산서, 은행 - 연결	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestRevenueExpense	      순이자손익	140,397,000,000		
+ 포괄손익계산서, 은행 - 연결	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestExpense	         이자비용	-111,359,000,000		
+ 포괄손익계산서, 은행 - 연결	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromInterest	         이자수익	251,756,000,000		
+ 포괄손익계산서, 은행 - 연결	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_NetForeignExchangeGain	      외환거래손익	80,738,000,000		
+ 포괄손익계산서, 은행 - 연결	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      법인세비용차감후 기타포괄손익	-4,515,000,000		
+ 포괄손익계산서, 은행 - 연결	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산평가손익	12,000,000		
+ 포괄손익계산서, 은행 - 연결	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	            당기손익-공정가치측정 항목지정 금융부채 신용위험변동효과	-123,000,000		
+ 포괄손익계산서, 은행 - 연결	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            확정급여제도의 재측정요소	-4,404,000,000		
+ 포괄손익계산서, 은행 - 연결	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	      분기순이익	82,291,000,000		
+ 포괄손익계산서, 은행 - 연결	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossAttributableToNoncontrollingInterests	         비지배지분	0		
+ 포괄손익계산서, 은행 - 연결	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossAttributableToOwnersOfParent	         지배기업지분	82,291,000,000		
+ 포괄손익계산서, 은행 - 연결	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세비용차감전순이익	107,035,000,000		
+ 포괄손익계산서, 은행 - 연결	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익	106,680,000,000		
+ 포괄손익계산서, 은행 - 연결	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      일반관리비	-88,771,000,000		

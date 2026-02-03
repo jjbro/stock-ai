@@ -64,9 +64,9 @@ export default function HomeClient({
 }: {
   initialSymbols?: SymbolEntry[];
 }) {
-  const [symbol, setSymbol] = useState("005930.KS");
-  const [displayName, setDisplayName] = useState("삼성전자 (005930)");
-  const [inputValue, setInputValue] = useState("삼성전자");
+  const [symbol, setSymbol] = useState("000660.KS");
+  const [displayName, setDisplayName] = useState("SK하이닉스 (000660)");
+  const [inputValue, setInputValue] = useState("하이닉스");
   const [timeframe, setTimeframe] = useState<Timeframe>("1D");
   const [chartData, setChartData] = useState<CandlestickData[]>([]);
   const [chartError, setChartError] = useState<string | null>(null);
@@ -116,7 +116,7 @@ export default function HomeClient({
         );
         const payload = await response.json();
         if (!response.ok) {
-          throw new Error(payload?.errorReason || "매출 데이터를 불러오지 못했습니다.");
+          throw new Error(payload?.errorReason || "영업이익 데이터를 불러오지 못했습니다.");
         }
         return payload;
       } finally {
@@ -196,7 +196,7 @@ export default function HomeClient({
     return null;
   })();
   const revenueError = (() => {
-    if (revenueQuery.isError) return "매출 데이터를 불러오지 못했습니다.";
+    if (revenueQuery.isError) return "영업이익 데이터를 불러오지 못했습니다.";
     const payload = revenueQuery.data as { errorReason?: string } | undefined;
     return payload?.errorReason ?? null;
   })();

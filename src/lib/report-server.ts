@@ -74,7 +74,7 @@ function getGlobalReportCache(): Map<string, { expiresAt: number; data: any }> {
 
 
 
-// 로컬 JSON 파일에서 매출액 데이터 로드
+// 로컬 JSON 파일에서 영업이익 데이터 로드
 let revenueDataCache: Record<string, any> | null = null;
 
 function loadRevenueData(): Record<string, any> | null {
@@ -86,17 +86,17 @@ function loadRevenueData(): Record<string, any> | null {
     revenueDataCache = JSON.parse(fileContent);
     return revenueDataCache;
   } catch (error) {
-    console.warn("[Revenue Data] Failed to load revenue-data.json:", error);
+    console.warn("[Operating Income Data] Failed to load revenue-data.json:", error);
     return null;
   }
 }
 
-// JSON 파일에서 매출액 조회
-function getRevenueFromJson(corpCode: string, year: number, quarter: "Q1" | "Q2" | "Q3" | "Q4" | "H1" | "FY"): number | null {
+// JSON 파일에서 영업이익 조회
+function getOperatingIncomeFromJson(corpCode: string, year: number, quarter: "Q1" | "Q2" | "Q3" | "Q4" | "H1" | "FY"): number | null {
   const data = loadRevenueData();
   if (!data || !data[corpCode]) return null;
   
-  const yearData = data[corpCode].revenue?.[String(year)];
+  const yearData = data[corpCode].operatingIncome?.[String(year)];
   if (!yearData) return null;
   
   const value = yearData[quarter];
@@ -168,24 +168,25 @@ function buildRevenueSeries(revenues: { date: number; revenue: number }[]) {
 
   const years = Array.from(grouped.keys()).sort((a, b) => b - a);
   const currentYear = years[0];
-  const previousYear = years[1];
+  const previousYear = years[1] ?? (currentYear ? currentYear - 1 : null);
   if (!currentYear) return null;
 
   const toPoints = (year: number) => {
     const map = grouped.get(year) ?? new Map();
-    // 실제 데이터가 있는 분기만 포함 (0인 값은 제외)
+    // 실제 데이터가 있는 분기만 포함 (0인 값은 제외, 음수는 포함)
     return ["Q1", "Q2", "Q3", "Q4"]
       .map((label, index) => {
         const value = map.get(index + 1);
-        return value && value > 0 ? { label, value } : null;
+        return value !== null && value !== undefined && value !== 0 ? { label, value } : null;
       })
       .filter((point): point is { label: string; value: number } => point !== null);
   };
 
-  const fallbackPreviousYear = previousYear ?? currentYear - 1;
+  // previousYear가 없으면 currentYear - 1을 사용하되, 해당 연도 데이터가 있는지 확인
+  const effectivePreviousYear = previousYear ?? (currentYear ? currentYear - 1 : null);
   return {
     currentYear: { year: currentYear, points: toPoints(currentYear) },
-    previousYear: { year: fallbackPreviousYear, points: toPoints(fallbackPreviousYear) },
+    previousYear: { year: effectivePreviousYear ?? currentYear, points: toPoints(effectivePreviousYear ?? currentYear) },
   };
 }
 
@@ -239,14 +240,35 @@ async function fetchNews(companyName: string): Promise<NewsItem[]> {
   const xml = await response.text();
   const items = Array.from(xml.matchAll(/<item>([\s\S]*?)<\/item>/g));
   const news: NewsItem[] = [];
-  for (const [, block] of items.slice(0, newsLimit)) {
+  
+  // 최근 한 달 이내 날짜 계산
+  const oneMonthAgo = new Date();
+  oneMonthAgo.setMonth(oneMonthAgo.getMonth() - 1);
+  
+  for (const [, block] of items.slice(0, newsLimit * 2)) { // 필터링을 위해 더 많이 가져옴
     const title =
       block.match(/<title><!\[CDATA\[(.*?)\]\]><\/title>/)?.[1] ??
       block.match(/<title>(.*?)<\/title>/)?.[1];
     const link = block.match(/<link>(.*?)<\/link>/)?.[1];
     const pubDate = block.match(/<pubDate>(.*?)<\/pubDate>/)?.[1];
+    
     if (title && link) {
-      news.push({ title, url: link, publishedAt: pubDate });
+      // 날짜 파싱 및 필터링
+      let isWithinMonth = true;
+      if (pubDate) {
+        try {
+          const newsDate = new Date(pubDate);
+          isWithinMonth = newsDate >= oneMonthAgo;
+        } catch (e) {
+          // 날짜 파싱 실패 시 포함 (안전하게 처리)
+          isWithinMonth = true;
+        }
+      }
+      
+      if (isWithinMonth) {
+        news.push({ title, url: link, publishedAt: pubDate });
+        if (news.length >= newsLimit) break; // 필요한 개수만큼만 수집
+      }
     }
   }
   return news;
@@ -265,34 +287,35 @@ async function fetchQuarterlyRevenue(ticker: string, _companyName: string) {
   if (!/^\d{6}$/.test(stockCode)) return [];
 
   const now = new Date();
-  const years = [now.getFullYear(), now.getFullYear() - 1];
+  // 2024년과 2025년 데이터를 명시적으로 포함
+  const years = [2025, 2024];
   const results: { date: number; revenue: number }[] = [];
 
   for (const year of years) {
-    const q1 = getRevenueFromJson(stockCode, year, "Q1");
-    const q2 = getRevenueFromJson(stockCode, year, "Q2");
-    const q3 = getRevenueFromJson(stockCode, year, "Q3");
-    const q4 = getRevenueFromJson(stockCode, year, "Q4");
+    const q1 = getOperatingIncomeFromJson(stockCode, year, "Q1");
+    const q2 = getOperatingIncomeFromJson(stockCode, year, "Q2");
+    const q3 = getOperatingIncomeFromJson(stockCode, year, "Q3");
+    const q4 = getOperatingIncomeFromJson(stockCode, year, "Q4");
 
     const toDate = (month: number, day: number) =>
       Math.floor(Date.UTC(year, month - 1, day) / 1000);
 
-    // 매출이 0보다 큰 경우만 추가 (0은 아직 집계되지 않은 분기로 판단)
-    if (q1 && q1 > 0) results.push({ date: toDate(3, 31), revenue: q1 / 100000000 });
-    if (q2 && q2 > 0) results.push({ date: toDate(6, 30), revenue: q2 / 100000000 });
-    if (q3 && q3 > 0) results.push({ date: toDate(9, 30), revenue: q3 / 100000000 });
-    if (q4 && q4 > 0) results.push({ date: toDate(12, 31), revenue: q4 / 100000000 });
+    // 영업이익은 음수일 수 있으므로 null이 아닌 경우만 추가
+    if (q1 !== null && q1 !== undefined) results.push({ date: toDate(3, 31), revenue: q1 / 100000000 });
+    if (q2 !== null && q2 !== undefined) results.push({ date: toDate(6, 30), revenue: q2 / 100000000 });
+    if (q3 !== null && q3 !== undefined) results.push({ date: toDate(9, 30), revenue: q3 / 100000000 });
+    if (q4 !== null && q4 !== undefined) results.push({ date: toDate(12, 31), revenue: q4 / 100000000 });
   }
 
   if (results.length > 0) {
     cache.set(cacheKey, { expiresAt: getNextExpiry(), data: results });
   }
 
-  // 매출이 0보다 큰 데이터만 반환 (집계되지 않은 분기 제외)
+  // 영업이익은 음수일 수 있으므로 null이 아닌 데이터만 반환
   return results
-    .filter((item) => item.date && item.revenue > 0)
+    .filter((item) => item.date && item.revenue !== null && item.revenue !== undefined)
     .sort((a, b) => b.date - a.date)
-    .slice(0, 4);
+    .slice(0, 8); // 24년, 25년 각 4분기 = 최대 8개
 }
 
 function getChartPeriod1(range: "3mo" | "1y" | "10y") {
@@ -340,8 +363,6 @@ async function fetchRecentChart(ticker: string) {
 async function callGemini(
   params: {
     companyName: string;
-    qoq: number;
-    yoy: number;
     news: NewsItem[];
     chartData: any[];
   },
@@ -356,8 +377,16 @@ async function callGemini(
 아래 정보를 기반으로 JSON만 출력해줘.
 
 회사: ${params.companyName}
-전분기 매출 변화율: ${params.qoq.toFixed(3)}
-전년 대비 매출 변화율: ${params.yoy.toFixed(3)}
+
+⚠️ 매우 중요: 실적 데이터는 제공되지 않았다. 위 회사의 최근 분기별 실적(영업이익, 매출, 전분기 대비 변화율, 전년 대비 변화율 등)을 반드시 직접 조사해야 한다. 
+
+금지 사항:
+- "제공된 정보에 따르면", "제공된 데이터", "제공된 자료" 같은 표현 절대 금지
+- 실적 변화율을 0.000으로 표시하거나 "제공된 정보"를 언급하는 것 금지
+
+필수 사항:
+- 자신이 직접 조사한 최신 실적 정보를 명시적으로 언급 (예: "2025년 3분기 영업이익은 XX억원으로 전분기 대비 YY% 증가/감소")
+- 실적을 직접 조사하지 않으면 분석이 불가능하므로 반드시 조사해야 함
 
 최근 뉴스:
 ${
@@ -379,7 +408,7 @@ ${
 }
 
 분석 요청:
-1. 매출 흐름과 뉴스 감성 요약 (summary, narrative)
+1. 회사의 최근 실적(영업이익, 매출, 전분기 대비 변화율, 전년 대비 변화율 등)을 반드시 직접 조사하여 분석하고, 뉴스 감성을 종합한 요약 (summary, narrative). "제공된 정보"라는 표현을 절대 사용하지 말고, 자신이 조사한 실적 데이터를 명시적으로 언급해줘.
 2. 기술적 분석: 위 제공된 '최근 주가 데이터(OHLC)'를 바탕으로 마지막 캔들의 모양(망치형, 도지형 등)을 반드시 포함하고, 최근 차트 패턴(W 바닥, 상승 다이버전스, 역헤드앤숄더, 엘리어트 파동 단계 등)을 간단히 언급. technicalAnalysis는 2~3줄로 짧게 작성하고 줄바꿈(\\n)을 넣어라. 데이터가 없다면 그 사유를 간단히 1줄로 작성.
 3. 장점(pros)과 단점(cons) 각각 3개씩
 4. 종합 감성(sentiment) 및 점수(sentimentScore) 0~1
@@ -476,10 +505,10 @@ export async function getFullReport(rawSymbol: string) {
   const expiry = getNextExpiry();
   const newsExpiry = Date.now() + 5 * 60 * 1000; // 5분 캐시
 
-  // 1. 매출/가격 데이터(차트 포함) 가져오기 (캐시 우선)
+  // 1. 영업이익/가격 데이터(차트 포함) 가져오기 (캐시 우선)
   let marketData = cache.get(revenueCacheKey)?.data;
   if (!marketData || cache.get(revenueCacheKey)!.expiresAt < Date.now()) {
-    console.log(`[Market Data] Fetching fresh chart/revenue for ${ticker}...`);
+    console.log(`[Market Data] Fetching fresh chart/operating income for ${ticker}...`);
     const [revenues, chartData, quote] = (await Promise.all([
       fetchQuarterlyRevenue(ticker, companyName),
       withTimeout(fetchRecentChart(ticker), 2000, []),
@@ -536,8 +565,8 @@ export async function getFullReport(rawSymbol: string) {
   const { revenues, chartData, price } = marketData;
   const news = newsData;
 
-  // 유효한 매출 데이터만 필터링 (0보다 큰 값만)
-  const validRevenues = revenues.filter((r: { date: number; revenue: number }) => r.revenue > 0);
+  // 유효한 영업이익 데이터만 필터링 (0은 제외, 음수는 포함)
+  const validRevenues = revenues.filter((r: { date: number; revenue: number }) => r.revenue !== null && r.revenue !== undefined && r.revenue !== 0);
   const latest = validRevenues[0]?.revenue ?? 0;
   const prev = validRevenues[1]?.revenue ?? 0;
   const yearAgo = validRevenues.find((r: { date: number; revenue: number }) => {
@@ -570,8 +599,6 @@ export async function getFullReport(rawSymbol: string) {
         console.log(`[AI Attempt] Trying ${modelName} for ${companyName}...`);
         aiReport = await callGemini({
           companyName,
-          qoq,
-          yoy,
           news,
           chartData,
         }, modelName, 1, 6000);
@@ -692,8 +719,8 @@ export async function getRevenueReport(rawSymbol: string) {
   const revenues = marketData?.revenues ?? [];
   const price = marketData?.price ?? null;
   
-  // 유효한 매출 데이터만 필터링 (0보다 큰 값만) - 리포트 표시용
-  const validRevenues = revenues.filter((r: { date: number; revenue: number }) => r.revenue > 0);
+  // 유효한 영업이익 데이터만 필터링 (0은 제외, 음수는 포함) - 리포트 표시용
+  const validRevenues = revenues.filter((r: { date: number; revenue: number }) => r.revenue !== null && r.revenue !== undefined && r.revenue !== 0);
   const revenueSeries = buildRevenueSeries(validRevenues);
   const annualRevenue = buildAnnualRevenue(validRevenues);
 
@@ -794,8 +821,8 @@ export async function getAiReport(rawSymbol: string) {
   const revenues = marketData?.revenues ?? [];
   let chartData = marketData?.chartData ?? [];
   
-  // 유효한 매출 데이터만 필터링 (0보다 큰 값만)
-  const validRevenues = revenues.filter((r: { date: number; revenue: number }) => r.revenue > 0);
+  // 유효한 영업이익 데이터만 필터링 (0은 제외, 음수는 포함)
+  const validRevenues = revenues.filter((r: { date: number; revenue: number }) => r.revenue !== null && r.revenue !== undefined && r.revenue !== 0);
   const latest = validRevenues[0]?.revenue ?? 0;
   const prev = validRevenues[1]?.revenue ?? 0;
   const yearAgo = validRevenues.find((r: { date: number; revenue: number }) => {
@@ -830,7 +857,7 @@ export async function getAiReport(rawSymbol: string) {
     for (const modelName of fallbackModels) {
       try {
         aiReport = await callGemini(
-          { companyName, qoq, yoy, news: newsData, chartData },
+          { companyName, news: newsData, chartData },
           modelName,
           1,
           15000
