@@ -814,25 +814,12 @@ export async function getAiReport(rawSymbol: string) {
   const revenueCacheKey = `revenue-data:${ticker}`;
   const newsCacheKey = `news-data:${ticker}`;
   const aiCacheKey = `ai-report:${ticker}`;
+  const aiInflightKey = `ai-inflight:${ticker}`;
   const expiry = getNextExpiry();
 
   const marketData = cache.get(revenueCacheKey)?.data;
   const newsData = cache.get(newsCacheKey)?.data ?? [];
-  const revenues = marketData?.revenues ?? [];
   let chartData = marketData?.chartData ?? [];
-  
-  // 유효한 영업이익 데이터만 필터링 (0은 제외, 음수는 포함)
-  const validRevenues = revenues.filter((r: { date: number; revenue: number }) => r.revenue !== null && r.revenue !== undefined && r.revenue !== 0);
-  const latest = validRevenues[0]?.revenue ?? 0;
-  const prev = validRevenues[1]?.revenue ?? 0;
-  const yearAgo = validRevenues.find((r: { date: number; revenue: number }) => {
-    const date = new Date(r.date * 1000);
-    const latestDate = new Date(validRevenues[0]?.date * 1000);
-    return date.getUTCFullYear() === latestDate.getUTCFullYear() - 1 && 
-           date.getUTCMonth() === latestDate.getUTCMonth();
-  })?.revenue ?? 0;
-  const qoq = computeChange(latest, prev);
-  const yoy = computeChange(latest, yearAgo);
 
   if (!chartData.length) {
     chartData = await withTimeout(fetchRecentChart(ticker), 1500, []);
@@ -848,31 +835,58 @@ export async function getAiReport(rawSymbol: string) {
   let errorReason: string | null = null;
   const aiCacheEntry = cache.get(aiCacheKey);
   if (!aiReport || aiCacheEntry!.expiresAt < Date.now()) {
-    const fallbackModels = [
-      "gemini-2.5-flash",
-      "gemini-2.5-flash-light",
-      "gemini-3-flash-preview",
-      "gemini-3-flash",
-    ];
-    for (const modelName of fallbackModels) {
-      try {
-        aiReport = await callGemini(
-          { companyName, news: newsData, chartData },
-          modelName,
-          1,
-          15000
-        );
-        if (aiReport) {
-          cache.set(aiCacheKey, { expiresAt: expiry, data: aiReport });
-          errorReason = null;
+    const runAiGeneration = async (): Promise<{
+      aiReport: OpenAIReport | null;
+      errorReason: string | null;
+    }> => {
+      let generated: OpenAIReport | null = null;
+      let generationError: string | null = null;
+      const fallbackModels = [
+        "gemini-2.5-flash",
+        "gemini-2.5-flash-lite",
+      ];
+      for (const modelName of fallbackModels) {
+        try {
+          generated = await callGemini(
+            { companyName, news: newsData, chartData },
+            modelName,
+            0,
+            10000
+          );
+          if (generated) {
+            cache.set(aiCacheKey, { expiresAt: expiry, data: generated });
+            generationError = null;
+            break;
+          }
+        } catch (e: any) {
+          generationError = e.message;
+          if (e.message.includes("timeout")) break;
+          if (e.message.includes("429") || e.message.includes("404")) continue;
           break;
         }
-      } catch (e: any) {
-        errorReason = e.message;
-        if (e.message.includes("timeout")) break;
-        if (e.message.includes("429") || e.message.includes("404")) continue;
-        break;
       }
+      return { aiReport: generated, errorReason: generationError };
+    };
+
+    const existingInflight = cache.get(aiInflightKey)?.data as
+      | Promise<{ aiReport: OpenAIReport | null; errorReason: string | null }>
+      | undefined;
+
+    if (existingInflight) {
+      const result = await existingInflight;
+      aiReport = result.aiReport;
+      errorReason = result.errorReason;
+    } else {
+      const inflightPromise = runAiGeneration().finally(() => {
+        cache.delete(aiInflightKey);
+      });
+      cache.set(aiInflightKey, {
+        expiresAt: Date.now() + 20_000,
+        data: inflightPromise,
+      });
+      const result = await inflightPromise;
+      aiReport = result.aiReport;
+      errorReason = result.errorReason;
     }
   }
 

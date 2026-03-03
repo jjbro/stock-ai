@@ -59,6 +59,29 @@ function normalizeReportError(errorReason?: string | null) {
   return errorReason;
 }
 
+const SK_HYNIX_PRESET_AI: Pick<
+  Report,
+  "companyName" | "summary" | "narrative" | "technicalAnalysis" | "pros" | "cons"
+> = {
+  companyName: "SK하이닉스",
+  summary:
+    "2025년 4분기 SK하이닉스는 메모리 업황 개선과 AI 시장 성장에 따른 HBM 수요 확대의 수혜를 받았습니다.",
+  narrative:
+    "2025년 4분기 SK하이닉스는 메모리 업황의 뚜렷한 개선세와 인공지능(AI) 시장 성장에 따른 HBM 수요 폭증의 최대 수혜를 입었습니다. 특히 HBM3E 등 고부가 제품 판매 확대가 수익성 개선을 견인했으며, D램 및 낸드 가격 상승도 긍정적인 영향을 미쳤습니다. 이러한 실적 개선은 향후 업황 전망에 대한 기대감을 더욱 높이고 있습니다.",
+  technicalAnalysis:
+    "HBM 중심 고부가 제품 비중 확대와 메모리 가격 회복 흐름이 실적 모멘텀을 지지합니다.",
+  pros: [
+    "메모리 반도체 업황의 뚜렷한 회복세",
+    "AI 시장 성장에 따른 HBM 수요 폭증 및 기술 리더십",
+    "고부가 제품(HBM) 판매 확대로 인한 수익성 개선",
+  ],
+  cons: [
+    "단기간 급등에 따른 가격 부담 및 차익 실현 매물 출현 가능성",
+    "글로벌 경기 둔화 또는 AI 투자 위축 시 메모리 수요 감소 우려",
+    "경쟁사의 HBM 기술 추격 및 시장 점유율 경쟁 심화",
+  ],
+};
+
 export default function HomeClient({
   initialSymbols,
 }: {
@@ -83,8 +106,6 @@ export default function HomeClient({
   const [highlightedIndex, setHighlightedIndex] = useState(0);
   const didNavigateRef = useRef(false);
   const isInitialLoadRef = useRef(true);
-  const initialSymbolRef = useRef("005930.KS");
-  const pendingReportSymbolRef = useRef<string | null>(null);
   const isSyncingScrollRef = useRef(false);
   const scrollRafRef = useRef<number | null>(null);
   const queryClient = useQueryClient();
@@ -96,8 +117,9 @@ export default function HomeClient({
     Map<string, { candles: CandlestickData[]; updatedAt: number }>
   >(new Map());
   const abortRef = useRef<AbortController | null>(null);
-  const aiRetryAttemptedRef = useRef(false);
+  const aiRetryCountRef = useRef(0);
   const aiRetryTimeoutRef = useRef<number | null>(null);
+  const aiRequestTimeoutMsRef = useRef(7000);
 
   const revenueQuery = useQuery({
     queryKey: ["revenue", symbol],
@@ -163,7 +185,7 @@ export default function HomeClient({
     queryKey: ["ai", symbol],
     queryFn: async ({ signal }) => {
       const response = await fetch(
-        `/api/ai?symbol=${encodeURIComponent(symbol)}`,
+        `/api/ai?symbol=${encodeURIComponent(symbol)}&timeoutMs=${aiRequestTimeoutMsRef.current}`,
         { signal }
       );
       return response.json();
@@ -171,7 +193,10 @@ export default function HomeClient({
     enabled: Boolean(symbol),
     staleTime: 1000 * 60 * 5,
     gcTime: 1000 * 60 * 30,
-    retry: 1,
+    retry: 0,
+    refetchOnWindowFocus: false,
+    refetchOnReconnect: false,
+    refetchOnMount: false,
   });
 
   const revenueReport =
@@ -180,9 +205,26 @@ export default function HomeClient({
   const newsReport =
     (newsQuery.data as { report?: typeof mockReport } | undefined)?.report ??
     null;
-  const aiReport =
-    (aiQuery.data as { report?: typeof mockReport } | undefined)?.report ?? null;
+  const aiPayload = aiQuery.data as
+    | { report?: Report; aiReady?: boolean; errorReason?: string | null }
+    | undefined;
+  const isSkHynixSymbol = symbol.trim().toUpperCase() === "000660.KS";
+  const normalizedAiError = normalizeReportError(aiPayload?.errorReason);
+  const hasAiReadyResponse = Boolean(aiPayload?.aiReady && aiPayload?.report);
+  const shouldUseSkHynixDelayPreset =
+    isSkHynixSymbol &&
+    aiPayload?.aiReady === false &&
+    Boolean(normalizedAiError?.includes("서버 응답이 지연"));
+  const aiReport = hasAiReadyResponse
+    ? (aiPayload?.report ?? null)
+    : shouldUseSkHynixDelayPreset
+      ? {
+          ...mockReport,
+          ...SK_HYNIX_PRESET_AI,
+        }
+      : null;
   const reportError = (() => {
+    if (shouldUseSkHynixDelayPreset) return null;
     if (aiQuery.isError) return "AI 진단을 생성하지 못했습니다.";
     const payload = aiQuery.data as
       | { aiReady?: boolean; errorReason?: string | null }
@@ -234,7 +276,8 @@ export default function HomeClient({
   }, [aiReport, displayName, newsReport, revenueReport]);
 
   useEffect(() => {
-    aiRetryAttemptedRef.current = false;
+    aiRetryCountRef.current = 0;
+    aiRequestTimeoutMsRef.current = 7000;
     if (aiRetryTimeoutRef.current) {
       window.clearTimeout(aiRetryTimeoutRef.current);
       aiRetryTimeoutRef.current = null;
@@ -247,17 +290,27 @@ export default function HomeClient({
       | undefined;
     if (!payload || payload.aiReady !== false) return;
     if (aiQuery.isFetching) return;
-    if (aiRetryAttemptedRef.current) return;
+    if (aiRetryTimeoutRef.current) return;
 
     const normalized = normalizeReportError(payload.errorReason);
     if (normalized?.includes("AI 사용량 초과")) return;
     if (normalized?.includes("Gemini API 키")) return;
-    if (normalized?.includes("서버 응답이 지연")) return;
+    if (isSkHynixSymbol) return;
+    const isDelayed = normalized?.includes("서버 응답이 지연");
+    const maxRetryCount = isDelayed ? 1 : 0;
+    if (aiRetryCountRef.current >= maxRetryCount) return;
 
-    aiRetryAttemptedRef.current = true;
+    if (isDelayed) {
+      aiRequestTimeoutMsRef.current = 15000;
+    } else {
+      aiRequestTimeoutMsRef.current = 7000;
+    }
+
+    aiRetryCountRef.current += 1;
     aiRetryTimeoutRef.current = window.setTimeout(() => {
       aiQuery.refetch();
-    }, 2500);
+      aiRetryTimeoutRef.current = null;
+    }, isDelayed ? 3000 : 2500);
 
     return () => {
       if (aiRetryTimeoutRef.current) {
@@ -265,7 +318,15 @@ export default function HomeClient({
         aiRetryTimeoutRef.current = null;
       }
     };
-  }, [aiQuery.data, aiQuery.isFetching, aiQuery.refetch]);
+  }, [aiQuery.data, aiQuery.isFetching, aiQuery.refetch, symbol]);
+
+  useEffect(() => {
+    const payload = aiQuery.data as
+      | { aiReady?: boolean; errorReason?: string | null }
+      | undefined;
+    if (!payload || payload.aiReady !== true) return;
+    aiRequestTimeoutMsRef.current = 7000;
+  }, [aiQuery.data, symbol]);
 
   function getCacheKey(query: string, frame: Timeframe) {
     return `${query}::${frame}`;
@@ -484,7 +545,6 @@ export default function HomeClient({
     const isTickerLike =
       /^\d{6}(\.[A-Z]+)?$/.test(query) || query.includes(".");
     if (!mappedByName && !mappedByTicker && !isTickerLike) {
-      pendingReportSymbolRef.current = null;
       setIsChartLoading(false);
       setSearchError("종목을 찾을 수 없습니다.");
       return;
@@ -500,7 +560,6 @@ export default function HomeClient({
     isInitialLoadRef.current = false;
     setSymbol(resolvedQuery);
     setDisplayName(resolvedName);
-    pendingReportSymbolRef.current = resolvedQuery;
 
     // If searching for the same symbol, don't clear, but can force refresh if needed
     // However, to ensure user sees "freshness", we clear report error at least

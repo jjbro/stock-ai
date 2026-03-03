@@ -4,9 +4,28 @@ import { getAiReport } from "@/lib/report-server";
 export async function GET(request: Request) {
   const { searchParams } = new URL(request.url);
   const rawSymbol = searchParams.get("symbol")?.trim() || "하이닉스";
+  const requestedTimeoutMs = Number(searchParams.get("timeoutMs") ?? "");
+  const timeoutMs = Number.isFinite(requestedTimeoutMs)
+    ? Math.min(15000, Math.max(3000, requestedTimeoutMs))
+    : 7000;
 
   try {
-    const result = await getAiReport(rawSymbol);
+    const timeoutPromise = new Promise<null>((resolve) =>
+      setTimeout(() => resolve(null), timeoutMs)
+    );
+    const result = await Promise.race([
+      getAiReport(rawSymbol),
+      timeoutPromise,
+    ]);
+
+    if (!result) {
+      return NextResponse.json({
+        ok: false,
+        aiReady: false,
+        errorReason: "서버 응답이 지연되고 있습니다.",
+      });
+    }
+
     let errorReason = result.errorReason ?? null;
     if (errorReason?.includes("GEMINI_API_KEY")) {
       errorReason = "Gemini API 키가 없습니다.";
